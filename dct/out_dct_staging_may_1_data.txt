@@ -1,0 +1,794 @@
+1              name              |       type        |       make       |          model          |                serial_number                 | cabinet | function 
+
+2 -------------------------------+-------------------+------------------+-------------------------+----------------------------------------------+---------+----------
+
+3  EVDC-UCS-GWY                  |                   | CISCO SYSTEMS    | CISCO 4451-X            | FCH2040VT9                                   | O39     | ADMIN
+
+4  MELLANOX SX6506               |                   | MELLANOX         | SX6506                  | MT1850VV00001                                | V43     | ADMIN
+
+5  EVISILON 37                   | BLADE SERVER      | EMC              | CELERRA NS40-AUXC ISCSI | JACNM194620077                               | V43     | ADMIN
+
+6  EVISILON 37  38  39  40       | BLADE SERVER      | EMC              | ISILON H400             |                                              | V43     | ADMIN
+
+7  2161DS - T39                  | KVM               | DELL             | POWEREDGE 2161DS-2      | C1P0M91                                      | T39     | ADMIN
+
+8  Q39 2161                      | KVM               | DELL             | KVM 2161DS              | CXQT331                                      | Q39     | ADMIN
+
+9  EVDC-O39-FW-1-CI-NODE0        | NETWORK FIREWALL  | JUNIPER NETWORKS | GATEWAY SRX 1500- AC    | DB3616AK3383                                 | O39     | ADMIN
+
+10  EVDC-O39-FW-1-CI-NODE1        | NETWORK FIREWALL  | JUNIPER NETWORKS | GATEWAY SRX 1500- AC    | DB3516AK3312                                 | O39     | ADMIN
+
+11  EVDC-039-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12482231                                  | O39     | ADMIN
+
+12  EVDC-O34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12490016                                  | O34     | ADMIN
+
+13  EVDC-O34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530485                                  | O34     | ADMIN
+
+14  EVDC-O39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050S-64            | JPE12480392                                  | O39     | ADMIN
+
+15  EVDC-P34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE13030298                                  | P34     | ADMIN
+
+16  EVDC-P34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE13030273                                  | P34     | ADMIN
+
+17  EVDC-P39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451152                                  | P39     | ADMIN
+
+18  EVDC-P39-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12480376                                  | P39     | ADMIN
+
+19  EVDC-Q34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530449                                  | Q34     | ADMIN
+
+20  EVDC-Q34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530466                                  | Q34     | ADMIN
+
+21  EVDC-Q39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12431675                                  | Q39     | ADMIN
+
+22  EVDC-Q39-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451277                                  | Q39     | ADMIN
+
+23  EVDC-R34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE13030303                                  | R34     | ADMIN
+
+24  EVDC-R34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530425                                  | R34     | ADMIN
+
+25  EVDC-R39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451241                                  | R39     | ADMIN
+
+26  EVDC-R39-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12421079                                  | R39     | ADMIN
+
+27  EVDC-S34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12490074                                  | S34     | ADMIN
+
+28  EVDC-S34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12431604                                  | S34     | ADMIN
+
+29  EVDC-S39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451158                                  | S39     | ADMIN
+
+30  EVDC-S39-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451285                                  | S39     | ADMIN
+
+31  EVDC-T34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE13030271                                  | T34     | ADMIN
+
+32  EVDC-T34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530489                                  | T34     | ADMIN
+
+33  EVDC-T39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451301                                  | T39     | ADMIN
+
+34  EVDC-T39-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451295                                  | T39     | ADMIN
+
+35  EVDC-T43-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            |                                              | T43     | ADMIN
+
+36  EVDC-T43-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            |                                              | T43     | ADMIN
+
+37  EVDC-U34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530419                                  | U34     | ADMIN
+
+38  EVDC-U34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE13030316                                  | U34     | ADMIN
+
+39  EVDC-U39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451254                                  | U39     | ADMIN
+
+40  EVDC-U39-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12451297                                  | U39     | ADMIN
+
+41  EVDC-V34-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530463                                  | V34     | ADMIN
+
+42  EVDC-V34-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-52            | JPE12530421                                  | V34     | ADMIN
+
+43  EVDC-V39-ESW-1                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12482230                                  | V39     | ADMIN
+
+44  EVDC-V39-ESW-2                | NETWORK SWITCH    | ARISTA NETWORKS  | DCS-7050T-36            | JPE12480389                                  | V39     | ADMIN
+
+45  2020RDG-IDF-Q39-ESW-1-01      | NETWORK SWITCH    | CISCO SYSTEMS    | CATALYST C3750G-24TS-1U |                                              | Q39     | ADMIN
+
+46  2020RDG-IDF-Q39-ESW-1-02      | NETWORK SWITCH    | CISCO SYSTEMS    | CATALYST C3750G-24TS-1U |                                              | Q39     | ADMIN
+
+47  2020RDG-IDF-R39-ESW-1         | NETWORK SWITCH    | CISCO SYSTEMS    | CATALYST C3750G-24TS-1U |                                              | R39     | ADMIN
+
+48  2020RDG-IDF-S39-ESW-1         | NETWORK SWITCH    | CISCO SYSTEMS    | CATALYST C3750G-24TS-1U |                                              | S39     | ADMIN
+
+49  2020RDG-IDF-S39-ESW-2         | NETWORK SWITCH    | CISCO SYSTEMS    | CATALYST C3750G-24TS-1U |                                              | S39     | ADMIN
+
+50  2020RDG-IDF-T39-ESW-1         | NETWORK SWITCH    | CISCO SYSTEMS    | CATALYST C3750G-24TS-1U |                                              | T39     | ADMIN
+
+51  2020RDG-IDF-T39-ESW-2         | NETWORK SWITCH    | CISCO SYSTEMS    | CATALYST C3750G-24TS-1U |                                              | T39     | ADMIN
+
+52  2020RDG-IDF-T34-ESW-2-01      | NETWORK SWITCH    | JUNIPER NETWORKS | SWITCH EX4200-24T 2PS   | UV04551                                      | T34     | ADMIN
+
+53  2020RDG-IDF-W34-ESW-1-01      | NETWORK SWITCH    | JUNIPER NETWORKS | SWITCH EX4200-24T 2PS   |                                              | T34     | ADMIN
+
+54  2020RDG-IDF-W34-ESW-2-01      | NETWORK SWITCH    | JUNIPER NETWORKS | SWITCH EX4200-24T 2PS   |                                              | T34     | ADMIN
+
+55  EVDC-Q34-ESW-3                | NETWORK SWITCH    | JUNIPER NETWORKS | EX4500                  | GX0212014677                                 | Q34     | ADMIN
+
+56  EVDC-Q34-ESW-4                | NETWORK SWITCH    | JUNIPER NETWORKS | EX4500                  | GX0211490986                                 | Q34     | ADMIN
+
+57  EVDC-T43-ESW-3                | NETWORK SWITCH    | JUNIPER NETWORKS | EX4500                  |                                              | T43     | ADMIN
+
+58  EVDC-T43-ESW-4                | NETWORK SWITCH    | JUNIPER NETWORKS | EX4500                  |                                              | T43     | ADMIN
+
+59  EV-UCESX01                    | SERVER            | CISCO SYSTEMS    | USC C240 M4SX           | FCH2040V0T9                                  | O39     | ADMIN
+
+60  EV-UCESX02                    | SERVER            | CISCO SYSTEMS    | USC C240 M4SX           | FCH2040V0CZ                                  | O39     | ADMIN
+
+61  EV-UCESX03                    | SERVER            | CISCO SYSTEMS    | USC C240 M4SX           | FCH2039V4FM                                  | O39     | ADMIN
+
+62  EV-UCESX04                    | SERVER            | CISCO SYSTEMS    | UCS C240 M3             | FCH2117V0H9                                  | O39     | ADMIN
+
+63  EV-UCESX05                    | SERVER            | CISCO SYSTEMS    | UCS C240 M3             | FCH1922V0EU                                  | O39     | ADMIN
+
+64  BACKUP1                       | SERVER            | CODE42           | M1                      | 9L5L382                                      | T39     | ADMIN
+
+65  ALPS.LIBRARY.NORTHWESTERN.EDU | SERVER            | DELL             | R730                    | C1HLT52                                      | R39     | ADMIN
+
+66  ANSEL                         | SERVER            | DELL             | POWEREDGE R610          | 4N2GTK1                                      | Q39     | ADMIN
+
+67  AVALON                        | SERVER            | DELL             | POWEREDGE R620          | 1CT7CZ1                                      | R39     | ADMIN
+
+68  BIGBEND                       | SERVER            | DELL             | POWEREDGE R620          | F2HXHX1                                      | S34     | ADMIN
+
+69  BRYCE                         | SERVER            | DELL             | POWEREDGE R620          | F2HWHX1                                      | O34     | ADMIN
+
+70  COIPROD                       | SERVER            | DELL             | POWEREDGE R730XD        | 236P182                                      | T39     | ADMIN
+
+71  COIPRODDATA                   | SERVER            | DELL             | POWEREDGE R730XD        | 235T182                                      | T39     | ADMIN
+
+72  COITEST                       | SERVER            | DELL             | POWEREDGE R730XD        | 235S183                                      | T39     | ADMIN
+
+73  COITESTDATA                   | SERVER            | DELL             | POWEREDGE R730XD        | 235V182                                      | T39     | ADMIN
+
+74  ERATABLEAU                    | SERVER            | DELL             | POWEREDGE 1750          | 826MKB2                                      | U39     | ADMIN
+
+75  EVADSDC4                      | SERVER            | DELL             | POWEREDGE R630          | DG12182                                      | S34     | ADMIN
+
+76  EVAIRWAVE                     | SERVER            | DELL             | POWEREDGE R720XD        | 2JPN3V1                                      | S39     | ADMIN
+
+77  EVAIRWAVE2.CI                 | SERVER            | DELL             | POWEREDGE R720XD        | BZNN3V1                                      | S39     | ADMIN
+
+78  EVAIRWAVE3.CI                 | SERVER            | DELL             | POWEREDGE R730XD        | 5XQ3V52                                      | S39     | ADMIN
+
+79  EVARCR11                      | SERVER            | DELL             | POWEREDGE R640          | 6ZVSN23                                      | S34     | ADMIN
+
+80  EVARCR12                      | SERVER            | DELL             | POWEREDGE R640          | 6ZWRN23                                      | S34     | ADMIN
+
+81  EVARCR13                      | SERVER            | DELL             | POWEREDGE R640          | 6ZWQN23                                      | S34     | ADMIN
+
+82  EVARCR14                      | SERVER            | DELL             | POWEREDGE R640          | 6ZTRN23                                      | S34     | ADMIN
+
+83  EVARCR15                      | SERVER            | DELL             | POWEREDGE R640          | 6ZSQN23                                      | S34     | ADMIN
+
+84  EVARCR16                      | SERVER            | DELL             | POWEREDGE R640          | 6ZRQN23                                      | S34     | ADMIN
+
+85  EVCSPDPM01                    | SERVER            | DELL             | POWEREDGE R710          | 53NGXQ1                                      | P34     | ADMIN
+
+86  EVCSPDPM02                    | SERVER            | DELL             | POWEREDGE R710          | 53NJXQ1                                      | T34     | ADMIN
+
+87  EVCSPDPM03                    | SERVER            | DELL             | POWEREDGE R720          | 5G79ZV1                                      | P34     | ADMIN
+
+88  EVCSPMBX01                    | SERVER            | DELL             | POWEREDGE R720          | 3YQTGX1                                      | R34     | ADMIN
+
+89  EVCSPMBX02                    | SERVER            | DELL             | POWEREDGE R720          | 3YQSGX1                                      | R34     | ADMIN
+
+90  EVCSPMBX03                    | SERVER            | DELL             | POWEREDGE R720          | 3YPVGX1                                      | R34     | ADMIN
+
+91  EVCSPMBX04                    | SERVER            | DELL             | POWEREDGE R720          | DRW48Y1                                      | R34     | ADMIN
+
+92  EVCSPMBX05                    | SERVER            | DELL             | POWEREDGE R720          | 4CPJV12                                      | P34     | ADMIN
+
+93  EVCSPMBX06                    | SERVER            | DELL             | POWEREDGE R720          | 4CPKV12                                      | P34     | ADMIN
+
+94  EVCSPSFAST1                   | SERVER            | DELL             | POWEREDGE R720XD        | 4FWC5X1                                      | O34     | ADMIN
+
+95  EVCSPSFAST2                   | SERVER            | DELL             | POWEREDGE R720XD        | 3FWC5X1                                      | O34     | ADMIN
+
+96  EVCSPSSQL1                    | SERVER            | DELL             | POWEREDGE R710          | F1BFJS1                                      | U34     | ADMIN
+
+97  EVCSPSSQL2                    | SERVER            | DELL             | POWEREDGE R710          | F1BCJS1                                      | R34     | ADMIN
+
+98  EVDSPDPM04                    | SERVER            | DELL             | POWEREDGE R710          | JHPMMN1                                      | T34     | ADMIN
+
+99  EVESX15                       | SERVER            | DELL             | POWEREDGE R620          | 9SBJDX1                                      | R39     | ADMIN
+
+100  EVESX16                       | SERVER            | DELL             | POWEREDGE R620          | 9S9JDX1                                      | R39     | ADMIN
+
+101  EVESX17                       | SERVER            | DELL             | POWEREDGE R620          | 9S8JDX1                                      | S39     | ADMIN
+
+102  EVESX18_CI                    | SERVER            | DELL             | POWEREDGE R620          | 9S8HDX1                                      | S39     | ADMIN
+
+103  EVESX41                       | SERVER            | DELL             | POWEREDGE R620          | 2KXKV12                                      | O34     | ADMIN
+
+104  EVESX43                       | SERVER            | DELL             | POWEREDGE R620          | 2KWMV12                                      | O34     | ADMIN
+
+105  EVESX44                       | SERVER            | DELL             | POWEREDGE R620          | 2KXJV12                                      | R39     | ADMIN
+
+106  EVESX57                       | SERVER            | DELL             | POWEREDGE R620          | CZ7NW12                                      | O34     | ADMIN
+
+107  EVESX58                       | SERVER            | DELL             | POWEREDGE R620          | CZ8PW12                                      | O34     | ADMIN
+
+108  EVESX59                       | SERVER            | DELL             | POWEREDGE R620          | CZ8NW12                                      | R39     | ADMIN
+
+109  EVESX60                       | SERVER            | DELL             | POWEREDGE R620          | CZ7LW12                                      | P39     | ADMIN
+
+110  EVESX61                       | SERVER            | DELL             | POWEREDGE R620          | CZ7MW12                                      | P39     | ADMIN
+
+111  EVESX70                       | SERVER            | DELL             | POWEREDGE R630          | 7YZVC42                                      | V34     | ADMIN
+
+112  EVESX71                       | SERVER            | DELL             | POWEREDGE R630          | 95FZC42                                      | Q39     | ADMIN
+
+113  EVESX72                       | SERVER            | DELL             | POWEREDGE R630          | 7Z02D42                                      | Q39     | ADMIN
+
+114  EVESX73                       | SERVER            | DELL             | POWEREDGE R630          | 7YZYC42                                      | O34     | ADMIN
+
+115  EVESX74                       | SERVER            | DELL             | POWEREDGE R630          | CQ60V52                                      | Q34     | ADMIN
+
+116  EVESX75                       | SERVER            | DELL             | POWEREDGE R630          | CQ61V52                                      | Q34     | ADMIN
+
+117  EVESX76                       | SERVER            | DELL             | POWEREDGE R630          | CQ5VT52                                      | Q34     | ADMIN
+
+118  EVESX77                       | SERVER            | DELL             | POWEREDGE R630          | CQ5YT52                                      | S39     | ADMIN
+
+119  EVESX78                       | SERVER            | DELL             | POWEREDGE R630          | CQ6VT52                                      | S39     | ADMIN
+
+120  EVESX79                       | SERVER            | DELL             | POWEREDGE R630          | CQ5ZT52                                      | S39     | ADMIN
+
+121  EVESX80                       | SERVER            | DELL             | POWEREDGE R630          | CQ5XT52                                      | R39     | ADMIN
+
+122  EVESX81                       | SERVER            | DELL             | POWEREDGE R630          | CQ5WT52                                      | R39     | ADMIN
+
+123  EVESX82                       | SERVER            | DELL             | POWEREDGE R630          | HHXJHB2                                      | T34     | ADMIN
+
+124  EVESX83                       | SERVER            | DELL             | POWEREDGE R630          | HHXWHB2                                      | T34     | ADMIN
+
+125  EVESX84                       | SERVER            | DELL             | POWEREDGE R630          | HHXGHB2                                      | T34     | ADMIN
+
+126  EVESX85                       | SERVER            | DELL             | POWEREDGE R630          | HHXKHB2                                      | T34     | ADMIN
+
+127  EVESX86                       | SERVER            | DELL             | POWEREDGE R630          | HHXXHB2                                      | T34     | ADMIN
+
+128  EVESX87                       | SERVER            | DELL             | POWEREDGE R630          | HHXLHB2                                      | T34     | ADMIN
+
+129  EVESXC01N01                   | SERVER            | DELL             | POWEREDGE R620          | HLQCJH2                                      | Q39     | ADMIN
+
+130  EVESXC01N02                   | SERVER            | DELL             | POWEREDGE R620          | HLQXHH2                                      | Q39     | ADMIN
+
+131  EVESXC01N03                   | SERVER            | DELL             | POWEREDGE R620          | HLR0JH2                                      | Q39     | ADMIN
+
+132  EVESXC01N04                   | SERVER            | DELL             | POWEREDGE R620          | HLQBJH2                                      | Q39     | ADMIN
+
+133  EVESXC01N05                   | SERVER            | DELL             | POWEREDGE R620          | HLQYHH2                                      | T39     | ADMIN
+
+134  EVESXC01N06                   | SERVER            | DELL             | POWEREDGE R620          | HLQWHH2                                      | T39     | ADMIN
+
+135  EVESXC01N07                   | SERVER            | DELL             | POWEREDGE R620          | HLQZHH2                                      | T39     | ADMIN
+
+136  EVESXC01N08                   | SERVER            | DELL             | POWEREDGE R620          | HLQDJH2                                      | T39     | ADMIN
+
+137  EVESXC02N01-U39               | SERVER            | DELL             | POWEREDGE R640          | 5Y0XQP2                                      | U39     | ADMIN
+
+138  EVESXC02N02-U39               | SERVER            | DELL             | POWEREDGE R640          | 5Y0WQP2                                      | U39     | ADMIN
+
+139  EVESXC0307N-P39               | SERVER            | DELL             | POWEREDGE R640          | 3CP9H13                                      | P39     | ADMIN
+
+140  EVESXC03N01-V34               | SERVER            | DELL             | POWEREDGE R640          | 38W4H13                                      | V34     | ADMIN
+
+141  EVESXC03N02-V34               | SERVER            | DELL             | POWEREDGE R640          | 38V9H13                                      | V34     | ADMIN
+
+142  EVESXC03N03-V34               | SERVER            | DELL             | POWEREDGE R640          | 38W3H13                                      | V34     | ADMIN
+
+143  EVESXC03N04-P39               | SERVER            | DELL             | POWEREDGE R640          | 3CQ4H13                                      | P39     | ADMIN
+
+144  EVESXC03N05-P39               | SERVER            | DELL             | POWEREDGE R640          | 2CFYG13                                      | P39     | ADMIN
+
+145  EVESXC03N06-P39               | SERVER            | DELL             | POWEREDGE R640          | 3CQ6H13                                      | P39     | ADMIN
+
+146  EVESXC04N01-V34               | SERVER            | DELL             | POWEREDGE R640          | 3CQ8H13                                      | V34     | ADMIN
+
+147  EVESXC04N02-V34               | SERVER            | DELL             | POWEREDGE R640          | 3CQ9H13                                      | V34     | ADMIN
+
+148  EVESXC04N03-V34               | SERVER            | DELL             | POWEREDGE R640          | 3CQ7H13                                      | V34     | ADMIN
+
+149  EVESXC04N04-V34               | SERVER            | DELL             | POWEREDGE R640          | 3CQ3H13                                      | V34     | ADMIN
+
+150  EVESXC04N05-Q34               | SERVER            | DELL             | POWEREDGE R640          | 3CR3H13                                      | Q34     | ADMIN
+
+151  EVESXC04N06-Q34               | SERVER            | DELL             | POWEREDGE R640          | 3CP8H13                                      | Q34     | ADMIN
+
+152  EVESXC04N07-Q34               | SERVER            | DELL             | POWEREDGE R640          | 3CQ5H13                                      | Q34     | ADMIN
+
+153  EVESXCLOUD31                  | SERVER            | DELL             | POWEREDGE R630          | H17HR52                                      | Q34     | ADMIN
+
+154  EVESXCLOUD32                  | SERVER            | DELL             | POWEREDGE R630          | H17JR52                                      | Q34     | ADMIN
+
+155  EVESXCLOUD33                  | SERVER            | DELL             | POWEREDGE R630          | H17KR52                                      | Q34     | ADMIN
+
+156  EVESXCLOUD34                  | SERVER            | DELL             | POWEREDGE R630          | HHPHHB2                                      | Q34     | ADMIN
+
+157  EVESXCLOUD35                  | SERVER            | DELL             | POWEREDGE R630          | HHPJHB2                                      | Q34     | ADMIN
+
+158  EVESXCLOUD36                  | SERVER            | DELL             | POWEREDGE R630          | HRK6GK2                                      | U39     | ADMIN
+
+159  EVESXCLOUD37                  | SERVER            | DELL             | POWEREDGE R630          | HRK7GK2                                      | U39     | ADMIN
+
+160  EVESXCLOUD38                  | SERVER            | DELL             | POWEREDGE R630          | 84VVFK2                                      | U39     | ADMIN
+
+161  EVESXCLOUD39                  | SERVER            | DELL             | POWEREDGE R630          | 84VTFK2                                      | U39     | ADMIN
+
+162  EVESXCLOUD40                  | SERVER            | DELL             | POWEREDGE R630          | 84VSFK2                                      | U39     | ADMIN
+
+163  EVESXCLOUD41                  | SERVER            | DELL             | POWEREDGE R630          | 84VWFK2                                      | U39     | ADMIN
+
+164  EVESXCLOUD42                  | SERVER            | DELL             | POWEREDGE R630          | 84VXFK2                                      | U39     | ADMIN
+
+165  EVESXCLOUD43                  | SERVER            | DELL             | POWEREDGE R630          | HHXHHB2                                      | T34     | ADMIN
+
+166  EVESXCLOUD44                  | SERVER            | DELL             | POWEREDGE R630          | HHXVHB2                                      | T34     | ADMIN
+
+167  EVESXCLOUD45                  | SERVER            | DELL             | POWEREDGE R630          | 7Z01D42                                      | Q34     | ADMIN
+
+168  EVESXCLOUD46                  | SERVER            | DELL             | POWEREDGE R630          | 7YZXC42                                      | Q34     | ADMIN
+
+169  EVESXCLOUD47                  | SERVER            | DELL             | POWEREDGE R630          | 7YZ1D42                                      | Q34     | ADMIN
+
+170  EVESXCLOUD48                  | SERVER            | DELL             | POWEREDGE R630          | 7ZS5D42                                      | O34     | ADMIN
+
+171  EVESXCLOUD49                  | SERVER            | DELL             | POWEREDGE R630          | 7YZZC42                                      | V34     | ADMIN
+
+172  EVESXTNSC01N02                | SERVER            | DELL             | POWEREDGE R730XD        | 5XQ4V52                                      | S39     | ADMIN
+
+173  EVESXTNSC01N03                | SERVER            | DELL             | POWEREDGE R730XD        | 5XQ5V52                                      | S39     | ADMIN
+
+174  EVITCSPDC                     | SERVER            | DELL             | POWEREDGE R640          | 12S3HQ2                                      | R39     | ADMIN
+
+175  EVNBMS01                      | SERVER            | DELL             | POWEREDGE R640          | 4GS9HQ2                                      | S34     | ADMIN
+
+176  EVNBMS02                      | SERVER            | DELL             | POWEREDGE R640          | 4GRHHQ2                                      | S34     | ADMIN
+
+177  EVNBMSTR01                    | SERVER            | DELL             | POWEREDGE R640          | 4GSCHQ2                                      | V34     | ADMIN
+
+178  EVPUMHOST                     | SERVER            | DELL             | POWEREDGE R630          | 7N98FB2                                      | R39     | ADMIN
+
+179  EVRACP10                      | SERVER            | DELL             | POWEREDGE R620          | HP7YK02                                      | V34     | ADMIN
+
+180  EVRACP11                      | SERVER            | DELL             | POWEREDGE R640          | 6ZSRN23                                      | P34     | ADMIN
+
+181  EVRACP12                      | SERVER            | DELL             | POWEREDGE R640          | 6ZSSN23                                      | P34     | ADMIN
+
+182  EVRACP13                      | SERVER            | DELL             | POWEREDGE R640          | 6ZRSN23                                      | P34     | ADMIN
+
+183  EVRACP14                      | SERVER            | DELL             | POWEREDGE R640          | 6ZVQN23                                      | P34     | ADMIN
+
+184  EVRACP6                       | SERVER            | DELL             | POWEREDGE R620          | HP6TK02                                      | V34     | ADMIN
+
+185  EVRACP7                       | SERVER            | DELL             | POWEREDGE R620          | HP9TK02                                      | V34     | ADMIN
+
+186  EVRACP8                       | SERVER            | DELL             | POWEREDGE R620          | HP8XK02                                      | V34     | ADMIN
+
+187  EVRACP9                       | SERVER            | DELL             | POWEREDGE R620          | HP6WK02                                      | V34     | ADMIN
+
+188  EVRACR07                      | SERVER            | DELL             | POWEREDGE R620          | D357P22                                      | U34     | ADMIN
+
+189  EVRACR08                      | SERVER            | DELL             | POWEREDGE R620          | D345P22                                      | U34     | ADMIN
+
+190  EVRACR10                      | SERVER            | DELL             | POWEREDGE R620          | D354P22                                      | U34     | ADMIN
+
+191  EVRACR6                       | SERVER            | DELL             | POWEREDGE R620          | D337P22                                      | U34     | ADMIN
+
+192  EVRACR9                       | SERVER            | DELL             | POWEREDGE R620          | D355P22                                      | U34     | ADMIN
+
+193  EVRACT1                       | SERVER            | DELL             | POWEREDGE R620          | HP6SK02                                      | U34     | ADMIN
+
+194  EVRACT10                      | SERVER            | DELL             | POWEREDGE R620          | HP5SK02                                      | U34     | ADMIN
+
+195  EVRACT11                      | SERVER            | DELL             | POWEREDGE R620          | HP5ZK02                                      | U34     | ADMIN
+
+196  EVRACT12                      | SERVER            | DELL             | POWEREDGE R630          | G42GGB2                                      | U34     | ADMIN
+
+197  EVRACT13                      | SERVER            | DELL             | POWEREDGE R630          | G42HGB2                                      | U34     | ADMIN
+
+198  EVRACT141                     | SERVER            | DELL             | POWEREDGE R630          | G42JGB2                                      | U34     | ADMIN
+
+199  EVRACT15                      | SERVER            | DELL             | POWEREDGE R640          | 6ZTSN23                                      | V39     | ADMIN
+
+200  EVRACT16                      | SERVER            | DELL             | POWEREDGE R640          | 6ZVRN23                                      | V39     | ADMIN
+
+201  EVRACT17                      | SERVER            | DELL             | POWEREDGE R640          | 6ZTQN23                                      | V39     | ADMIN
+
+202  EVRACT18                      | SERVER            | DELL             | POWEREDGE R640          | 6ZRRN23                                      | V39     | ADMIN
+
+203  EVRACT19                      | SERVER            | DELL             | POWEREDGE R640          | 6ZQSN23                                      | V39     | ADMIN
+
+204  EVRACT20                      | SERVER            | DELL             | POWEREDGE R640          | 6ZNQN23                                      | V39     | ADMIN
+
+205  EVRACT21                      | SERVER            | DELL             | POWEREDGE R640          | 6ZNSN23                                      | V39     | ADMIN
+
+206  EVRACT22                      | SERVER            | DELL             | POWEREDGE R640          | 6ZQQN23                                      | V39     | ADMIN
+
+207  EVRACT7                       | SERVER            | DELL             | POWEREDGE R620          | HP5WK02                                      | U34     | ADMIN
+
+208  EVRACT8                       | SERVER            | DELL             | POWEREDGE R620          | HP5XK02                                      | U34     | ADMIN
+
+209  EVSPLIDX01                    | SERVER            | DELL             | POWEREDGE R630          | BVQDS52                                      | O34     | ADMIN
+
+210  EVSPLIDX02                    | SERVER            | DELL             | POWEREDGE R630          | BVQCS52                                      | O34     | ADMIN
+
+211  EVSPLIDX03                    | SERVER            | DELL             | POWEREDGE R630          | BVQFS52                                      | O34     | ADMIN
+
+212  EVSPLIDX04                    | SERVER            | DELL             | POWEREDGE R630          | 7DWYPD2                                      | V34     | ADMIN
+
+213  EVSPLIDX05                    | SERVER            | DELL             | POWEREDGE R630          | 7DWZPD2                                      | V34     | ADMIN
+
+214  EVSPLIDX06                    | SERVER            | DELL             | POWEREDGE R640          | HM0CXQ2                                      | S34     | ADMIN
+
+215  EVSPLIDX06-DAS01              | SERVER            | DELL             | POWERVAULT MD1420       | H7R5XQ1                                      | S34     | ADMIN
+
+216  EVSPLIDX06-DAS02              | SERVER            | DELL             | POWERVAULT MD1420       | 92NZCS2                                      | S34     | ADMIN
+
+217  EVSPLIDX07                    | SERVER            | DELL             | POWEREDGE R640          | HM0DXQ2                                      | S34     | ADMIN
+
+218  EVSPLIDX07-DAS01              | SERVER            | DELL             | POWERVAULT MD1420       | HNQ6XQ2                                      | S34     | ADMIN
+
+219  EVSPLIDX07-DAS02              | SERVER            | DELL             | POWERVAULT MD1420       | H7R8XQ2                                      | S34     | ADMIN
+
+220  EVSPLIDX91                    | SERVER            | DELL             | POWEREDGE R620          | 3Z5BH02                                      | U34     | ADMIN
+
+221  EVSPLSES01                    | SERVER            | DELL             | POWEREDGE R640          | 3CV81Q2                                      | V34     | ADMIN
+
+222  EVSPLSRC01                    | SERVER            | DELL             | POWEREDGE R630          | BVQ8S52                                      | O34     | ADMIN
+
+223  EVSPLSRC02                    | SERVER            | DELL             | POWEREDGE R630          | BVPMS52                                      | O34     | ADMIN
+
+224  EVSPLSRCES                    | SERVER            | DELL             | POWEREDGE R630          | 8TQZ482                                      | O34     | ADMIN
+
+225  EVVSRX01                      | SERVER            | DELL             | POWEREDGE R630          | HHNZHB2                                      | P39     | ADMIN
+
+226  EVVSRX02                      | SERVER            | DELL             | POWEREDGE R630          | HHP0JB2                                      | P39     | ADMIN
+
+227  EVVSRX04                      | SERVER            | DELL             | POWEREDGE R740XD        | 4JMHHQ2                                      | S34     | ADMIN
+
+228  EXVSRX03                      | SERVER            | DELL             | POWEREDGE R740XD        | 4JN9HQ2                                      | T34     | ADMIN
+
+229  FFRATM1PRD                    | SERVER            | DELL             | POWEREDGE R620          | 1HFY842                                      | S39     | ADMIN
+
+230  FFRATM1PRD2                   | SERVER            | DELL             | POWEREDGE R640          | JCPPHQ2                                      | S39     | ADMIN
+
+231  NUBIEVAPP07                   | SERVER            | DELL             | POWEREDGE R630          | 4TK3S52                                      | U39     | ADMIN
+
+232  NUBIEVAPP08                   | SERVER            | DELL             | POWEREDGE R630          | 4TK4S52                                      | U39     | ADMIN
+
+233  NUBIEVAPP09                   | SERVER            | DELL             | POWEREDGE R630          | 4TK5S52                                      | U39     | ADMIN
+
+234  NUBIEVAPP12                   | SERVER            | DELL             | POWEREDGE R630          | 82N0CH2                                      | U39     | ADMIN
+
+235  NUFMZENMASTER                 | SERVER            | DELL             | POWEREDGE R710          | 9178VR1                                      | T39     | ADMIN
+
+236  NUFMZENSLAVE                  | SERVER            | DELL             | POWEREDGE R710          | 9179VR1                                      | T39     | ADMIN
+
+237  NUQVMHOST06                   | SERVER            | DELL             | POWEREDGE R720          | CZ3920T4Z3                                   | V39     | ADMIN
+
+238  NUQVMHOST07                   | SERVER            | DELL             | POWEREDGE R720          | CZ3920T4Z5                                   | V39     | ADMIN
+
+239  RISAOPSPRD                    | SERVER            | DELL             | POWEREDGE R730XD        | G4S7HH2                                      | R39     | ADMIN
+
+240  RISAOPSPRDDATE                | SERVER            | DELL             | POWEREDGE R730XD        | G4S5HH2                                      | R39     | ADMIN
+
+241  RISAOPSTST                    | SERVER            | DELL             | POWEREDGE R730XD        | G4S6HH2                                      | R39     | ADMIN
+
+242  RISAOPSTSTDAT                 | SERVER            | DELL             | POWEREDGE R730XD        | G4RBHH2                                      | R39     | ADMIN
+
+243  RISEIRB7APP                   | SERVER            | DELL             | POWEREDGE R720XD        | 175LN22                                      | V39     | ADMIN
+
+244  RISEIRB7APPTEST               | SERVER            | DELL             | POWEREDGE R720XD        | CV4MW12                                      | P39     | ADMIN
+
+245  RISEIRB7DAT                   | SERVER            | DELL             | POWEREDGE R720XD        | 175KN22                                      | V39     | ADMIN
+
+246  RISEIRB7DATTEST               | SERVER            | DELL             | POWEREDGE R720XD        | CV3PW12                                      | P39     | ADMIN
+
+247  VMBKUP01A                     | SERVER            | DELL             | POWEREDGE R630          | 10V0V52                                      | T34     | ADMIN
+
+248  VMBKUP02A                     | SERVER            | DELL             | POWEREDGE R630          | 10TYT52                                      | U34     | ADMIN
+
+249  VMBKUP03A                     | SERVER            | DELL             | POWEREDGE R630          | 10TXT52                                      | U34     | ADMIN
+
+250  VMBKUP04A                     | SERVER            | DELL             | POWEREDGE R630          | 10TZT52                                      | V34     | ADMIN
+
+251  VMBKUP05A                     | SERVER            | DELL             | POWEREDGE R640          | 8TFH333                                      | O34     | ADMIN
+
+252  VMBKUP05A-OLD                 | SERVER            | DELL             | POWEREDGE R630          | 8WYXHK2                                      | T34     | ADMIN
+
+253  VMBKUP06                      | SERVER            | DELL             | POWEREDGE R630          | GF2GR52                                      | Q34     | ADMIN
+
+254  VMBKUP07                      | SERVER            | DELL             | POWEREDGE R630          | 8WYWHK2                                      | U34     | ADMIN
+
+255  ZION                          | SERVER            | DELL             | POWEREDGE R620          | F2JVHX1                                      | Q39     | ADMIN
+
+256  EVCOP1                        | SERVER            | HP               | PROLIANT DL360          | MXQ93704QX                                   | R39     | ADMIN
+
+257  EVCOP2                        | SERVER            | HP               | PROLIANT DL360          | MKQ93704QK                                   | R39     | ADMIN
+
+258  EVCOP3                        | SERVER            | HP               | PROLIANT DL360          | MXQ93704QZ                                   | R39     | ADMIN
+
+259  POLICE VIDEO                  | SERVER            | PELCO            | ENDURA NVR5124-6000     | ACLGRS8                                      | R39     | ADMIN
+
+260  EVESXC02N03-O34               | SERVER APPLIANCES | DELL             | POWEREDGE R640          | J243HQ2                                      | O34     | ADMIN
+
+261  EVESXC02N04-O34               | SERVER APPLIANCES | DELL             | POWEREDGE R640          | J245HQ2                                      | O34     | ADMIN
+
+262  EVESXC02N05-S34               | SERVER APPLIANCES | DELL             | POWEREDGE R640          | J247HQ2                                      | S34     | ADMIN
+
+263  EVESXC02N06-S34               | SERVER APPLIANCES | DELL             | POWEREDGE R640          | J244HQ2                                      | S34     | ADMIN
+
+264  EVESXC02N07-S34               | SERVER APPLIANCES | DELL             | POWEREDGE R640          | J246HQ2                                      | S34     | ADMIN
+
+265  VMBKUP08A                     | SERVER APPLIANCES | DELL             | POWEREDGE R640          | 14HDDW2                                      | S34     | ADMIN
+
+266  VMBKUP09A                     | SERVER APPLIANCES | DELL             | POWEREDGE R640          | 1437DW2                                      | S34     | ADMIN
+
+267  EVISILON01-N6                 | SERVER APPLIANCES | EMC              | ISILON A100             | FC6IS160900021                               | P43     | ADMIN
+
+268  QUALYS-EVANSTON               | SERVER APPLIANCES | QUALYS           | QUALYSGUARD             | 35689 16223                                  | T39     | ADMIN
+
+269  BACKUP3                       | STORAGE           | CODE42           | S2-48                   | 9855182                                      | T39     | ADMIN
+
+270  BACKUP4                       | STORAGE           | CODE42           | S2-48                   | 9875182                                      | T39     | ADMIN
+
+271  BACKUP5                       | STORAGE           | CODE42           | S2-48                   | 9867182                                      | T39     | ADMIN
+
+272  EVCSPDPM03-DAS03A             | STORAGE           | DELL             | POWERVAULT MD1200       | C7KKYV1                                      | P34     | ADMIN
+
+273  EVCSPDPM03-DAS03B             | STORAGE           | DELL             | POWERVAULT MD1200       | C7JMYV1                                      | P34     | ADMIN
+
+274  EVCSPDPM03-DAS03C             | STORAGE           | DELL             | POWERVAULT MD1200       | C7KLYV1                                      | P34     | ADMIN
+
+275  EVCSPMBX01-DAS01A             | STORAGE           | DELL             | POWERVAULT MD1200       | FQH4FX1                                      | R34     | ADMIN
+
+276  EVCSPMBX01-DAS01B             | STORAGE           | DELL             | POWERVAULT MD1200       | FQG5FX1                                      | R34     | ADMIN
+
+277  EVCSPMBX01-DAS01C             | STORAGE           | DELL             | POWERVAULT MD1200       | FQH5FX1                                      | R34     | ADMIN
+
+278  EVCSPMBX02-DAS02A             | STORAGE           | DELL             | POWERVAULT MD1200       | FQF5FX1                                      | R34     | ADMIN
+
+279  EVCSPMBX02-DAS02B             | STORAGE           | DELL             | POWERVAULT MD1200       | 36CWGX1                                      | R34     | ADMIN
+
+280  EVCSPMBX02-DAS02C             | STORAGE           | DELL             | POWERVAULT MD1200       | 36DTGX1                                      | R34     | ADMIN
+
+281  EVCSPMBX03-DAS03A             | STORAGE           | DELL             | POWERVAULT MD1200       | 36CVGX1                                      | R34     | ADMIN
+
+282  EVCSPMBX03-DAS03B             | STORAGE           | DELL             | POWERVAULT MD1200       | 36CTGX1                                      | R34     | ADMIN
+
+283  EVCSPMBX03-DAS03C             | STORAGE           | DELL             | POWERVAULT MD1200       | FQF4FX1                                      | R34     | ADMIN
+
+284  EVCSPMBX04-DAS04A             | STORAGE           | DELL             | POWERVAULT MD1200       | FQF6FX1                                      | R34     | ADMIN
+
+285  EVCSPMBX04-DAS04B             | STORAGE           | DELL             | POWERVAULT MD1200       | FQG4FX1                                      | R34     | ADMIN
+
+286  EVCSPMBX04-DAS04C             | STORAGE           | DELL             | POWERVAULT MD1200       | FQG6FX1                                      | R34     | ADMIN
+
+287  EVCSPMBX05_DAS05A             | STORAGE           | DELL             | POWERVAULT MD1200       | 4BCMV12                                      | P34     | ADMIN
+
+288  EVCSPMBX05_DAS05B             | STORAGE           | DELL             | POWERVAULT MD1200       | 4BCLV12                                      | P34     | ADMIN
+
+289  EVCSPMBX05_DAS05C             | STORAGE           | DELL             | POWERVAULT MD1200       | 4BDKV12                                      | P34     | ADMIN
+
+290  EVCSPMBX06_DAS06A             | STORAGE           | DELL             | POWERVAULT MD1200       | 4BCKV12                                      | P34     | ADMIN
+
+291  EVCSPMBX06_DAS06B             | STORAGE           | DELL             | POWERVAULT MD1200       | 4BDLV12                                      | P34     | ADMIN
+
+292  EVCSPMBX06_DAS06C             | STORAGE           | DELL             | POWERVAULT MD1200       | 4BDMV12                                      | P34     | ADMIN
+
+293  EVDPM-DAS01A                  | STORAGE           | DELL             | POWERVAULT MD1200       | 5MZLXQ1                                      | P34     | ADMIN
+
+294  EVDPM-DAS01B                  | STORAGE           | DELL             | POWERVAULT MD1200       | 5MZQXQ1                                      | P34     | ADMIN
+
+295  EVDPM-DAS01C                  | STORAGE           | DELL             | POWERVAULT MD1220       | 2F0ZMS1                                      | P34     | ADMIN
+
+296  EVDPM-DAS02A                  | STORAGE           | DELL             | POWERVAULT MD1200       | 5MZNXQ1                                      | T34     | ADMIN
+
+297  EVDPM-DAS02B                  | STORAGE           | DELL             | POWERVAULT MD1200       | 5MZPXQ1                                      | T34     | ADMIN
+
+298  EVDPM-DAS02C                  | STORAGE           | DELL             | POWERVAULT MD1220       | 2F10NS1                                      | T34     | ADMIN
+
+299  EVDPM-DAS04A                  | STORAGE           | DELL             | POWERVAULT MD1220       | DJYYLS1                                      | T34     | ADMIN
+
+300  EVDPM-DAS04B                  | STORAGE           | DELL             | POWERVAULT MD1220       | DJZWLS1                                      | T34     | ADMIN
+
+301  EVDPM-DAS04C                  | STORAGE           | DELL             | POWERVAULT MD1220       | 2F0VMS1                                      | T34     | ADMIN
+
+302  EVDPM-DAS04D                  | STORAGE           | DELL             | POWERVAULT MD1220       | DJYXLS1                                      | T34     | ADMIN
+
+303  EVSPLIDX01-DAS01              | STORAGE           | DELL             | POWERVAULT MD1420       | J3D6T52                                      | O34     | ADMIN
+
+304  EVSPLIDX01-DAS02              | STORAGE           | DELL             | POWERVAULT MD1420       | J3DDT52                                      | O34     | ADMIN
+
+305  EVSPLIDX02-DAS01              | STORAGE           | DELL             | POWERVAULT MD1420       | J3D9T52                                      | O34     | ADMIN
+
+306  EVSPLIDX02-DAS02              | STORAGE           | DELL             | POWERVAULT MD1420       | J3DJT52                                      | O34     | ADMIN
+
+307  EVSPLIDX03-DAS01              | STORAGE           | DELL             | POWERVAULT MD1420       | J3D8T52                                      | O34     | ADMIN
+
+308  EVSPLIDX03-DAS02              | STORAGE           | DELL             | POWERVAULT MD1420       | J3DHT52                                      | O34     | ADMIN
+
+309  EVSPLIDX04-DAS01              | STORAGE           | DELL             | POWERVAULT MD1420       | 6CSVPD2                                      | V34     | ADMIN
+
+310  EVSPLIDX04-DAS02              | STORAGE           | DELL             | POWERVAULT MD1420       | 6CT1QD2                                      | V34     | ADMIN
+
+311  EVSPLIDX05-DAS01              | STORAGE           | DELL             | POWERVAULT MD1420       | 6CSWPD2                                      | V34     | ADMIN
+
+312  EVSPLIDX05-DAS02              | STORAGE           | DELL             | POWERVAULT MD1420       | 6CSYPD2                                      | V34     | ADMIN
+
+313  EVSPLUNKDISK                  | STORAGE           | DELL             | POWERVAULT MD1220       | 2QQ9H02                                      | U34     | ADMIN
+
+314  VMBKUP01A-DAS                 | STORAGE           | DELL             | POWERVAULT MD1200       | 1051V52                                      | T34     | ADMIN
+
+315  VMBKUP02A-DAS                 | STORAGE           | DELL             | POWERVAULT MD1200       | 1050V52                                      | U34     | ADMIN
+
+316  VMBKUP03A-DAS                 | STORAGE           | DELL             | POWERVAULT MD1200       | 104ZT52                                      | U34     | ADMIN
+
+317  VMBKUP04A-DAS                 | STORAGE           | DELL             | POWERVAULT MD1200       | 104YT52                                      | V34     | ADMIN
+
+318  VMBKUP05A-DAS-OLD             | STORAGE           | DELL             | MD1400                  | 98GZHK2                                      | T34     | ADMIN
+
+319  VMBKUP05A-DAS01               | STORAGE           | DELL             | POWERVAULT MD1400       | DQYB3333                                     | O34     | ADMIN
+
+320  VMBKUP06-DAS                  | STORAGE           | DELL             | POWERVAULT MD1200       | D3JCR52                                      | Q34     | ADMIN
+
+321  VMBKUP07-DAS                  | STORAGE           | DELL             | MD1400                  | 98H1JK2                                      | U34     | ADMIN
+
+322  VMBKUP08A-DAS01               | STORAGE           | DELL             | MD1400                  | 15V9DW2                                      | S34     | ADMIN
+
+323  VMBKUP09A-DAS01               | STORAGE           | DELL             | MD1400                  | 15VBDW2                                      | S34     | ADMIN
+
+324  EVISILON 19  20  21  22       | STORAGE           | EMC              | ISILON H400             | JWXNM181900260/182800243/181900260/182800243 | V43     | ADMIN
+
+325  EVISILON 23 AND 24            | STORAGE           | EMC              | ISILON H400             | JWXNM184200947/JWXNM184200733                | V43     | ADMIN
+
+326  EVISILON 27 AND 28            | STORAGE           | EMC              | ISILON H400             | JWXNM184200734/JWXNM184200711                | V43     | ADMIN
+
+327  EVISILON 31  32  33  34       | STORAGE           | EMC              | ISILON H400             | JWXNM184900865/184900841/184900903/184900874 | V43     | ADMIN
+
+328  EVISILON 35 AND 36            | STORAGE           | EMC              | ISILON H400             | JWXNM184900865/JWXNM184900841                | V43     | ADMIN
+
+329  EVISILON01-N1                 | STORAGE           | EMC              | ISILON X400             | SN400-201325-0274                            | P43     | ADMIN
+
+330  EVISILON01-N2                 | STORAGE           | EMC              | ISILON X400             | SN400-201325-0275                            | P43     | ADMIN
+
+331  EVISILON01-N3                 | STORAGE           | EMC              | ISILON X400             | SN400-201325-0276                            | P43     | ADMIN
+
+332  EVISILON01-N4                 | STORAGE           | EMC              | ISILON X400             | SN400-301410-0305                            | P43     | ADMIN
+
+333  EVISILON01-N5                 | STORAGE           | EMC              | ISILON X400             | SN400-301610-0046                            | P43     | ADMIN
+
+334  EVISILON02-N1                 | STORAGE           | EMC              | ISILON X400             | SX400-301233-0357                            | Q39     | ADMIN
+
+335  EVISILON02-N2                 | STORAGE           | EMC              | ISILON X400             | SX400-301243-0120                            | Q39     | ADMIN
+
+336  EVISILON02-N3                 | STORAGE           | EMC              | ISILON X400             | SX400-301233-0355                            | Q39     | ADMIN
+
+337  EVISILON02-N4                 | STORAGE           | EMC              | ISILON X400             | SX400-301409-0146                            | Q39     | ADMIN
+
+338  EVISILON03-N1                 | STORAGE           | EMC              | ISILON X400             | SN400-201433-0115                            | T43     | ADMIN
+
+339  EVISILON03-N10                | STORAGE           | EMC              | ISILON X400             | JWXYE164600005                               | U43     | ADMIN
+
+340  EVISILON03-N11                | STORAGE           | EMC              | ISILON X400             | JWXYE164600094                               | U43     | ADMIN
+
+341  EVISILON03-N12                | STORAGE           | EMC              | ISILON X410             | JWXYE172200019                               | U43     | ADMIN
+
+342  EVISILON03-N13                | STORAGE           | EMC              | ISILON X410             | JWXYE172200022                               | U43     | ADMIN
+
+343  EVISILON03-N14                | STORAGE           | EMC              | ISILON X410             | JWXYE172100026                               | U43     | ADMIN
+
+344  EVISILON03-N15                | STORAGE           | EMC              | ISILON X410             | JWXYE172200017                               | U43     | ADMIN
+
+345  EVISILON03-N16                | STORAGE           | EMC              | ISILON X410             | JWXYE172200055                               | U43     | ADMIN
+
+346  EVISILON03-N17                | STORAGE           | EMC              | ISILON X410             | FCNYE181900024                               | U43     | ADMIN
+
+347  EVISILON03-N18                | STORAGE           | EMC              | ISILON X410             | FCNYE181400028                               | V43     | ADMIN
+
+348  EVISILON03-N2                 | STORAGE           | EMC              | ISILON X400             | SN400-201433-0118                            | T43     | ADMIN
+
+349  EVISILON03-N3                 | STORAGE           | EMC              | ISILON X400             | SN400-201433-0117                            | T43     | ADMIN
+
+350  EVISILON03-N4                 | STORAGE           | EMC              | ISILON X400             | SN400-301525-0053                            | T43     | ADMIN
+
+351  EVISILON03-N5                 | STORAGE           | EMC              | ISILON X400             | SN400-301543-0084                            | T43     | ADMIN
+
+352  EVISILON03-N6                 | STORAGE           | EMC              | ISILON X400             | SN400-301546-0166                            | T43     | ADMIN
+
+353  EVISILON03-N7                 | STORAGE           | EMC              | ISILON X400             | SN400-301543-0068                            | T43     | ADMIN
+
+354  EVISILON03-N8                 | STORAGE           | EMC              | ISILON X400             | JAMYE162200157                               | U43     | ADMIN
+
+355  EVISILON03-N9                 | STORAGE           | EMC              | ISILON X400             | JWXYE164600058                               | U43     | ADMIN
+
+356  EV3700-3-ENCL 2               | STORAGE           | IBM              | STORWISE V3700          | 7809049                                      | Q34     | ADMIN
+
+357  EV3700-3-ENCL 3               | STORAGE           | IBM              | STORWISE V3700          | 7809048                                      | Q34     | ADMIN
+
+358  EV3700-3-ENCL 4               | STORAGE           | IBM              | STORWISE V3700          | 7809041                                      | Q34     | ADMIN
+
+359  EV3700-3-ENCL 5               | STORAGE           | IBM              | STORWISE V3700          | 7809035                                      | Q34     | ADMIN
+
+360  EV3700-3MGMT                  | STORAGE           | IBM              | STORWISE V3700          | 7808463                                      | Q34     | ADMIN
+
+361  EV3700-COLLAB-ENCL 2          | STORAGE           | IBM              | STORWISE V3700          | 7872448                                      | R43     | ADMIN
+
+362  EV3700-COLLAB-ENCL 3          | STORAGE           | IBM              | STORWISE V3700          | 7872229                                      | R43     | ADMIN
+
+363  EV3700-COLLAB-ENCL 4          | STORAGE           | IBM              | STORWISE V3700          | 7872445                                      | R43     | ADMIN
+
+364  EV3700-COLLAB-ENCL 5          | STORAGE           | IBM              | STORWISE V3700          | 7875428                                      | R43     | ADMIN
+
+365  EV3700-COLLABMGMT             | STORAGE           | IBM              | STORWISE V3700          | 7865837                                      | R43     | ADMIN
+
+366  EV5030-1/ENCL 2               | STORAGE           | IBM              | STORWISE V5030          | 781E680                                      | Q43     | ADMIN
+
+367  EV5030-1/ENCL 3               | STORAGE           | IBM              | STORWISE V5030          | 781E665                                      | Q43     | ADMIN
+
+368  EV5030-1/ENCL 4               | STORAGE           | IBM              | STORWISE V5030          | 781E632                                      | Q43     | ADMIN
+
+369  EV5030-1/ENCL 6               | STORAGE           | IBM              | STORWISE V5030          | 781E717                                      | Q43     | ADMIN
+
+370  EV5030-1/ENCL 7               | STORAGE           | IBM              | STORWISE V5030          | 781E741                                      | Q43     | ADMIN
+
+371  EV5030-1MGMT                  | STORAGE           | IBM              | STORWISE V5030          | 781E814                                      | Q43     | ADMIN
+
+372  EV5030-1_20                   | STORAGE           | IBM              | STORWISE V5030          | 781E302                                      | Q43     | ADMIN
+
+373  EV5030-2/ENCL 2               | STORAGE           | IBM              | STORWISE V5030          | 781E716                                      | Q43     | ADMIN
+
+374  EV5030-2/ENCL 3               | STORAGE           | IBM              | STORWISE V5030          | 781E684                                      | Q43     | ADMIN
+
+375  EV5030-2/ENCL 4               | STORAGE           | IBM              | STORWISE V5030          | 781E700                                      | Q43     | ADMIN
+
+376  EV5030-2/ENCL 5               | STORAGE           | IBM              | STORWISE V5030          | 781E685                                      | Q43     | ADMIN
+
+377  EV5030-2/ENCL 6               | STORAGE           | IBM              | STORWISE V5030          | 781E707                                      | Q43     | ADMIN
+
+378  EV5030-2MGMT                  | STORAGE           | IBM              | STORWISE V5030          | 781E803                                      | Q43     | ADMIN
+
+379  EV5030-2_10                   | STORAGE           | IBM              | STORWISE V5030          | 781E300                                      | Q43     | ADMIN
+
+380  EV5030-NUCLOUD-1MGMT          | STORAGE           | IBM              | STORWISE V5030          | 781BW72                                      | O43     | ADMIN
+
+381  EV5030-NUCLOUD-ENCL1          | STORAGE           | IBM              | STORWISE V5030          | 781BP53                                      | O43     | ADMIN
+
+382  EV5030-NUCLOUD-ENCL2          | STORAGE           | IBM              | STORWISE V5030          | 781BR46                                      | O43     | ADMIN
+
+383  EV5030-NUCLOUD-ENCL3          | STORAGE           | IBM              | STORWISE V5030          | 781BP99                                      | O43     | ADMIN
+
+384  EV5030-NUCLOUD-ENCL4          | STORAGE           | IBM              | STORWISE V5030          | 781BR11                                      | O43     | ADMIN
+
+385  EV5030-NUCLOUD-ENCL5          | STORAGE           | IBM              | STORWISE V5030          | 781BR43                                      | O43     | ADMIN
+
+386  EV5030-NUCLOUD-ENCL6          | STORAGE           | IBM              | STORWISE V5030          | 781BP94                                      | O43     | ADMIN
+
+387  EV5030-NUCLOUD-ENCL7          | STORAGE           | IBM              | STORWISE V5030          | 781BP94                                      | O43     | ADMIN
+
+388  EVISILON01-IB-1               | STORAGE           | MELLANOX         | IS 5022 DEVICE          | MT1127X00447                                 | P43     | ADMIN
+
+389  EVISILON01-IB-2               | STORAGE           | MELLANOX         | IS 5022 DEVICE          | MT1127X00428                                 | P43     | ADMIN
+
+390  EVISILON02-IB-1               | STORAGE           | MELLANOX         | IS 5022 DEVICE          | MT1236X02134                                 | Q39     | ADMIN
+
+391  EVISILON02-IB-2               | STORAGE           | MELLANOX         | IS 5022 DEVICE          | M71234X02260                                 | Q39     | ADMIN
+
+392  EVISILON03-IB-1 (36)          | STORAGE           | MELLANOX         | IS 5022 DEVICE          |                                              | T43     | ADMIN
+
+393  EVISILON03-IB-2 (36)          | STORAGE           | MELLANOX         | IS 5022 DEVICE          |                                              | T43     | ADMIN
+
+394  BACKUP2 MASTER                | STORAGE           | PROE HARDWARE    | PRO472                  |                                              | U39     | ADMIN
+
+395  BACKUP2 SLAVE                 | STORAGE           | PROE HARDWARE    | PRO490                  | AAG2915005018                                | U39     | ADMIN
+
+396 (393 rows)
+
+397 
+

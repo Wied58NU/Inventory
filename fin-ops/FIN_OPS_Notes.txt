@@ -1,0 +1,228 @@
+create tablespace inv LOCATION '/Users/jeffreywiedemann/inv.dbf'
+
+
+C - Tag 
+D - Description
+E - Purchase Date
+G - Manufacturer
+H - Model 
+I - Serial
+J - Campus
+K - Department
+L - Department Description
+M - Building
+N - Building Name
+O - Room
+P - Name
+S - PO
+T - Chartstring
+
+
+
+I 	Serial	9
+G	Manufacturer	7
+H	Model 	8
+D	Description	4
+J	Campus	10
+K	Department	11
+L	Department Description	12
+M	Building	13
+N 	Building Name	14
+O	Room	15
+P	Name	16
+E	Purchase Date	5
+F	Acquisition Date FY	6
+S 	PO	19
+T	Chartstring	20
+
+
+
+
+
+{FS=","}
+{print "insert into fin_ops "}
+{print "(server, db_name, sample_date, db_size)"}
+{print "values('"$1"','"$2"','21-NOV-16'");"}
+{print ""}
+
+Create table FIN_OPS
+(Serial 		varchar (50),
+Manufacturer		varchar (50),
+Model			varchar (50), 
+Description		varchar (50),
+Campus			varchar (50),
+Department		varchar (50),
+Department Description	varchar (50),
+Building		varchar (50),
+Building Name		varchar (50),
+Room			varchar (50),
+Name			varchar (50),
+Purchase Date		varchar (50),
+Acquisition Date FY	varchar (50),
+PO			varchar (50),
+Chartstring		varchar (50))
+
+
+
+fin_ops = df[['Tag', 'Description', 'Purchase Date','Acquisition Date FY', 'Manufacturer', 'Model', 'Serial', 'Campus', 'Department', 'Department Description', 'Building', 'Building Name','Room', 'Name', 'Purchase', 'PO', 'Chartstring', ]]
+
+
+
+{FS=","}
+{print "insert into fin_ops "}
+{print "values('"$9"','"$7"','"$8"','"$4"','"$10"','"$11"','"$12"','"$13"','"$14"','"$15"','"$16"','"$5"','"$6"','"$19"','"$20");"}
+
+"GLASSHOUSE SYSTEMS, INC"
+"Seps, Inc"
+"AHEAD, LLC"
+
+
+Rsrch Cmptng, Stor, Ntwk & Fac
+Rsrch Cmptng, Stor, Ntwk & Fac
+
+
+NL400-108TB,12GB RAM, 4X1GE
+NL400-1008TB, 12GB RAM, 4X1GE
+PV MD1200, RKMNT, SAS, 12 BAY
+X400-36TB,24GB RAM,4X1GE
+2000A, 480V/277V
+
+ STEVE KWAK
+ SIMMS,THOMAS
+SIMMS, TOM
+SIMMS, TODD
+ KWAK,STEVE
+KWAK, STEVE
+Kwak,Steve
+WALSH, JOHN
+SANDSTEDT, PETER
+BRISENO, REMO
+NIELSEN, DANA
+OSTROWKI, RUTHANN
+OSTROWSKI, RUTHANN
+NIELSEN, DANA
+
+
+----------------------------------------------------------------
+
+Pandas:
+
+Change Case
+
+https://stackoverflow.com/questions/39512002/convert-whole-dataframe-from-lower-case-to-upper-case-with-pandas
+
+for columns in dataset.columns:
+    dataset[columns] = dataset[columns].str.lower() 
+
+
+import pandas as pd
+pd.read_excel(open('Cyberinfrastructure.xlsx', index_col=0), sheet_name='Sheet1')
+
+https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
+
+
+
+fin-ops $ pip3 install virtualenv
+Collecting virtualenv
+  Downloading https://files.pythonhosted.org/packages/23/1a/d55f5fb904564365c3d364fd41701a74ad497379f04fd548cccc3f227d98/virtualenv-20.0.18-py2.py3-none-any.whl (4.6MB)
+     |████████████████████████████████| 4.6MB 1.3MB/s 
+Collecting distlib<1,>=0.3.0
+  Downloading https://files.pythonhosted.org/packages/7d/29/694a3a4d7c0e1aef76092e9167fbe372e0f7da055f5dcf4e1313ec21d96a/distlib-0.3.0.zip (571kB)
+     |████████████████████████████████| 573kB 10.2MB/s 
+Collecting filelock<4,>=3.0.0
+  Downloading https://files.pythonhosted.org/packages/93/83/71a2ee6158bb9f39a90c0dea1637f81d5eef866e188e1971a1b1ab01a35a/filelock-3.0.12-py3-none-any.whl
+Collecting importlib-metadata<2,>=0.12; python_version < "3.8"
+  Downloading https://files.pythonhosted.org/packages/ad/e4/891bfcaf868ccabc619942f27940c77a8a4b45fd8367098955bb7e152fb1/importlib_metadata-1.6.0-py2.py3-none-any.whl
+Collecting appdirs<2,>=1.4.3
+  Downloading https://files.pythonhosted.org/packages/56/eb/810e700ed1349edde4cbdc1b2a21e28cdf115f9faf263f6bbf8447c1abf3/appdirs-1.4.3-py2.py3-none-any.whl
+Requirement already satisfied: six<2,>=1.9.0 in /usr/local/lib/python3.7/site-packages (from virtualenv) (1.14.0)
+Collecting zipp>=0.5
+  Downloading https://files.pythonhosted.org/packages/b2/34/bfcb43cc0ba81f527bc4f40ef41ba2ff4080e047acb0586b56b3d017ace4/zipp-3.1.0-py3-none-any.whl
+Building wheels for collected packages: distlib
+  Building wheel for distlib (setup.py) ... done
+  Created wheel for distlib: filename=distlib-0.3.0-cp37-none-any.whl size=340428 sha256=854936a06b56ba094f59fe56b4814ffebb209813d8887be0bc2118aa58f01c67
+  Stored in directory: /Users/jeffreywiedemann/Library/Caches/pip/wheels/6e/e8/db/c73dae4867666e89ba3cfbc4b5c092446f0e584eda6f409cbb
+Successfully built distlib
+Installing collected packages: distlib, filelock, zipp, importlib-metadata, appdirs, virtualenv
+Successfully installed appdirs-1.4.3 distlib-0.3.0 filelock-3.0.12 importlib-metadata-1.6.0 virtualenv-20.0.18 zipp-3.1.0
+fin-ops $ virtualenv venv --system-site-packages
+created virtual environment CPython3.7.6.final.0-64 in 962ms
+  creator CPython3Posix(dest=/Users/jeffreywiedemann/Desktop/fin-ops/venv, clear=False, global=True)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=/Users/jeffreywiedemann/Library/Application Support/virtualenv/seed-app-data/v1.0.1)
+  activators BashActivator,CShellActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+fin-ops $ 
+fin-ops $ 
+fin-ops $ 
+fin-ops $ source venv/bin/activate
+(venv) fin-ops $ pip3 install xlrd
+Requirement already satisfied: xlrd in /Users/jeffreywiedemann/Library/Python/3.7/lib/python/site-packages (1.2.0)
+(venv) fin-ops $ python3
+Python 3.7.6 (default, Dec 30 2019, 19:38:26) 
+[Clang 11.0.0 (clang-1100.0.33.16)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+
+
+virtualenv venv --system-site-packages
+
+fin-ops $ source venv/bin/activate
+(venv) fin-ops $ deactivate              
+fin-ops $ 
+
+https://pythonspot.com/read-excel-with-pandas/
+import xlrd
+import pandas as pd
+from pandas import ExcelWriter
+from pandas import ExcelFile
+ 
+df = pd.read_excel('Cyberinfrastructure.xlsx')
+>>> 
+>>> 
+>>> 
+>>> df 
+    Unnamed: 0                        Unnamed: 1 Unnamed: 2  Unnamed: 3           Unnamed: 4  ... Unnamed: 29         Unnamed: 30 Unnamed: 31   Business Unit:     NWUNV
+0          NaN                               NaN        NaN         NaN                  NaN  ...         NaN                 NaN         NaN      Asset Book:   AM_BOOK
+1          NaN                               NaN        NaN         NaN                  NaN  ...         NaN                 NaN         NaN  Asset Category:     EQUIP
+2          NaN   Active Capital Equipment Detail        NaN         NaN                  NaN  ...         NaN                 NaN         NaN        Building:       All
+3          NaN  YTD Through Mar 31, 2020  (Open)        NaN         NaN                  NaN  ...         NaN                 NaN         NaN      Department:       All
+4          NaN                               NaN        NaN         NaN                  NaN  ...         NaN                 NaN         NaN               NaN      NaN
+..         ...                               ...        ...         ...                  ...  ...         ...                 ...         ...               ...      ...
+433        NaN                      000000025199   G0010444  2020 Ridge                  NaN  ...         001  COMPUTER EQUIPMENT          01                 1      NaN
+434        NaN                      000000025524                 Server  2019-09-17 00:00:00  ...         001  COMPUTER EQUIPMENT          01                 1      NaN
+435        NaN                      000000025525                 Server  2019-09-17 00:00:00  ...         001  COMPUTER EQUIPMENT          01                 1      NaN
+436        NaN                      000000025526                 Server  2019-09-17 00:00:00  ...         001  COMPUTER EQUIPMENT          01                 1      NaN
+437        NaN                      000000025528                Server?  2019-10-31 00:00:00  ...         001  COMPUTER EQUIPMENT          01                 1      NaN
+
+[438 rows x 34 columns]
+>>> 
+
+
+cpu_usage_average = George[George.MetricId == 'mem.usage.average'][['Timestamp','Entity','Value']]
+
+
+df.columnsShow the name column
+>>> df.Name
+0                  NIELSEN, DANA
+1                  NIELSEN, DANA
+2             OSTROWSKI, RUTHANN
+3             OSTROWSKI, RUTHANN
+4                  NIELSEN, DANA
+                 ...            
+422    77570 = Computers-Capital
+423                   Steve Kwak
+424                   Steve Kwak
+425                   Steve Kwak
+426                   Steve Kwak
+Name: Name, Length: 427, dtype: object
+
+Get rid_of commas
+fin_ops =fin_ops.replace(',',' ', regex=True)
+fin_ops = df[['Tag', 'Description', 'Purchase Date','Acquisition Date FY', 'Manufacturer', 'Model', 'Serial', 'Campus', 'Department', 'Department Description', 'Building', 'Building Name','Room', 'Name', 'Purchase', 'PO', 'Chartstring', ]]
+
+Get rid_of commas
+fin_ops =fin_ops.replace(',',' ', regex=True)
+
+
+
+
+
+

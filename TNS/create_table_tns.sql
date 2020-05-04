@@ -1,0 +1,13 @@
+create table tns_data
+(IP varchar (15),
+ Name varchar (32),
+ Module_num varchar (2),
+ Model varchar (26),
+ Serial varchar (12),
+ Software varchar (13),
+ firmware varchar (13),
+ memory varchar (11),
+ HW varchar (3),
+ Last_Seen varchar (12),
+ Module_ip varchar (12),
+ Unnamed varchar (11))

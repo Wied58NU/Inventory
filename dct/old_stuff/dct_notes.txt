@@ -1,0 +1,14 @@
+import pandas as pd
+# import numpy as np
+dct = pd.read_csv('in_dctrack.csv' ,na_filter=False)
+# dct = dct.replace(np.nan, '', regex=True)
+# Replace spaces in Column Names - also add .str.upper() if the convert data below does not include headers
+cmdb.columns = cmdb.columns.str.replace(" ", "_")
+dct = dct.replace(',',' ', regex=True)
+dct = dct.apply(lambda x: x.astype(str).str.upper())
+dct = dct.drop(columns=['Location', 'Class', 'Status', 'IP_Address', 'Serial_Number', 'RUs', 'Purchase_Date', 'Contract_Number', 'Contract_End_Date', 'Last_Updated_By', 'FY_Support_End_Date', 'Service_Provider', 'Chartstring', 'NU_End_of_Life', 'Vendor_End_of_Life', 'Standard_Category'])
+dct.to_csv('out_dctrack.csv', index=False)
+
+# Create a dictionary of max data length for each column
+
+# dict([(v, df[v].apply(lambda r: len(str(r)) if r!=None else 0).max())for v in df.columns.values])
