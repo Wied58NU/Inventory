@@ -1,0 +1,109 @@
+
+Cd 1                  name                 |       manufacturer       |            model             | serial_number  |  campus  |                building                | room_number  |          department          | last_edit_date_time |           device_type            
+
+2 --------------------------------------+--------------------------+------------------------------+----------------+----------+----------------------------------------+--------------+------------------------------+---------------------+----------------------------------
+
+
+Line 3 VM server to be docomm'ed
+
+3  CI4CRP4                              | VMWARE                   |                              |                | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO-SERVICEOPERATIONS | 3/17/2014 23:26     | 
+
+line 4 Exists
+
+4  LOBBYGUARD                           |                          |                              |                |          |                                        |              | NUIT-CI-SO-SOC               | 10/27/2014 11:54    | 
+
+Line 5 remove
+5  SITESCAN                             |                          |                              |                |          |                                        |              | NUIT-CI-SO-SERVICEOPERATIONS | 6/5/2013 16:49      | 
+
+Lines 6-10 VM servers to be docomm'ed
+6  CI4CRDB                              | VMWARE                   |                              |                | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO-SERVICEOPERATIONS | 8/18/2014 23:26     | 
+
+7  CI4CRP2                              | VMWARE                   |                              |                | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO-SERVICEOPERATIONS | 3/17/2014 23:26     | 
+
+8  CYBERWEB                             | VMWARE                   |                              |                | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO-SERVICEOPERATIONS | 10/29/2015 23:26    | 
+
+9  CI4CRP3                              | VMWARE                   |                              |                | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO-SERVICEOPERATIONS | 12/4/2013 20:00     | 
+
+10  CI4CRP5                              | VMWARE                   |                              |                | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO-SERVICEOPERATIONS | 12/4/2013 20:00     | 
+
+Belongs to McCormick  - Remove
+11  HERTZ                                | DELL                     | POWEREDGE R710               | CSXBBM1        | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO-SERVICEOPERATIONS | 8/18/2017 23:26     | 
+
+line 21 manufacturer should be Russ electric
+21  C-710 AB-1-4-ATS-2 IT                |                          | 2000 TRANSFER CONTROL SYSTEM | 12038          | CHICAGO  | ABBOTT HALL                            | DOCK AREA    | NUIT-CI-SO                   | 2/14/2017 13:43     | AUTO TRANSFER SWITCH
+
+Line 26 need model number
+26  C-710 AB-1-4-ATS-3 IT                | ASCO                     |                              | 779392-001 WE  | CHICAGO  | ABBOTT HALL                            | 110          | NUIT-CI-SO                   | 2/9/2017 16:27      | AUTO TRANSFER SWITCH
+
+Lines 34, 35 manufacturer should be ABB
+34  CHWP-1                               |                          | 09704268-100                 |                | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87 MOAT    | NUIT-CI-SO                   | 4/14/2017 15:32     | CHILLED WATER DELUXE
+
+35  CHWP-2                               |                          | 09704268-100                 |                | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87 MOAT    | NUIT-CI-SO                   | 4/14/2017 15:40     | CHILLED WATER DELUXE
+
+Lines 65, 66 manufacturer should be EMERSON/LIEBERT
+65  E-2020 AC-09                         |                          | DA125DP1AT802S               | C16FCE0018     | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO                   | 8/19/2016 16:47     | DSE 44-TON CRAC UNIT
+
+66  E-2020 AC-05                         |                          | DA125DP1AT802S               | C16FCE0017     | EVANSTON | 2020 RIDGE AV                          | 172          | NUIT-CI-SO                   | 8/19/2016 16:47     | DSE 44-TON CRAC UNIT
+
+67  C-710 FAN WALL                       | FANTECH                  | FADE 18-4                    | 872364         | CHICAGO  | ABBOTT HALL                            | 243          | NUIT-CI-SO                   | 7/16/2015 12:09     | EXHAUST FAN
+
+Lines 68, 69 manufacturer should be ABB
+68  VFD-2                                |                          | 7.5HP                        | 211250XXXX     | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87 MOAT    | NUIT-CI-SO                   | 4/14/2017 15:30     | EXHAUST FAN
+
+69  VFD-1                                |                          | 7.5HP                        | 213F08284      | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87 MOAT    | NUIT-CI-SO                   | 4/14/2017 15:28     | EXHAUST FAN
+
+Line 80 Missing Serial Number
+80  LG87 HUMIDIFIER                      | STULTZ                   | BNU-6000                     |                | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/17/2015 14:44     | HUMIDIFIER
+
+Lines 126, 127  Missing Serial Number
+126  E-2001 PUMP CONTROLLER               | EMERSON/LIEBERT          | RP020GY06S0757               |                | EVANSTON | LEVERONE HALL                          | ROOF         | NUIT-CI-SO                   | 3/22/2017 12:00     | PUMP PACKAGE
+
+127  E-2001 DUAL PUMP PACKAGE             | EMERSON/LIEBERT          | D75YNT                       |                | EVANSTON | LEVERONE HALL                          | ROOF         | NUIT-CI-SO                   | 7/17/2015 14:46     | PUMP PACKAGE
+
+Line 146 manufacturer should be EATON/POWERWARE
+146  E-2020 A-UPM-5                       |                          | 9390-160                     | EJ287CBC15     | EVANSTON | 2020 RIDGE AV                          | 184          | NUIT-CI-SO                   | 10/11/2019 16:05    | UPS 3 PHASE AND BATTERIES
+
+Line 146 manufacturer should be EATON/POWERWARE
+151  E-2020 A-UPM-4                       |                          | 9390-160                     | EJ287CBC14     | EVANSTON | 2020 RIDGE AV                          | 184          | NUIT-CI-SO                   | 10/11/2019 16:05    | UPS 3 PHASE AND BATTERIES
+
+
+Line 152, 153 manufacturer should be EMERSON/LIEBERT
+152  C-710 NX 400KVA UPS-B                |                          | 38SN400A0AVA525              | D15H4R0002     | CHICAGO  | ABBOTT HALL                            | B04          | NUIT-CI-SO                   | 12/14/2015 16:13    | UPS 3 PHASE AND BATTERIES
+
+153  C-710 NX 400KVA UPS-A                |                          | 38SN400A0AVA525              | D15H4R0001     | CHICAGO  | ABBOTT HALL                            | B04          | NUIT-CI-SO                   | 12/14/2015 16:10    | UPS 3 PHASE AND BATTERIES
+
+Lines 163, 165 Confirm Model Number
+163  C-710 CWP-03                         | B&G                      |                              | C130151-03F11  | CHICAGO  | ABBOTT HALL                            | MEZZANINE    | NUIT-CI-SO                   | 7/16/2015 12:09     | WATER PUMP
+
+164  C-710 CWP-01                         | B&G                      |                              | C130151-01F11  | CHICAGO  | ABBOTT HALL                            | MEZZANINE    | NUIT-CI-SO                   | 7/16/2015 12:09     | WATER PUMP
+
+165  C-710 CWP-02                         | B&G                      |                              | C130151-02F11  | CHICAGO  | ABBOTT HALL                            | MEZZANINE    | NUIT-CI-SO                   | 7/16/2015 12:09     | WATER PUMP
+
+166  LG87 XDH-05                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8D6D0436   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+167  LG87 XDH-04                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8D6D0500   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+168  LG87 XDH-06                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8E6D0106   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+169  LG87 XDH-03                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8E6D0047   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+170  LG87 XDH-02                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8E6D0077   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+171  LG87 XDH-10                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8C6D0062   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+172  LG87 XDH-01                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8C6D0063   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+173  LG87 XDH-07                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8E6D0136   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+174  LG87 XDP-1                           | EMERSON/LIEBERT          | XDP160RC                     | 1/0816C10605   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+175  LG87 XDH-09                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8C6D0061   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+176  LG87 XDH-08                          | EMERSON/LIEBERT          | XDH32DK                      | 0/NO8E6D0076   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+177  LG87 XDP-2                           | EMERSON/LIEBERT          | XDP160RC                     | 1/0816C10646   | EVANSTON | TECHNOLOGICAL INSTITUTE                | LG87         | NUIT-CI-SO                   | 7/16/2015 12:09     | XDH/EXTREME DENSITY IN-ROW
+
+178 (175 rows)
+
+179 
+

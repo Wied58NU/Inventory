@@ -1,0 +1,1 @@
+"Object_Type","Name","FQDN","Guest","CPU_Socket_Count","Cores_Per_Socket","Total_Cores_Assigned","Memory_GB","Provisioned_Space_GB","Used_Space_GB","NIC_Count","Network_Name","Datastore_Path","DataCenter","Cluster_Name","vDC_Name"

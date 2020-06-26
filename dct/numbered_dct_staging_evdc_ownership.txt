@@ -1,0 +1,770 @@
+1              name              |      vendor      |       type        |          model          | contact  | service_owner_department |         service_owner_contact          |      technical_contact      | cabinet | function 
+
+2 -------------------------------+------------------+-------------------+-------------------------+----------+--------------------------+----------------------------------------+-----------------------------+---------+----------
+
+3  EVDC-UCS-GWY                  | CISCO SYSTEMS    |                   | CISCO 4451-X            |          | SO                       | NUIT-CI-TNS-VOICENETWORK               |                             | O39     | ADMIN
+
+4  MELLANOX SX6506               | MELLANOX         |                   | SX6506                  | THALLORA | PIPS                     |                                        |                             | V43     | ADMIN
+
+5  EVISILON 37                   | EMC              | BLADE SERVER      | CELERRA NS40-AUXC ISCSI |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+6  2161DS - T39                  | DELL             | KVM               | POWEREDGE 2161DS-2      |          | SO                       | NUIT-CI-SO-SERVICEOPERATION            |                             | T39     | ADMIN
+
+7  Q39 2161                      | DELL             | KVM               | KVM 2161DS              |          | SO                       | NUIT-CI-SO-SERVICEOPERATION            | NUIT-SOC                    | Q39     | ADMIN
+
+8  EVDC-O39-FW-1-CI-NODE0        | JUNIPER NETWORKS | NETWORK FIREWALL  | GATEWAY SRX 1500- AC    |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | O39     | ADMIN
+
+9  EVDC-O39-FW-1-CI-NODE1        | JUNIPER NETWORKS | NETWORK FIREWALL  | GATEWAY SRX 1500- AC    |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | O39     | ADMIN
+
+10  EVDC-039-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | O39     | ADMIN
+
+11  EVDC-O34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | O34     | ADMIN
+
+12  EVDC-O34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | O34     | ADMIN
+
+13  EVDC-O39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050S-64            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | O39     | ADMIN
+
+14  EVDC-P34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | P34     | ADMIN
+
+15  EVDC-P34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | P34     | ADMIN
+
+16  EVDC-P39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          |                          | NUIT-CI-TNS-DATANETWORK                |                             | P39     | ADMIN
+
+17  EVDC-P39-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          |                          | NUIT-CI-TNS-DATANETWORK                |                             | P39     | ADMIN
+
+18  EVDC-Q34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q34     | ADMIN
+
+19  EVDC-Q34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q34     | ADMIN
+
+20  EVDC-Q39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q39     | ADMIN
+
+21  EVDC-Q39-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q39     | ADMIN
+
+22  EVDC-R34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | R34     | ADMIN
+
+23  EVDC-R34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | R34     | ADMIN
+
+24  EVDC-R39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | R39     | ADMIN
+
+25  EVDC-R39-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | R39     | ADMIN
+
+26  EVDC-S34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | S34     | ADMIN
+
+27  EVDC-S34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | S34     | ADMIN
+
+28  EVDC-S39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | S39     | ADMIN
+
+29  EVDC-S39-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | S39     | ADMIN
+
+30  EVDC-T34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T34     | ADMIN
+
+31  EVDC-T34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T34     | ADMIN
+
+32  EVDC-T39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T39     | ADMIN
+
+33  EVDC-T39-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T39     | ADMIN
+
+34  EVDC-T43-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T43     | ADMIN
+
+35  EVDC-T43-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T43     | ADMIN
+
+36  EVDC-U34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | U34     | ADMIN
+
+37  EVDC-U34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | U34     | ADMIN
+
+38  EVDC-U39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | U39     | ADMIN
+
+39  EVDC-U39-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | U39     | ADMIN
+
+40  EVDC-V34-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | V34     | ADMIN
+
+41  EVDC-V34-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-52            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | V34     | ADMIN
+
+42  EVDC-V39-ESW-1                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | V39     | ADMIN
+
+43  EVDC-V39-ESW-2                | ARISTA NETWORKS  | NETWORK SWITCH    | DCS-7050T-36            |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | V39     | ADMIN
+
+44  2020RDG-IDF-Q39-ESW-1-01      | CISCO SYSTEMS    | NETWORK SWITCH    | CATALYST C3750G-24TS-1U |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q39     | ADMIN
+
+45  2020RDG-IDF-Q39-ESW-1-02      | CISCO SYSTEMS    | NETWORK SWITCH    | CATALYST C3750G-24TS-1U |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q39     | ADMIN
+
+46  2020RDG-IDF-R39-ESW-1         | CISCO SYSTEMS    | NETWORK SWITCH    | CATALYST C3750G-24TS-1U |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | R39     | ADMIN
+
+47  2020RDG-IDF-S39-ESW-1         | CISCO SYSTEMS    | NETWORK SWITCH    | CATALYST C3750G-24TS-1U |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | S39     | ADMIN
+
+48  2020RDG-IDF-S39-ESW-2         | CISCO SYSTEMS    | NETWORK SWITCH    | CATALYST C3750G-24TS-1U |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | S39     | ADMIN
+
+49  2020RDG-IDF-T39-ESW-1         | CISCO SYSTEMS    | NETWORK SWITCH    | CATALYST C3750G-24TS-1U |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T39     | ADMIN
+
+50  2020RDG-IDF-T39-ESW-2         | CISCO SYSTEMS    | NETWORK SWITCH    | CATALYST C3750G-24TS-1U |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T39     | ADMIN
+
+51  2020RDG-IDF-T34-ESW-2-01      | JUNIPER NETWORKS | NETWORK SWITCH    | SWITCH EX4200-24T 2PS   |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T34     | ADMIN
+
+52  2020RDG-IDF-W34-ESW-1-01      | JUNIPER NETWORKS | NETWORK SWITCH    | SWITCH EX4200-24T 2PS   |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T34     | ADMIN
+
+53  2020RDG-IDF-W34-ESW-2-01      | JUNIPER NETWORKS | NETWORK SWITCH    | SWITCH EX4200-24T 2PS   |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | T34     | ADMIN
+
+54  EVDC-Q34-ESW-3                | JUNIPER NETWORKS | NETWORK SWITCH    | EX4500                  |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q34     | ADMIN
+
+55  EVDC-Q34-ESW-4                | JUNIPER NETWORKS | NETWORK SWITCH    | EX4500                  |          | SO                       | NUIT-CI-TNS-DATANETWORK                |                             | Q34     | ADMIN
+
+56  EVDC-T43-ESW-3                | JUNIPER NETWORKS | NETWORK SWITCH    | EX4500                  |          | NT                       | NUIT-CI-TNS-DATANETWORK                |                             | T43     | ADMIN
+
+57  EVDC-T43-ESW-4                | JUNIPER NETWORKS | NETWORK SWITCH    | EX4500                  |          | NT                       | NUIT-CI-TNS-DATANETWORK                |                             | T43     | ADMIN
+
+58  EV-UCESX01                    | CISCO SYSTEMS    | SERVER            | USC C240 M4SX           |          | SO                       | NUIT-CI-TNS-VOICENETWORK               |                             | O39     | ADMIN
+
+59  EV-UCESX02                    | CISCO SYSTEMS    | SERVER            | USC C240 M4SX           |          | SO                       | NUIT-CI-TNS-VOICENETWORK               |                             | O39     | ADMIN
+
+60  EV-UCESX03                    | CISCO SYSTEMS    | SERVER            | USC C240 M4SX           |          | SO                       | NUIT-CI-TNS-VOICENETWORK               |                             | O39     | ADMIN
+
+61  EV-UCESX04                    | CISCO SYSTEMS    | SERVER            | UCS C240 M3             |          | NT                       | NUIT-CI-TNS-VOICENETWORK               |                             | O39     | ADMIN
+
+62  EV-UCESX05                    | CISCO SYSTEMS    | SERVER            | UCS C240 M3             |          | NT                       | NUIT-CI-TNS-VOICENETWORK               |                             | O39     | ADMIN
+
+63  BACKUP1                       | CODE42           | SERVER            | M1                      |          | SO                       | NUIT-TSS-SUPPORTSERVICES               |                             | T39     | ADMIN
+
+64  ALPS.LIBRARY.NORTHWESTERN.EDU | DELL             | SERVER            | R730                    |          | PIPS                     | LIBRARY                                | BOB TRAUTVETTER             | R39     | ADMIN
+
+65  ANSEL                         | DELL             | SERVER            | POWEREDGE R610          |          | PIPS                     | LIBRARY                                | BOB TRAUTVETTER             | Q39     | ADMIN
+
+66  AVALON                        | DELL             | SERVER            | POWEREDGE R620          |          | SO                       | LIBRARY                                | BOB TRAUTVETTER             | R39     | ADMIN
+
+67  BIGBEND                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S34     | ADMIN
+
+68  COIPROD                       | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | T39     | ADMIN
+
+69  COIPRODDATA                   | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | T39     | ADMIN
+
+70  COITEST                       | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | T39     | ADMIN
+
+71  COITESTDATA                   | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | T39     | ADMIN
+
+72  ERATABLEAU                    | DELL             | SERVER            | POWEREDGE 1750          |          | PIPS                     | NUIT-PMOET-IDENTITYSERVICES            |                             | U39     | ADMIN
+
+73  EVADSDC4                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-PMOET-IDENTITYSERVICES            | ELVIS MELENDEZ              | S34     | ADMIN
+
+74  EVAIRWAVE                     | DELL             | SERVER            | POWEREDGE R720XD        |          | PIPS                     | NUIT-CI-TNS-DATANETWORK                |                             | S39     | ADMIN
+
+75  EVAIRWAVE2.CI                 | DELL             | SERVER            | POWEREDGE R720XD        |          | PIPS                     | NUIT-CI-TNS-DATANETWORK                |                             | S39     | ADMIN
+
+76  EVAIRWAVE3.CI                 | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | NUIT-CI-TNS-DATANETWORK                | CHRIS FABRI                 | S39     | ADMIN
+
+77  EVCSPDPM01                    | DELL             | SERVER            | POWEREDGE R710          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+78  EVCSPDPM02                    | DELL             | SERVER            | POWEREDGE R710          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+79  EVCSPDPM03                    | DELL             | SERVER            | POWEREDGE R720          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+80  EVCSPMBX01                    | DELL             | SERVER            | POWEREDGE R720          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+81  EVCSPMBX02                    | DELL             | SERVER            | POWEREDGE R720          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+82  EVCSPMBX03                    | DELL             | SERVER            | POWEREDGE R720          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+83  EVCSPMBX04                    | DELL             | SERVER            | POWEREDGE R720          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+84  EVCSPMBX05                    | DELL             | SERVER            | POWEREDGE R720          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+85  EVCSPMBX06                    | DELL             | SERVER            | POWEREDGE R720          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+86  EVCSPSFAST1                   | DELL             | SERVER            | POWEREDGE R720XD        |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | O34     | ADMIN
+
+87  EVCSPSFAST2                   | DELL             | SERVER            | POWEREDGE R720XD        |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | O34     | ADMIN
+
+88  EVCSPSSQL1                    | DELL             | SERVER            | POWEREDGE R710          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | U34     | ADMIN
+
+89  EVCSPSSQL2                    | DELL             | SERVER            | POWEREDGE R710          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+90  EVDSPDPM04                    | DELL             | SERVER            | POWEREDGE R710          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+91  EVESX15                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | R39     | ADMIN
+
+92  EVESX16                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | R39     | ADMIN
+
+93  EVESX17                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S39     | ADMIN
+
+94  EVESX18_CI                    | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S39     | ADMIN
+
+95  EVESX43                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O34     | ADMIN
+
+96  EVESX44                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | R39     | ADMIN
+
+97  EVESX70                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+98  EVESX71                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+99  EVESX72                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+100  EVESX73                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O34     | ADMIN
+
+101  EVESX74                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+102  EVESX75                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+103  EVESX76                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+104  EVESX77                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S39     | ADMIN
+
+105  EVESX82                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+106  EVESX83                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+107  EVESX84                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+108  EVESX85                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+109  EVESX86                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+110  EVESX87                       | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+111  EVESXC01N01                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | Q39     | ADMIN
+
+112  EVESXC01N02                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | Q39     | ADMIN
+
+113  EVESXC01N03                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | Q39     | ADMIN
+
+114  EVESXC01N04                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | Q39     | ADMIN
+
+115  EVESXC01N05                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | T39     | ADMIN
+
+116  EVESXC01N06                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | T39     | ADMIN
+
+117  EVESXC01N07                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | T39     | ADMIN
+
+118  EVESXC01N08                   | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | STEVE KWAK                  | T39     | ADMIN
+
+119  EVESXC02N01-U39               | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U39     | ADMIN
+
+120  EVESXC02N02-U39               | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U39     | ADMIN
+
+121  EVESXC0307N-P39               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P39     | ADMIN
+
+122  EVESXC03N01-V34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+123  EVESXC03N02-V34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+124  EVESXC03N03-V34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+125  EVESXC03N04-P39               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P39     | ADMIN
+
+126  EVESXC03N05-P39               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P39     | ADMIN
+
+127  EVESXC03N06-P39               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P39     | ADMIN
+
+128  EVESXC04N01-V34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+129  EVESXC04N02-V34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+130  EVESXC04N03-V34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+131  EVESXC04N04-V34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+132  EVESXC04N05-Q34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+133  EVESXC04N06-Q34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+134  EVESXC04N07-Q34               | DELL             | SERVER            | POWEREDGE R640          | LGC813   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+135  EVESXCLOUD31                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+136  EVESXCLOUD32                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+137  EVESXCLOUD33                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+138  EVESXCLOUD34                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+139  EVESXCLOUD35                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+140  EVESXCLOUD36                  | DELL             | SERVER            | POWEREDGE R630          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | U39     | ADMIN
+
+141  EVESXCLOUD37                  | DELL             | SERVER            | POWEREDGE R630          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | U39     | ADMIN
+
+142  EVESXCLOUD38                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U39     | ADMIN
+
+143  EVESXCLOUD39                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U39     | ADMIN
+
+144  EVESXCLOUD40                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U39     | ADMIN
+
+145  EVESXCLOUD41                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U39     | ADMIN
+
+146  EVESXCLOUD42                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U39     | ADMIN
+
+147  EVESXCLOUD43                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+148  EVESXCLOUD44                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+149  EVESXCLOUD45                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+150  EVESXCLOUD46                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+151  EVESXCLOUD47                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+152  EVESXCLOUD48                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O34     | ADMIN
+
+153  EVESXCLOUD49                  | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+154  EVESXTNSC01N02                | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | NUIT-CI-TNS-DATANETWORK                | CHRIS FABRI                 | S39     | ADMIN
+
+155  EVESXTNSC01N03                | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | NUIT-CI-TNS-DATANETWORK                | CHRIS FABRI                 | S39     | ADMIN
+
+156  EVITCSPDC                     | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | R39     | ADMIN
+
+157  EVNBMS01                      | DELL             | SERVER            | POWEREDGE R640          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+158  EVNBMS02                      | DELL             | SERVER            | POWEREDGE R640          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+159  EVNBMSTR01                    | DELL             | SERVER            | POWEREDGE R640          | VBA990   | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | V34     | ADMIN
+
+160  EVPUMHOST                     | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-PMOET-DAPS                        | BRADLEY PRILLER             | R39     | ADMIN
+
+161  EVRACP10                      | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+162  EVRACP11                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P34     | ADMIN
+
+163  EVRACP12                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P34     | ADMIN
+
+164  EVRACP13                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P34     | ADMIN
+
+165  EVRACP14                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P34     | ADMIN
+
+166  EVRACP6                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+167  EVRACP7                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+168  EVRACP8                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+169  EVRACP9                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+170  EVRACR07                      | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+171  EVRACR08                      | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+172  EVRACR10                      | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+173  EVRACR11                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S34     | ADMIN
+
+174  EVRACR12                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S34     | ADMIN
+
+175  EVRACR13                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S34     | ADMIN
+
+176  EVRACR14                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S34     | ADMIN
+
+177  EVRACR15                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S34     | ADMIN
+
+178  EVRACR16                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | S34     | ADMIN
+
+179  EVRACR6                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+180  EVRACR9                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+181  EVRACT10                      | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+182  EVRACT11                      | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+183  EVRACT12                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+184  EVRACT13                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+185  EVRACT14                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+186  EVRACT15                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+187  EVRACT16                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+188  EVRACT17                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+189  EVRACT18                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+190  EVRACT19                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+191  EVRACT20                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+192  EVRACT21                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+193  EVRACT22                      | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | NUIT_CI_PIPS_INFRASTRUCTURE | V39     | ADMIN
+
+194  EVRACT7                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+195  EVRACT8                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+196  EVRACT9                       | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+197  EVSPLIDX01                    | DELL             | SERVER            | POWEREDGE R630          | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+198  EVSPLIDX02                    | DELL             | SERVER            | POWEREDGE R630          | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+199  EVSPLIDX03                    | DELL             | SERVER            | POWEREDGE R630          | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+200  EVSPLIDX04                    | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | V34     | ADMIN
+
+201  EVSPLIDX05                    | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | V34     | ADMIN
+
+202  EVSPLIDX06                    | DELL             | SERVER            | POWEREDGE R640          |          | SO                       | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | S34     | ADMIN
+
+203  EVSPLIDX06-DAS01              | DELL             | SERVER            | POWERVAULT MD1420       |          | SO                       | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | S34     | ADMIN
+
+204  EVSPLIDX06-DAS02              | DELL             | SERVER            | POWERVAULT MD1420       |          | SO                       | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | S34     | ADMIN
+
+205  EVSPLIDX07                    | DELL             | SERVER            | POWEREDGE R640          |          | SO                       | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | S34     | ADMIN
+
+206  EVSPLIDX07-DAS01              | DELL             | SERVER            | POWERVAULT MD1420       |          | SO                       | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | S34     | ADMIN
+
+207  EVSPLIDX07-DAS02              | DELL             | SERVER            | POWERVAULT MD1420       |          | SO                       | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | S34     | ADMIN
+
+208  EVSPLIDX91                    | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | U34     | ADMIN
+
+209  EVSPLSES01                    | DELL             | SERVER            | POWEREDGE R640          |          | SO                       | NUIT-ISSC-SECURITY                     | MARY CARP                   | V34     | ADMIN
+
+210  EVSPLSRC01                    | DELL             | SERVER            | POWEREDGE R630          | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | O34     | ADMIN
+
+211  EVSPLSRC02                    | DELL             | SERVER            | POWEREDGE R630          | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | O34     | ADMIN
+
+212  EVSPLSRCES                    | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | O34     | ADMIN
+
+213  EVVSRX01                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P39     | ADMIN
+
+214  EVVSRX02                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P39     | ADMIN
+
+215  EVVSRX04                      | DELL             | SERVER            | POWEREDGE R740XD        | DRT463   | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+216  EXVSRX03                      | DELL             | SERVER            | POWEREDGE R740XD        |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | N TURNER                    | T34     | ADMIN
+
+217  FFRATM1PRD                    | DELL             | SERVER            | POWEREDGE R620          |          | PIPS                     | NUIT-FFRA                              |                             | S39     | ADMIN
+
+218  FFRATM1PRD2                   | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-FFRA                              |                             | S39     | ADMIN
+
+219  NUBIEVAPP07                   | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-ENTERPRISEREPORTINGANALYTICS      | MATT CANTRELL               | U39     | ADMIN
+
+220  NUBIEVAPP08                   | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-ENTERPRISEREPORTINGANALYTICS      | MATT CANTRELL               | U39     | ADMIN
+
+221  NUBIEVAPP09                   | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-ENTERPRISEREPORTINGANALYTICS      | MATT CANTRELL               | U39     | ADMIN
+
+222  NUBIEVAPP12                   | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-ENTERPRISEREPORTINGANALYTICS      | MATT CANTRELL               | U39     | ADMIN
+
+223  NUFMZENMASTER                 | DELL             | SERVER            | POWEREDGE R710          |          | SO                       | FACILITIES MANAGEMENT                  | JAY VAUGHT                  | T39     | ADMIN
+
+224  NUFMZENSLAVE                  | DELL             | SERVER            | POWEREDGE R710          |          | SO                       | FACILITIES MANAGEMENT                  | JAY VAUGHT                  | T39     | ADMIN
+
+225  NUQVMHOST06                   | DELL             | SERVER            | POWEREDGE R720          |          | SO                       | NU-QATAR                               | ALEX SOTELO                 | V39     | ADMIN
+
+226  NUQVMHOST07                   | DELL             | SERVER            | POWEREDGE R720          |          | CONTACT                  | NU-QATAR                               | ALEX SOTELO                 | V39     | ADMIN
+
+227  RISAOPSPRD                    | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | R39     | ADMIN
+
+228  RISAOPSPRDDATE                | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | R39     | ADMIN
+
+229  RISAOPSTST                    | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | R39     | ADMIN
+
+230  RISAOPSTSTDAT                 | DELL             | SERVER            | POWEREDGE R730XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | R39     | ADMIN
+
+231  RISEIRB7APP                   | DELL             | SERVER            | POWEREDGE R720XD        |          | SO                       | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | V39     | ADMIN
+
+232  RISEIRB7APPTEST               | DELL             | SERVER            | POWEREDGE R720XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | P39     | ADMIN
+
+233  RISEIRB7DAT                   | DELL             | SERVER            | POWEREDGE R720XD        |          | SO                       | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | V39     | ADMIN
+
+234  RISEIRB7DATTEST               | DELL             | SERVER            | POWEREDGE R720XD        |          | PIPS                     | OFFICE OF RESEARCH-INFORMATION SYSTEMS | TERA MOSKEL                 | P39     | ADMIN
+
+235  VMBKUP01A                     | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+236  VMBKUP02A                     | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+237  VMBKUP03A                     | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+238  VMBKUP04A                     | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+239  VMBKUP05A                     | DELL             | SERVER            | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O34     | ADMIN
+
+240  VMBKUP05A-OLD                 | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | T34     | ADMIN
+
+241  VMBKUP06                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+242  VMBKUP07                      | DELL             | SERVER            | POWEREDGE R630          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | U34     | ADMIN
+
+243  EVCOP1                        | HP               | SERVER            | PROLIANT DL360          |          | SITE_ADMINISTRATORS      | NUIT-CI-TNS-DATANETWORK                |                             | R39     | ADMIN
+
+244  EVCOP2                        | HP               | SERVER            | PROLIANT DL360          |          | SITE_ADMINISTRATORS      | NUIT-CI-TNS-DATANETWORK                |                             | R39     | ADMIN
+
+245  EVCOP3                        | HP               | SERVER            | PROLIANT DL360          |          | SITE_ADMINISTRATORS      | NUIT-CI-TNS-DATANETWORK                |                             | R39     | ADMIN
+
+246  POLICE VIDEO                  | PELCO            | SERVER            | ENDURA NVR5124-6000     |          | SO                       | UNIVERSITY POLICE AND PARKING          | DAVEN JANIS                 | R39     | ADMIN
+
+247  EVESXC02N03-O34               | DELL             | SERVER APPLIANCES | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | O34     | ADMIN
+
+248  EVESXC02N04-O34               | DELL             | SERVER APPLIANCES | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | O34     | ADMIN
+
+249  EVESXC02N05-S34               | DELL             | SERVER APPLIANCES | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+250  EVESXC02N06-S34               | DELL             | SERVER APPLIANCES | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+251  EVESXC02N07-S34               | DELL             | SERVER APPLIANCES | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+252  VMBKUP08A                     | DELL             | SERVER APPLIANCES | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+253  VMBKUP09A                     | DELL             | SERVER APPLIANCES | POWEREDGE R640          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | KEN TURNER                  | S34     | ADMIN
+
+254  EVISILON01-N6                 | EMC              | SERVER APPLIANCES | ISILON A100             | ADMIN    | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+255  QUALYS-EVANSTON               | QUALYS           | SERVER APPLIANCES | QUALYSGUARD             |          | SO                       | NUIT-ISSC-SECURITY                     |                             | T39     | ADMIN
+
+256  BACKUP3                       | CODE42           | STORAGE           | S2-48                   |          | SO                       | NUIT-TSS-SUPPORTSERVICES               |                             | T39     | ADMIN
+
+257  BACKUP4                       | CODE42           | STORAGE           | S2-48                   |          | SO                       | NUIT-TSS-SUPPORTSERVICES               |                             | T39     | ADMIN
+
+258  BACKUP5                       | CODE42           | STORAGE           | S2-48                   |          | SO                       | NUIT-TSS-SUPPORTSERVICES               |                             | T39     | ADMIN
+
+259  EVCSPDPM03-DAS03A             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+260  EVCSPDPM03-DAS03B             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+261  EVCSPDPM03-DAS03C             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+262  EVCSPMBX01-DAS01A             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+263  EVCSPMBX01-DAS01B             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+264  EVCSPMBX01-DAS01C             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+265  EVCSPMBX02-DAS02A             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+266  EVCSPMBX02-DAS02B             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+267  EVCSPMBX02-DAS02C             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+268  EVCSPMBX03-DAS03A             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+269  EVCSPMBX03-DAS03B             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+270  EVCSPMBX03-DAS03C             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+271  EVCSPMBX04-DAS04A             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+272  EVCSPMBX04-DAS04B             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+273  EVCSPMBX04-DAS04C             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | R34     | ADMIN
+
+274  EVCSPMBX05_DAS05A             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+275  EVCSPMBX05_DAS05B             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+276  EVCSPMBX05_DAS05C             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+277  EVCSPMBX06_DAS06A             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+278  EVCSPMBX06_DAS06B             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+279  EVCSPMBX06_DAS06C             | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+280  EVDPM-DAS01A                  | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+281  EVDPM-DAS01B                  | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+282  EVDPM-DAS01C                  | DELL             | STORAGE           | POWERVAULT MD1220       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | P34     | ADMIN
+
+283  EVDPM-DAS02A                  | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+284  EVDPM-DAS02B                  | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+285  EVDPM-DAS02C                  | DELL             | STORAGE           | POWERVAULT MD1220       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+286  EVDPM-DAS04A                  | DELL             | STORAGE           | POWERVAULT MD1220       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+287  EVDPM-DAS04B                  | DELL             | STORAGE           | POWERVAULT MD1220       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+288  EVDPM-DAS04C                  | DELL             | STORAGE           | POWERVAULT MD1220       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+289  EVDPM-DAS04D                  | DELL             | STORAGE           | POWERVAULT MD1220       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | T34     | ADMIN
+
+290  EVSPLIDX01-DAS01              | DELL             | STORAGE           | POWERVAULT MD1420       | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+291  EVSPLIDX01-DAS02              | DELL             | STORAGE           | POWERVAULT MD1420       | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+292  EVSPLIDX02-DAS01              | DELL             | STORAGE           | POWERVAULT MD1420       | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+293  EVSPLIDX02-DAS02              | DELL             | STORAGE           | POWERVAULT MD1420       | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+294  EVSPLIDX03-DAS01              | DELL             | STORAGE           | POWERVAULT MD1420       | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+295  EVSPLIDX03-DAS02              | DELL             | STORAGE           | POWERVAULT MD1420       | ADMIN    | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          | FRANK WAYNE                 | O34     | ADMIN
+
+296  EVSPLIDX04-DAS01              | DELL             | STORAGE           | POWERVAULT MD1420       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | V34     | ADMIN
+
+297  EVSPLIDX04-DAS02              | DELL             | STORAGE           | POWERVAULT MD1420       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | V34     | ADMIN
+
+298  EVSPLIDX05-DAS01              | DELL             | STORAGE           | POWERVAULT MD1420       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | V34     | ADMIN
+
+299  EVSPLIDX05-DAS02              | DELL             | STORAGE           | POWERVAULT MD1420       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | V34     | ADMIN
+
+300  EVSPLUNKDISK                  | DELL             | STORAGE           | POWERVAULT MD1220       |          | PIPS                     | NUIT-CI-COLLABORATIONSERVICES          |                             | U34     | ADMIN
+
+301  VMBKUP01A-DAS                 | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T34     | ADMIN
+
+302  VMBKUP02A-DAS                 | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+303  VMBKUP03A-DAS                 | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U34     | ADMIN
+
+304  VMBKUP04A-DAS                 | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V34     | ADMIN
+
+305  VMBKUP05A-DAS-OLD             | DELL             | STORAGE           | MD1400                  |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | T34     | ADMIN
+
+306  VMBKUP05A-DAS01               | DELL             | STORAGE           | POWERVAULT MD1400       |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O34     | ADMIN
+
+307  VMBKUP06-DAS                  | DELL             | STORAGE           | POWERVAULT MD1200       |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+308  VMBKUP07-DAS                  | DELL             | STORAGE           | MD1400                  |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | U34     | ADMIN
+
+309  VMBKUP08A-DAS01               | DELL             | STORAGE           | MD1400                  |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | S34     | ADMIN
+
+310  VMBKUP09A-DAS01               | DELL             | STORAGE           | MD1400                  |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | BRAD PRILLER                | S34     | ADMIN
+
+311  EVISILON 19  20  21  22       | EMC              | STORAGE           | ISILON H400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+312  EVISILON 23 AND 24            | EMC              | STORAGE           | ISILON H400             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+313  EVISILON 27 AND 28            | EMC              | STORAGE           | ISILON H400             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+314  EVISILON 31  32  33  34       | EMC              | STORAGE           | ISILON H400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+315  EVISILON 35 AND 36            | EMC              | STORAGE           | ISILON H400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+316  EVISILON 37  38  39  40       | EMC              | STORAGE           | ISILON H400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+317  EVISILON01-N1                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+318  EVISILON01-N2                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+319  EVISILON01-N3                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+320  EVISILON01-N4                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+321  EVISILON01-N5                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+322  EVISILON02-N1                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+323  EVISILON02-N2                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+324  EVISILON02-N3                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+325  EVISILON02-N4                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+326  EVISILON03-N1                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+327  EVISILON03-N10                | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U43     | ADMIN
+
+328  EVISILON03-N11                | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U43     | ADMIN
+
+329  EVISILON03-N12                | EMC              | STORAGE           | ISILON X410             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | U43     | ADMIN
+
+330  EVISILON03-N13                | EMC              | STORAGE           | ISILON X410             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | U43     | ADMIN
+
+331  EVISILON03-N14                | EMC              | STORAGE           | ISILON X410             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | U43     | ADMIN
+
+332  EVISILON03-N15                | EMC              | STORAGE           | ISILON X410             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | U43     | ADMIN
+
+333  EVISILON03-N16                | EMC              | STORAGE           | ISILON X410             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | U43     | ADMIN
+
+334  EVISILON03-N17                | EMC              | STORAGE           | ISILON X410             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | U43     | ADMIN
+
+335  EVISILON03-N18                | EMC              | STORAGE           | ISILON X410             |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | V43     | ADMIN
+
+336  EVISILON03-N2                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+337  EVISILON03-N3                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+338  EVISILON03-N4                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+339  EVISILON03-N5                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+340  EVISILON03-N6                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+341  EVISILON03-N7                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+342  EVISILON03-N8                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U43     | ADMIN
+
+343  EVISILON03-N9                 | EMC              | STORAGE           | ISILON X400             |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | U43     | ADMIN
+
+344  EV3700-3-ENCL 2               | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+345  EV3700-3-ENCL 3               | IBM              | STORAGE           | STORWISE V3700          | ADMIN    | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+346  EV3700-3-ENCL 4               | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+347  EV3700-3-ENCL 5               | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+348  EV3700-3MGMT                  | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q34     | ADMIN
+
+349  EV3700-COLLAB-ENCL 2          | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | R43     | ADMIN
+
+350  EV3700-COLLAB-ENCL 3          | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | R43     | ADMIN
+
+351  EV3700-COLLAB-ENCL 4          | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | R43     | ADMIN
+
+352  EV3700-COLLAB-ENCL 5          | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | R43     | ADMIN
+
+353  EV3700-COLLABMGMT             | IBM              | STORAGE           | STORWISE V3700          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            | TOM HALLORAN                | R43     | ADMIN
+
+354  EV5030-1/ENCL 2               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+355  EV5030-1/ENCL 3               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+356  EV5030-1/ENCL 4               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+357  EV5030-1/ENCL 6               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+358  EV5030-1/ENCL 7               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+359  EV5030-1MGMT                  | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+360  EV5030-1_20                   | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+361  EV5030-2/ENCL 2               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+362  EV5030-2/ENCL 3               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+363  EV5030-2/ENCL 4               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+364  EV5030-2/ENCL 5               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+365  EV5030-2/ENCL 6               | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+366  EV5030-2MGMT                  | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+367  EV5030-2_10                   | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q43     | ADMIN
+
+368  EV5030-NUCLOUD-1MGMT          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+369  EV5030-NUCLOUD-ENCL1          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+370  EV5030-NUCLOUD-ENCL2          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+371  EV5030-NUCLOUD-ENCL3          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+372  EV5030-NUCLOUD-ENCL4          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+373  EV5030-NUCLOUD-ENCL5          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+374  EV5030-NUCLOUD-ENCL6          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+375  EV5030-NUCLOUD-ENCL7          | IBM              | STORAGE           | STORWISE V5030          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | O43     | ADMIN
+
+376  EVISILON01-IB-1               | MELLANOX         | STORAGE           | IS 5022 DEVICE          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+377  EVISILON01-IB-2               | MELLANOX         | STORAGE           | IS 5022 DEVICE          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | P43     | ADMIN
+
+378  EVISILON02-IB-1               | MELLANOX         | STORAGE           | IS 5022 DEVICE          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+379  EVISILON02-IB-2               | MELLANOX         | STORAGE           | IS 5022 DEVICE          |          | SO                       | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | Q39     | ADMIN
+
+380  EVISILON03-IB-1 (36)          | MELLANOX         | STORAGE           | IS 5022 DEVICE          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+381  EVISILON03-IB-2 (36)          | MELLANOX         | STORAGE           | IS 5022 DEVICE          |          | PIPS                     | NUIT-CI-PIPS-INFRASTRUCTURE            |                             | T43     | ADMIN
+
+382  BACKUP2 MASTER                | PROE HARDWARE    | STORAGE           | PRO472                  |          | SO                       | NUIT-TSS-SUPPORTSERVICES               |                             | U39     | ADMIN
+
+383  BACKUP2 SLAVE                 | PROE HARDWARE    | STORAGE           | PRO490                  |          | SO                       | NUIT-TSS-SUPPORTSERVICES               |                             | U39     | ADMIN
+
+384 (381 rows)
+
+385 
+

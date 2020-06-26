@@ -1,0 +1,264 @@
+﻿
+Device Name,Model,Device Type,Service Tag,Service Level Code,Warranty Type,Warranty Description,Service Provider,Shipped Date,Start Date,End Date,Days Remaining
+evesxc03n03-v34-idrac.itcs.private,PowerEdge R640,Server,38W3H13,GD,INITIAL,ProSupport Mission Critical,DELL,12/28/2019,12/28/2019,12/28/2024,1656
+evesxc03n03-v34-idrac.itcs.private,PowerEdge R640,Server,38W3H13,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,12/28/2019,12/29/2022,12/29/2024,1657
+evesxc03n03-v34-idrac.itcs.private,PowerEdge R640,Server,38W3H13,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,12/28/2019,12/28/2019,12/28/2022,925
+motio-idrac.itcs.private,PowerEdge R630,Server,82N0CH2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,2/10/2017,2/10/2017,2/10/2021,239
+motio-idrac.itcs.private,PowerEdge R630,Server,82N0CH2,SV,INITIAL,Silver Support or ProSupport,DELL,2/10/2017,2/10/2017,2/10/2021,239
+risaopstst-idrac.itcs.private,PowerEdge R730xd,Server,G4S6HH2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,3/30/2017,3/30/2017,3/30/2022,652
+nubievapp07-idrac.itcs.private,PowerEdge R630,Server,4TK3S52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/26/2015,6/28/2020,6/27/2021,376
+nubievapp07-idrac.itcs.private,PowerEdge R630,Server,4TK3S52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/26/2015,6/27/2019,6/26/2020,10
+nubievapp07-idrac.itcs.private,PowerEdge R630,Server,4TK3S52,SV,EXTENDED,Silver Support or ProSupport,DELL,6/26/2015,6/28/2020,6/27/2021,376
+nubievapp07-idrac.itcs.private,PowerEdge R630,Server,4TK3S52,SV,EXTENDED,Silver Support or ProSupport,DELL,6/26/2015,6/27/2019,6/26/2020,10
+evract12-idrac.itcs.private,PowerEdge R630,Server,G42GGB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2016,5/1/2020,4/29/2021,317
+nubievapp08-idrac.itcs.private,PowerEdge R630,Server,4TK4S52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/26/2015,6/28/2020,6/27/2021,376
+nubievapp08-idrac.itcs.private,PowerEdge R630,Server,4TK4S52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/26/2015,6/27/2019,6/26/2020,10
+nubievapp08-idrac.itcs.private,PowerEdge R630,Server,4TK4S52,SV,EXTENDED,Silver Support or ProSupport,DELL,6/26/2015,6/28/2020,6/27/2021,376
+nubievapp08-idrac.itcs.private,PowerEdge R630,Server,4TK4S52,SV,EXTENDED,Silver Support or ProSupport,DELL,6/26/2015,6/27/2019,6/26/2020,10
+vmbkup02a-idrac.itcs.private,PowerEdge R630,Server,10TYT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/9/2020,8/7/2021,417
+vmbkup02a-idrac.itcs.private,PowerEdge R630,Server,10TYT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/8/2019,8/7/2020,52
+nubievapp09-idrac.itcs.private,PowerEdge R630,Server,4TK5S52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/26/2015,6/28/2020,6/27/2021,376
+nubievapp09-idrac.itcs.private,PowerEdge R630,Server,4TK5S52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/26/2015,6/27/2019,6/26/2020,10
+nubievapp09-idrac.itcs.private,PowerEdge R630,Server,4TK5S52,SV,EXTENDED,Silver Support or ProSupport,DELL,6/26/2015,6/28/2020,6/27/2021,376
+nubievapp09-idrac.itcs.private,PowerEdge R630,Server,4TK5S52,SV,EXTENDED,Silver Support or ProSupport,DELL,6/26/2015,6/27/2019,6/26/2020,10
+evadsdc4-idrac.itcs.private,PowerEdge R630,Server,DG12182,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,11/30/2015,12/2/2019,11/30/2020,167
+evesxcloud32-idrac.itcs.private,PowerEdge R630,Server,H17JR52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/18/2015,6/19/2019,6/18/2020,2
+vmbkup01a-bk.itcs.private,PowerEdge R630,Server,10V0V52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/9/2020,8/7/2021,417
+vmbkup01a-bk.itcs.private,PowerEdge R630,Server,10V0V52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/8/2019,8/7/2020,52
+alps2-idrac.itcs.private,PowerEdge R730,Server,C1HLT52,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/31/2015,7/31/2015,7/31/2019,0
+alps2-idrac.itcs.private,PowerEdge R730,Server,C1HLT52,SV,INITIAL,Silver Support or ProSupport,DELL,7/31/2015,7/31/2015,7/31/2019,0
+evsplsrces-idrac.itcs.private,PowerEdge R630,Server,8TQZ482,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,3/3/2016,3/3/2016,3/3/2020,0
+evesx79-idrac.itcs.private,PowerEdge R630,Server,CQ5ZT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+evesx41-idrac.itcs.private,PowerEdge R620,Server,2KXKV12,KK,EXTENDED,Keep Your Hard Drive Service,DELL,6/20/2014,3/22/2018,6/21/2019,0
+evesx41-idrac.itcs.private,PowerEdge R620,Server,2KXKV12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/20/2014,6/22/2018,6/21/2019,0
+evesx78-idrac.itcs.private,PowerEdge R630,Server,CQ6VT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+risaopsprddat-idrac.itcs.private,PowerEdge R730xd,Server,G4S5HH2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,3/31/2017,3/31/2017,3/31/2022,653
+evesx80-idrac.itcs.private,PowerEdge R630,Server,CQ5XT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+evvsrx02-idrac.itcs.private,PowerEdge R630,Server,HHP0JB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/4/2016,6/6/2020,6/4/2021,353
+evesxcloud31-idrac.itcs.private,PowerEdge R630,Server,H17HR52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/18/2015,6/19/2019,6/18/2020,2
+evsplses01-idrac.itcs.private,PowerEdge R640,Server,3CV81Q2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/3/2018,8/3/2018,8/2/2021,412
+evesxcloud36-idrac.itcs.private,PowerEdge R630,Server,HRK6GK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/8/2017,7/8/2017,7/8/2021,387
+evesxcloud37-idrac.itcs.private,PowerEdge R630,Server,HRK7GK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/8/2017,7/8/2017,7/8/2021,387
+evesxcloud39-idrac.itcs.private,PowerEdge R630,Server,84VTFK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/21/2017,6/21/2017,6/21/2021,370
+evsplidx02-idrac.itcs.private,PowerEdge R630,Server,BVQCS52,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/14/2015,7/14/2015,7/14/2019,0
+evesxc02n02-u39-idrac.itcs.private,PowerEdge R640,Server,5Y0WQP2,GD,INITIAL,ProSupport Mission Critical,DELL,5/25/2018,5/25/2018,5/24/2023,1072
+evesxc02n02-u39-idrac.itcs.private,PowerEdge R640,Server,5Y0WQP2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/25/2018,5/25/2021,5/25/2023,1073
+evesxc02n02-u39-idrac.itcs.private,PowerEdge R640,Server,5Y0WQP2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,5/25/2018,5/25/2018,5/24/2021,342
+evcspdpm02-bk.itcs.private,PowerEdge R710,Server,53NJXQ1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/21/2011,7/22/2017,7/24/2018,0
+evract14-idrac.itcs.private,PowerEdge R630,Server,G42JGB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2016,5/1/2020,4/29/2021,317
+evesxc02n03-o34-idrac.itcs.private,PowerEdge R640,Server,J245HQ2,GD,INITIAL,ProSupport Mission Critical,DELL,8/26/2018,8/27/2018,8/26/2023,1166
+evesxc02n03-o34-idrac.itcs.private,PowerEdge R640,Server,J245HQ2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2021,8/26/2023,1166
+evesxc02n03-o34-idrac.itcs.private,PowerEdge R640,Server,J245HQ2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2018,8/25/2021,435
+evesxtnsc01n02-idrac.itcs.private,PowerEdge R730,Server,5XQ4V52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/17/2015,8/18/2019,8/17/2020,62
+evesxtnsc01n02-idrac.itcs.private,PowerEdge R730,Server,5XQ4V52,P+,EXTENDED,ProSupport Plus,DELL,8/17/2015,8/18/2019,8/17/2020,62
+evesxc02n04-o34-idrac.itcs.private,PowerEdge R640,Server,J243HQ2,GD,INITIAL,ProSupport Mission Critical,DELL,8/26/2018,8/27/2018,8/26/2023,1166
+evesxc02n04-o34-idrac.itcs.private,PowerEdge R640,Server,J243HQ2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2021,8/26/2023,1166
+evesxc02n04-o34-idrac.itcs.private,PowerEdge R640,Server,J243HQ2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2018,8/25/2021,435
+coiprod-idrac.itcs.private,PowerEdge R730xd,Server,236P182,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/14/2015,10/14/2015,10/14/2020,120
+evesxc02n01-u39-idrac.itcs.private,PowerEdge R640,Server,5Y0XQP2,GD,INITIAL,ProSupport Mission Critical,DELL,5/25/2018,5/25/2018,5/24/2023,1072
+evesxc02n01-u39-idrac.itcs.private,PowerEdge R640,Server,5Y0XQP2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/25/2018,5/25/2021,5/25/2023,1073
+evesxc02n01-u39-idrac.itcs.private,PowerEdge R640,Server,5Y0XQP2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,5/25/2018,5/25/2018,5/24/2021,342
+evnbms02-idrac.itcs.private,PowerEdge R640,Server,4GRHHQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),Dell EMC,8/23/2018,8/23/2018,8/22/2022,797
+evnbms02-idrac.itcs.private,PowerEdge R640,Server,4GRHHQ2,SV,INITIAL,Silver Support or ProSupport,DELL,8/23/2018,8/22/2018,8/21/2022,796
+evesxc02n07-s34-idrac.itcs.private,PowerEdge R640,Server,J247HQ2,GD,INITIAL,ProSupport Mission Critical,DELL,8/26/2018,8/27/2018,8/26/2023,1166
+evesxc02n07-s34-idrac.itcs.private,PowerEdge R640,Server,J247HQ2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2021,8/26/2023,1166
+evesxc02n07-s34-idrac.itcs.private,PowerEdge R640,Server,J247HQ2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2018,8/25/2021,435
+bigbend-idrac.itcs.private,PowerEdge R620,Server,F2HXHX1,KK,EXTENDED,Keep Your Hard Drive Service,DELL,7/15/2013,7/18/2018,7/17/2019,0
+bigbend-idrac.itcs.private,PowerEdge R620,Server,F2HXHX1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/15/2013,7/18/2018,7/17/2019,0
+evesxcloud38-idrac.itcs.private,PowerEdge R630,Server,84VVFK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/21/2017,6/21/2017,6/21/2021,370
+evsplidx07-idrac.itcs.private,PowerEdge R640,Server,HM0DXQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/22/2018,7/22/2018,7/21/2021,400
+evsplidx07-idrac.itcs.private,PowerEdge R640,Server,HM0DXQ2,SV,INITIAL,Silver Support or ProSupport,DELL,7/22/2018,7/22/2018,7/21/2021,400
+zion-idrac.itcs.private,PowerEdge R620,Server,F2JVHX1,KK,EXTENDED,Keep Your Hard Drive Service,DELL,7/15/2013,7/18/2018,7/17/2019,0
+zion-idrac.itcs.private,PowerEdge R620,Server,F2JVHX1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/15/2013,7/18/2018,7/17/2019,0
+evnbmstr01-idrac.itcs.private,PowerEdge R640,Server,4GSCHQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),Dell EMC,8/23/2018,8/23/2018,8/22/2022,797
+evnbmstr01-idrac.itcs.private,PowerEdge R640,Server,4GSCHQ2,SV,INITIAL,Silver Support or ProSupport,DELL,8/23/2018,8/22/2018,8/21/2022,796
+evnbms01-idrac.itcs.private,PowerEdge R640,Server,4GS9HQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),Dell EMC,8/23/2018,8/23/2018,8/22/2022,797
+evnbms01-idrac.itcs.private,PowerEdge R640,Server,4GS9HQ2,SV,INITIAL,Silver Support or ProSupport,DELL,8/23/2018,8/22/2018,8/21/2022,796
+evsplidx06-idrac.itcs.private,PowerEdge R640,Server,HM0CXQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/22/2018,7/22/2018,7/21/2021,400
+evsplidx06-idrac.itcs.private,PowerEdge R640,Server,HM0CXQ2,SV,INITIAL,Silver Support or ProSupport,DELL,7/22/2018,7/22/2018,7/21/2021,400
+evesx15-idrac.itcs.private,PowerEdge R620,Server,9SBJDX1,S4,EXTENDED,4 Hour 5x10 Onsite Support,UNY,5/8/2013,5/9/2014,5/8/2017,0
+bryce-idrac.itcs.private,PowerEdge R620,Server,F2HWHX1,KK,EXTENDED,Keep Your Hard Drive Service,DELL,7/15/2013,7/18/2018,7/17/2019,0
+bryce-idrac.itcs.private,PowerEdge R620,Server,F2HWHX1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/15/2013,7/18/2018,7/17/2019,0
+riseacdattst-idrac.itcs.private,PowerEdge R740,Server,35GRCV2,KK,EXTENDED,Keep Your Hard Drive Service,DELL,2/6/2019,2/26/2019,2/5/2024,1329
+riseacdattst-idrac.itcs.private,PowerEdge R740,Server,35GRCV2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,2/6/2019,2/6/2019,2/5/2024,1329
+evcspmbx06-idrac.itcs.private,PowerEdge R720,Server,4CPKV12,KK,EXTENDED,Keep Your Hard Drive Service,DELL,6/22/2014,3/28/2018,6/22/2020,6
+evcspmbx06-idrac.itcs.private,PowerEdge R720,Server,4CPKV12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/22/2014,6/22/2018,6/22/2020,6
+evesxc03n01-v34-idrac.itcs.private,PowerEdge R640,Server,38W4H13,GD,INITIAL,ProSupport Mission Critical,DELL,12/28/2019,12/28/2019,12/28/2024,1656
+evesxc03n01-v34-idrac.itcs.private,PowerEdge R640,Server,38W4H13,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,12/28/2019,12/29/2022,12/29/2024,1657
+evesxc03n01-v34-idrac.itcs.private,PowerEdge R640,Server,38W4H13,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,12/28/2019,12/28/2019,12/28/2022,925
+alps-idrac.itcs.private,PowerEdge R620,Server,1CT7CZ1,GD,INITIAL,ProSupport Mission Critical,DELL,12/10/2013,12/10/2013,12/10/2018,0
+alps-idrac.itcs.private,PowerEdge R620,Server,1CT7CZ1,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,12/10/2013,12/11/2014,12/10/2018,0
+evesxc03n02-v34-idrac.itcs.private,PowerEdge R640,Server,38V9H13,GD,INITIAL,ProSupport Mission Critical,DELL,12/28/2019,12/28/2019,12/28/2024,1656
+evesxc03n02-v34-idrac.itcs.private,PowerEdge R640,Server,38V9H13,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,12/28/2019,12/29/2022,12/29/2024,1657
+evesxc03n02-v34-idrac.itcs.private,PowerEdge R640,Server,38V9H13,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,12/28/2019,12/28/2019,12/28/2022,925
+vmbkup09a-idrac.itcs.private,PowerEdge R640,Server,14J7DW2,KK,INITIAL,Keep Your Hard Drive Service,DELL,4/27/2019,4/26/2019,4/25/2023,1043
+vmbkup09a-idrac.itcs.private,PowerEdge R640,Server,14J7DW2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/27/2019,4/27/2019,4/26/2023,1044
+evvsrx04-idrac.itcs.private,PowerEdge R740xd,Server,4JMHHQ2,KK,INITIAL,Keep Your Hard Drive Service,DELL,8/20/2018,8/21/2018,8/20/2021,430
+evvsrx04-idrac.itcs.private,PowerEdge R740xd,Server,4JMHHQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/20/2018,8/20/2018,8/19/2021,429
+evvsrx04-idrac.itcs.private,PowerEdge R740xd,Server,4JMHHQ2,SV,INITIAL,Silver Support or ProSupport,DELL,8/20/2018,8/21/2018,8/20/2021,430
+evesx18-idrac.itcs.private,PowerEdge R620,Server,9S8HDX1,S4,EXTENDED,4 Hour 5x10 Onsite Support,UNY,5/8/2013,5/9/2014,5/8/2017,0
+riseirb7dattest-idrac.itcs.private,PowerEdge R720xd,Server,CV3PW12,KK,EXTENDED,Keep Your Hard Drive Service,DELL,8/4/2014,8/6/2018,8/4/2021,414
+riseirb7dattest-idrac.itcs.private,PowerEdge R720xd,Server,CV3PW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/4/2014,8/6/2018,8/3/2021,413
+evracr6-idrac.itcs.private,PowerEdge R620,Server,D337P22,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/28/2014,10/30/2019,10/28/2020,134
+evcspmbx01-bkup.itcs.private,PowerEdge R720,Server,3YQTGX1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/18/2013,6/19/2017,6/19/2019,0
+evracr8-idrac.itcs.private,PowerEdge R620,Server,D345P22,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/28/2014,10/30/2019,10/28/2020,134
+evesx16-idrac.itcs.private,PowerEdge R620,Server,9S9JDX1,S4,EXTENDED,4 Hour 5x10 Onsite Support,UNY,5/8/2013,5/9/2014,5/8/2017,0
+evracr9-idrac.itcs.private,PowerEdge R620,Server,D355P22,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/28/2014,10/30/2019,10/28/2020,134
+evcspmbx03-bkup.itcs.private,PowerEdge R720,Server,3YPVGX1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/18/2013,6/19/2017,6/19/2019,0
+riseirb7dat-idrac.itcs.private,PowerEdge R720xd,Server,175KN22,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,9/17/2014,9/18/2018,8/5/2021,415
+evcspmbx04-bkup.itcs.private,PowerEdge R720,Server,DRW48Y1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/19/2013,8/20/2017,8/20/2019,0
+ffratm1prd-idrac.itcs.private,PowerEdge R630,Server,1HFY842,GD,EXTENDED,ProSupport Mission Critical,DELL,1/30/2015,1/31/2019,1/30/2020,0
+ffratm1prd-idrac.itcs.private,PowerEdge R630,Server,1HFY842,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,1/30/2015,1/31/2019,1/30/2020,0
+vmbkup05-idrac.itcs.private,PowerEdge R620,Server,4C26Q22,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/2/2014,10/3/2015,10/2/2018,0
+evsplidx91-idrac.itcs.private,PowerEdge R620,Server,3Z5BH02,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,2/25/2014,2/26/2018,2/26/2019,0
+evesxcloud40-idrac.itcs.private,PowerEdge R630,Server,84VSFK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/21/2017,6/21/2017,6/21/2021,370
+evracr10-idrac.itcs.private,PowerEdge R620,Server,D354P22,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/28/2014,10/30/2019,10/28/2020,134
+evcspmbx05-idrac.itcs.private,PowerEdge R720,Server,4CPJV12,KK,EXTENDED,Keep Your Hard Drive Service,DELL,6/22/2014,3/28/2018,6/22/2020,6
+evcspmbx05-idrac.itcs.private,PowerEdge R720,Server,4CPJV12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/22/2014,6/22/2018,6/22/2020,6
+riseirb7apptest-idrac.itcs.private,PowerEdge R720xd,Server,CV4MW12,KK,EXTENDED,Keep Your Hard Drive Service,DELL,8/4/2014,8/6/2018,8/4/2021,414
+riseirb7apptest-idrac.itcs.private,PowerEdge R720xd,Server,CV4MW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/4/2014,8/6/2018,8/3/2021,413
+vmbkup07-idrac.itcs.private,PowerEdge R630,Server,8WYWHK2,KK,INITIAL,Keep Your Hard Drive Service,DELL,8/3/2017,8/3/2017,8/3/2021,413
+vmbkup07-idrac.itcs.private,PowerEdge R630,Server,8WYWHK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/3/2017,8/3/2017,8/3/2021,413
+evcspmbx02-bkup.itcs.private,PowerEdge R720,Server,3YQSGX1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/18/2013,6/19/2017,6/19/2019,0
+evcspssql1-idrac.itcs.private,PowerEdge R710,Server,F1BFJS1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,2/21/2012,2/22/2018,2/22/2019,0
+evcspssql2-idrac.itcs.private,PowerEdge R710,Server,F1BCJS1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,2/21/2012,2/22/2018,2/22/2019,0
+evesxc02n05-s34-idrac.itcs.private,PowerEdge R640,Server,J246HQ2,GD,INITIAL,ProSupport Mission Critical,DELL,8/26/2018,8/27/2018,8/26/2023,1166
+evesxc02n05-s34-idrac.itcs.private,PowerEdge R640,Server,J246HQ2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2021,8/26/2023,1166
+evesxc02n05-s34-idrac.itcs.private,PowerEdge R640,Server,J246HQ2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2018,8/25/2021,435
+evitcspdc-idrac.itcs.private,PowerEdge R640,Server,12S3HQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),Dell EMC,8/10/2018,8/10/2018,8/9/2022,784
+evitcspdc-idrac.itcs.private,PowerEdge R640,Server,12S3HQ2,SV,INITIAL,Silver Support or ProSupport,DELL,8/10/2018,8/10/2018,8/9/2022,784
+evracr7-idrac.itcs.private,PowerEdge R620,Server,D357P22,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/28/2014,10/30/2019,10/28/2020,134
+evesxcloud35-idrac.itcs.private,PowerEdge R630,Server,HHPJHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/3/2016,6/5/2020,6/3/2021,352
+evesxc01n06-t39-idrac.itcs.private,PowerEdge R630,Server,HLQWHH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n06-t39-idrac.itcs.private,PowerEdge R630,Server,HLQWHH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/25/2020,5/25/2021,343
+evesxc01n08-t39-idrac.itcs.private,PowerEdge R630,Server,HLQDJH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n08-t39-idrac.itcs.private,PowerEdge R630,Server,HLQDJH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/26/2021,5/26/2022,709
+evesxc01n08-t39-idrac.itcs.private,PowerEdge R630,Server,HLQDJH2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/24/2018,5/24/2021,342
+evesxcloud34-idrac.itcs.private,PowerEdge R630,Server,HHPHHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/3/2016,6/5/2020,6/3/2021,352
+evesxc02n06-s34-idrac.itcs.private,PowerEdge R640,Server,J244HQ2,GD,INITIAL,ProSupport Mission Critical,DELL,8/26/2018,8/27/2018,8/26/2023,1166
+evesxc02n06-s34-idrac.itcs.private,PowerEdge R640,Server,J244HQ2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2021,8/26/2023,1166
+evesxc02n06-s34-idrac.itcs.private,PowerEdge R640,Server,J244HQ2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,8/26/2018,8/26/2018,8/25/2021,435
+evesxc01n03-q39-idrac.itcs.private,PowerEdge R630,Server,HLR0JH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n03-q39-idrac.itcs.private,PowerEdge R630,Server,HLR0JH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/25/2020,5/25/2021,343
+evesxc01n01-q39-idrac.itcs.private,PowerEdge R630,Server,HLQCJH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n01-q39-idrac.itcs.private,PowerEdge R630,Server,HLQCJH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/25/2020,5/25/2021,343
+idrac-DHL1QD2,PowerEdge R630,Server,DHL1QD2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/3/2016,8/3/2016,8/3/2020,48
+idrac-DHL1QD2,PowerEdge R630,Server,DHL1QD2,SV,INITIAL,Silver Support or ProSupport,DELL,8/3/2016,8/3/2016,8/3/2020,48
+evcspmbx2-bkup.itcs.private,PowerEdge R710,Server,JHPMMN1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),QLX,12/22/2010,1/6/2017,12/22/2017,0
+evesxc01n02-q39-idrac.itcs.private,PowerEdge R630,Server,HLQXHH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n02-q39-idrac.itcs.private,PowerEdge R630,Server,HLQXHH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/25/2020,5/25/2021,343
+evesxc01n05-t39-idrac.itcs.private,PowerEdge R630,Server,HLQYHH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n05-t39-idrac.itcs.private,PowerEdge R630,Server,HLQYHH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/25/2020,5/25/2021,343
+evract13-idrac.itcs.private,PowerEdge R630,Server,G42HGB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2016,5/1/2020,4/29/2021,317
+idrac-DHL2QD2,PowerEdge R630,Server,DHL2QD2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/3/2016,8/3/2016,8/3/2020,48
+idrac-DHL2QD2,PowerEdge R630,Server,DHL2QD2,SV,INITIAL,Silver Support or ProSupport,DELL,8/3/2016,8/3/2016,8/3/2020,48
+evesxc01n07-t39-idrac.itcs.private,PowerEdge R630,Server,HLQZHH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n07-t39-idrac.itcs.private,PowerEdge R630,Server,HLQZHH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/25/2020,5/25/2021,343
+coiproddata-idrac.itcs.private,PowerEdge R730xd,Server,235T182,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/14/2015,10/14/2015,10/14/2020,120
+evesxcloud43-idrac.itcs.private,PowerEdge R630,Server,HHXHHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+evvsrx03-idrac.itcs.private,PowerEdge R740xd,Server,4JN9HQ2,KK,INITIAL,Keep Your Hard Drive Service,DELL,8/20/2018,8/21/2018,8/20/2021,430
+evvsrx03-idrac.itcs.private,PowerEdge R740xd,Server,4JN9HQ2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/20/2018,8/20/2018,8/19/2021,429
+evvsrx03-idrac.itcs.private,PowerEdge R740xd,Server,4JN9HQ2,SV,INITIAL,Silver Support or ProSupport,DELL,8/20/2018,8/21/2018,8/20/2021,430
+evvsrx01-idrac.itcs.private,PowerEdge R630,Server,HHNZHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/4/2016,6/6/2020,6/4/2021,353
+spl-plh2.itcs.private,PowerEdge R630,Server,7DWZPD2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/29/2016,7/29/2016,7/29/2021,408
+riseacwebtst-idrac.itcs.private,PowerEdge R740,Server,35GSCV2,KK,EXTENDED,Keep Your Hard Drive Service,DELL,2/6/2019,2/26/2019,2/5/2024,1329
+riseacwebtst-idrac.itcs.private,PowerEdge R740,Server,35GSCV2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,2/6/2019,2/6/2019,2/5/2024,1329
+evesxcloud41-idrac.itcs.private,PowerEdge R630,Server,84VWFK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/21/2017,6/21/2017,6/21/2021,370
+evesx75-idrac.itcs.private,PowerEdge R630,Server,CQ61V52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+evesxcloud44-idrac.itcs.private,PowerEdge R630,Server,HHXVHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+evairwave-idrac.itcs.private,PowerEdge R720xd,Server,2JPN3V1,GD,INITIAL,ProSupport Mission Critical,DELL,4/30/2012,4/30/2012,4/30/2016,0
+evairwave-idrac.itcs.private,PowerEdge R720xd,Server,2JPN3V1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/30/2012,4/30/2016,4/30/2018,0
+evairwave-idrac.itcs.private,PowerEdge R720xd,Server,2JPN3V1,P+,EXTENDED,ProSupport Plus,DELL,4/30/2012,5/5/2016,4/30/2018,0
+evairwave-idrac.itcs.private,PowerEdge R720xd,Server,2JPN3V1,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,4/30/2012,5/1/2013,4/30/2016,0
+evesx86-idrac.itcs.private,PowerEdge R630,Server,HHXXHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+evesx84-idrac.itcs.private,PowerEdge R630,Server,HHXGHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+evesx85-idrac.itcs.private,PowerEdge R630,Server,HHXKHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+riseirbdata2-idrac.itcs.private,PowerEdge T710,Server,7T3NWR1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,12/2/2011,5/22/2015,5/18/2017,0
+ffratm1prd2-bk.itcs.private,PowerEdge R640,Server,JCPPHQ2,GD,INITIAL,ProSupport Mission Critical,DELL,9/4/2018,9/4/2018,9/3/2023,1174
+ffratm1prd2-bk.itcs.private,PowerEdge R640,Server,JCPPHQ2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,9/4/2018,9/4/2021,9/4/2023,1175
+ffratm1prd2-bk.itcs.private,PowerEdge R640,Server,JCPPHQ2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,9/4/2018,9/4/2018,9/3/2021,444
+vmbkup05a-idrac.itcs.private,PowerEdge R630,Server,8WYXHK2,KK,INITIAL,Keep Your Hard Drive Service,DELL,8/4/2017,8/3/2017,8/3/2021,413
+vmbkup05a-idrac.itcs.private,PowerEdge R630,Server,8WYXHK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/4/2017,8/4/2017,8/4/2021,414
+evesxcloud42-idrac.itcs.private,PowerEdge R630,Server,84VXFK2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/21/2017,6/21/2017,6/21/2021,370
+evesx76-idrac.itcs.private,PowerEdge R630,Server,CQ5VT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+evesx82-idrac.itcs.private,PowerEdge R630,Server,HHXJHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+vmbkup08a-idrac.itcs.private,PowerEdge R640,Server,14HDDW2,KK,INITIAL,Keep Your Hard Drive Service,DELL,4/27/2019,4/26/2019,4/25/2023,1043
+vmbkup08a-idrac.itcs.private,PowerEdge R640,Server,14HDDW2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/27/2019,4/27/2019,4/26/2023,1044
+evesx57-idrac.itcs.private,PowerEdge R620,Server,CZ7NW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+evesx59-idrac.itcs.private,PowerEdge R620,Server,CZ8NW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+evesx61-idrac.itcs.private,PowerEdge R620,Server,CZ7MW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+risaopsprd-idrac.itcs.private,PowerEdge R730xd,Server,G4S7HH2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,3/30/2017,3/30/2017,3/30/2022,652
+evpumhost-idrac.itcs.private,PowerEdge R630,Server,7N98FB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,3/29/2016,3/30/2019,3/29/2020,0
+evsplidx04-idrac.itcs.private,PowerEdge R630,Server,7DWYPD2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/29/2016,7/29/2016,7/29/2021,408
+evesxcloud33-idrac.itcs.private,PowerEdge R630,Server,H17KR52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/18/2015,6/19/2019,6/18/2020,2
+evesxt01n01-idrac.itcs.private,PowerEdge R620,Server,CZ8MW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+evesx58-idrac.itcs.private,PowerEdge R620,Server,CZ8PW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+evesxtnsc01n01-idrac.itcs.private,PowerEdge R730,Server,5XQ3V52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/17/2015,8/18/2019,8/17/2020,62
+evesxtnsc01n01-idrac.itcs.private,PowerEdge R730,Server,5XQ3V52,P+,EXTENDED,ProSupport Plus,DELL,8/17/2015,8/18/2019,8/17/2020,62
+evesxcloud47-idrac.itcs.private,PowerEdge R630,Server,7YZ1D42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+evesxt01n02-idrac.itcs.private,PowerEdge R620,Server,CZ8LW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+evesx70-idrac.itcs.private,PowerEdge R630,Server,7YZVC42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+evesxt01n03-idrac.itcs.private,PowerEdge R620,Server,CZ7PW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+evesxcloud46-idrac.itcs.private,PowerEdge R630,Server,7YZXC42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+evesx73-idrac.itcs.private,PowerEdge R630,Server,7ZS5D42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,5/4/2015,5/5/2019,5/4/2020,0
+evesxcloud48-idrac.itcs.private,PowerEdge R630,Server,7YZYC42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+vmbkup04a-bk.itcs.private,PowerEdge R630,Server,10TZT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/9/2020,8/7/2021,417
+vmbkup04a-bk.itcs.private,PowerEdge R630,Server,10TZT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/8/2019,8/7/2020,52
+evsplsrc01-idrac.itcs.private,PowerEdge R630,Server,BVPMS52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/13/2015,7/14/2019,7/13/2020,27
+evesx87-idrac.itcs.private,PowerEdge R630,Server,HHXLHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+nutableau-idrac.itcs.private,PowerEdge R630,Server,826MKB2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/13/2016,7/13/2016,7/13/2020,27
+risaopststdat-idrac.itcs.private,PowerEdge R730xd,Server,G4RBHH2,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,3/31/2017,3/31/2017,3/31/2022,653
+evract10-idrac.itcs.private,PowerEdge R620,Server,HP5SK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/29/2014,5/1/2020,4/28/2021,316
+evract10-idrac.itcs.private,PowerEdge R620,Server,HP5SK02,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2014,5/1/2020,4/28/2021,316
+evesx60-idrac.itcs.private,PowerEdge R620,Server,CZ7LW12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/5/2014,8/7/2018,8/6/2019,0
+evracp6-idrac.itcs.private,PowerEdge R620,Server,HP6TK02,GD,EXTENDED,ProSupport Mission Critical,DELL,4/30/2014,5/3/2020,4/30/2021,318
+evracp6-idrac.itcs.private,PowerEdge R620,Server,HP6TK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/30/2014,3/8/2018,5/1/2019,0
+evracp6-idrac.itcs.private,PowerEdge R620,Server,HP6TK02,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,4/30/2014,5/3/2020,4/30/2021,318
+riseirbweb2-idrac.itcs.private,,Server,6DYXXR1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,12/27/2011,5/22/2015,5/18/2017,0
+evesx77-idrac.itcs.private,PowerEdge R630,Server,CQ5YT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+evesx83-idrac.itcs.private,PowerEdge R630,Server,HHXWHB2,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/5/2016,6/7/2020,6/5/2021,354
+evsplidx01-idrac.itcs.private,PowerEdge R630,Server,BVQDS52,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/14/2015,7/14/2015,7/14/2019,0
+evsplsrc02-idrac.itcs.private,PowerEdge R630,Server,BVQ8S52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/13/2015,7/14/2019,7/13/2020,27
+evract9-idrac.itcs.private,PowerEdge R620,Server,HP6SK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/29/2014,5/1/2020,4/28/2021,316
+evract9-idrac.itcs.private,PowerEdge R620,Server,HP6SK02,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2014,5/1/2020,4/28/2021,316
+evesx44-idrac.itcs.private,PowerEdge R620,Server,2KXJV12,KK,EXTENDED,Keep Your Hard Drive Service,DELL,6/20/2014,3/22/2018,6/21/2019,0
+evesx44-idrac.itcs.private,PowerEdge R620,Server,2KXJV12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/20/2014,6/22/2018,6/21/2019,0
+evesxcloud45-idrac.itcs.private,PowerEdge R630,Server,7Z01D42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+evesxcloud49-idrac.itcs.private,PowerEdge R630,Server,7YZZC42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+evesx71-idrac.itcs.private,PowerEdge R630,Server,95FZC42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+evracp9-idrac.itcs.private,PowerEdge R620,Server,HP6WK02,GD,EXTENDED,ProSupport Mission Critical,DELL,4/30/2014,5/3/2020,4/30/2021,318
+evracp9-idrac.itcs.private,PowerEdge R620,Server,HP6WK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/30/2014,3/8/2018,5/1/2019,0
+evracp9-idrac.itcs.private,PowerEdge R620,Server,HP6WK02,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,4/30/2014,5/3/2020,4/30/2021,318
+evracp10-idrac.itcs.private,PowerEdge R620,Server,HP7YK02,GD,EXTENDED,ProSupport Mission Critical,DELL,4/30/2014,5/3/2020,4/30/2021,318
+evracp10-idrac.itcs.private,PowerEdge R620,Server,HP7YK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/30/2014,3/8/2018,5/1/2019,0
+evracp10-idrac.itcs.private,PowerEdge R620,Server,HP7YK02,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,4/30/2014,5/3/2020,4/30/2021,318
+evesx43-idrac.itcs.private,PowerEdge R620,Server,2KWMV12,KK,EXTENDED,Keep Your Hard Drive Service,DELL,6/20/2014,3/22/2018,6/21/2019,0
+evesx43-idrac.itcs.private,PowerEdge R620,Server,2KWMV12,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,6/20/2014,6/22/2018,6/21/2019,0
+evracp8-idrac.itcs.private,PowerEdge R620,Server,HP8XK02,GD,EXTENDED,ProSupport Mission Critical,DELL,4/30/2014,5/3/2020,4/30/2021,318
+evracp8-idrac.itcs.private,PowerEdge R620,Server,HP8XK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/30/2014,3/8/2018,5/1/2019,0
+evracp8-idrac.itcs.private,PowerEdge R620,Server,HP8XK02,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,4/30/2014,5/3/2020,4/30/2021,318
+evract8-idrac.itcs.private,PowerEdge R620,Server,HP5XK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/29/2014,5/1/2020,4/28/2021,316
+evract8-idrac.itcs.private,PowerEdge R620,Server,HP5XK02,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2014,5/1/2020,4/28/2021,316
+evract7-idrac.itcs.private,PowerEdge R620,Server,HP5WK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/29/2014,5/1/2020,4/28/2021,316
+evract7-idrac.itcs.private,PowerEdge R620,Server,HP5WK02,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2014,5/1/2020,4/28/2021,316
+evract11-idrac.itcs.private,PowerEdge R620,Server,HP5ZK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/29/2014,5/1/2020,4/28/2021,316
+evract11-idrac.itcs.private,PowerEdge R620,Server,HP5ZK02,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/29/2014,5/1/2020,4/28/2021,316
+evracp7-idrac.itcs.private,PowerEdge R620,Server,HP9TK02,GD,EXTENDED,ProSupport Mission Critical,DELL,4/30/2014,5/3/2020,4/30/2021,318
+evracp7-idrac.itcs.private,PowerEdge R620,Server,HP9TK02,KK,EXTENDED,Keep Your Hard Drive Service,DELL,4/30/2014,3/8/2018,5/1/2019,0
+evracp7-idrac.itcs.private,PowerEdge R620,Server,HP9TK02,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,4/30/2014,5/3/2020,4/30/2021,318
+evesx72-idrac.itcs.private,PowerEdge R630,Server,7Z02D42,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,4/24/2015,4/25/2019,4/24/2020,0
+evesxtnsc01n03-idrac.itcs.private,PowerEdge R730,Server,5XQ5V52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/17/2015,8/18/2019,8/17/2020,62
+evesxtnsc01n03-idrac.itcs.private,PowerEdge R730,Server,5XQ5V52,P+,EXTENDED,ProSupport Plus,DELL,8/17/2015,8/18/2019,8/17/2020,62
+evcspdpm01-bk.itcs.private,PowerEdge R710,Server,53NGXQ1,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/21/2011,7/22/2017,7/24/2018,0
+evesx17-idrac.itcs.private,PowerEdge R620,Server,9S8JDX1,S4,EXTENDED,4 Hour 5x10 Onsite Support,UNY,5/8/2013,5/9/2014,5/8/2017,0
+evesxc01n04-q39-idrac.itcs.private,PowerEdge R630,Server,HLQBJH2,GD,INITIAL,ProSupport Mission Critical,DELL,5/24/2017,5/24/2017,5/24/2021,342
+evesxc01n04-q39-idrac.itcs.private,PowerEdge R630,Server,HLQBJH2,S9,EXTENDED,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/26/2021,5/26/2022,709
+evesxc01n04-q39-idrac.itcs.private,PowerEdge R630,Server,HLQBJH2,S9,INITIAL,4 Hour 7x24 Onsite Support,UNY,5/24/2017,5/24/2018,5/24/2021,342
+coitest-idrac.itcs.private,PowerEdge R730xd,Server,235S182,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/14/2015,10/14/2015,10/14/2020,120
+coitestdata-idrac.itcs.private,PowerEdge R730xd,Server,235V182,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,10/14/2015,10/14/2015,10/14/2020,120
+evesx74-idrac.itcs.private,PowerEdge R630,Server,CQ60V52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+evsplidx03-idrac.itcs.private,PowerEdge R630,Server,BVQFS52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,7/14/2015,7/15/2019,7/14/2020,28
+vmbkup03a-bk.itcs.private,PowerEdge R630,Server,10TXT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/9/2020,8/7/2021,417
+vmbkup03a-bk.itcs.private,PowerEdge R630,Server,10TXT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/7/2015,8/8/2019,8/7/2020,52
+evesx81-idrac.itcs.private,PowerEdge R630,Server,CQ5WT52,ND,EXTENDED,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,8/14/2015,8/15/2019,8/14/2020,59
+vmbkup05-idrac.itcs.private,PowerEdge R640,Server,8TFH333,ND,INITIAL,Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (Commercial Customer),UNY,3/21/2020,3/21/2020,3/21/2024,1374

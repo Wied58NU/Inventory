@@ -1,0 +1,9 @@
+"Name": String(), "FQDN": String(), "Guest": String(), "Ownership": String(), "Contact": String(), "Standard_Level": String(), "Standard_Category": String(), "Primary_App": String(), "Function": String(), "Technical_Contact": String(), "Technical_Contact_NetID": String(), "Ticket_Number": String(), "Creation_Date": String(),
+
+
+
+
+
+
+
+"CUSTOMER": String(): String(), 

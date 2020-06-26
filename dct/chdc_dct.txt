@@ -1,0 +1,288 @@
+                 name                 |        type        |      vendor       |                 model                 |                         serial_number                          | cabinet 
+--------------------------------------+--------------------+-------------------+---------------------------------------+----------------------------------------------------------------+---------
+ CHDC-232-021535-ESW-1                |                    | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451150                                                    | 0215.35
+ CHDC-232-021535-ESW-2                |                    | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451279                                                    | 0215.35
+ CHDC-232-021539-ESW-1                |                    | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.39
+ CHDC-232-021539-ESW-2                |                    | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.39
+ ABBT-VPN-RTR-3                       |                    | CISCO SYSTEMS     | ASR1000-RP2                           | FXS2018Q37D                                                    | 0215.37
+ CH9148-C1                            |                    | CISCO SYSTEMS     | MDS 9148S                             | JPG214700HY                                                    | 0214.33
+ CH9148-D1                            |                    | CISCO SYSTEMS     | MDS 9148S                             | JPG214700MV                                                    | 0214.33
+ CHDC-UDS6GTWY                        |                    | CISCO SYSTEMS     | CISCO 4451-X                          |                                                                | 0215.40
+ 1-POWERSWITCH S5148F                 |                    | DELL              | POWERSWITCH S5148F-ON                 |                                                                | 0216.39
+ 2-POWERSWITCH S5148F                 |                    | DELL              | POWERSWITCH S5148F-ON                 |                                                                | 0216.39
+ 3-POWERSWITCH S5148F                 |                    | DELL              | POWERSWITCH S5148F-ON                 | FGQZZP2                                                        | 0216.39
+ 4-POWERSWITCH S5148F                 |                    | DELL              | POWERSWITCH S5148F-ON                 |                                                                | 0216.39
+ ABBT-234-021535-FW-1                 |                    | JUNIPER NETWORKS  | GATEWAY SRX 240                       | BU3713AK0780                                                   | 0215.35
+ CHDC-232-021536-1-LAW                |                    | JUNIPER NETWORKS  | GATEWAY SRX 220                       |                                                                | 0215.36
+ CHDC-232-021540-FW-1-CI-NODE0        |                    | JUNIPER NETWORKS  | GATEWAY SRX 1500- AC                  | DB3616AK3399                                                   | 0215.40
+ CHDC-232-021540-FW-1-CI-NODE1        |                    | JUNIPER NETWORKS  | GATEWAY SRX 1500- AC                  | DB3616AK3409                                                   | 0215.40
+ CH-ECS_RU10                          | BLADE CHASSIS      | DELL              | DSS7000                               |                                                                | 0216.39
+ CH-ECS_RU2                           | BLADE CHASSIS      | DELL              | DSS7000                               | 16B83W2                                                        | 0216.39
+ CH-ECS_RU6                           | BLADE CHASSIS      | DELL              | DSS7000                               | 16C43W2                                                        | 0216.39
+ 16D43W2^^7242^^7242                  | BLADE SERVER       | DELL              | DSS7500                               |                                                                | 0216.39
+ 16F33W2^^7243^^7243                  | BLADE SERVER       | DELL              | DSS7500                               |                                                                | 0216.39
+ 1K393W2^^7240^^7240                  | BLADE SERVER       | DELL              | DSS7500                               |                                                                | 0216.39
+ 1K693W2^^7239^^7239                  | BLADE SERVER       | DELL              | DSS7500                               |                                                                | 0216.39
+ BZP63W2^^7248^^7248                  | BLADE SERVER       | DELL              | DSS7500                               |                                                                | 0216.39
+ BZR63W2^^7249^^7249                  | BLADE SERVER       | DELL              | DSS7500                               |                                                                | 0216.39
+ 0215.36 KVM                          | KVM                | AVOCENT           | CCM 1650                              | 020093042                                                      | 0215.36
+ 2161DS - 0215_37                     | KVM                | DELL              | POWEREDGE 2161DS-2                    | GSQZQ61                                                        | 0215.27
+ 2161DS - 215_37                      | KVM                | DELL              | POWEREDGE 2161DS-2                    | 65GKR81                                                        | 0215.37
+ KVM                                  | KVM                | IBM               | 1RU KVM SWITCH                        |                                                                | 0215.31
+ 215_37 KVM CONSOLE                   | MONITOR            | DELL              | POWEREDGE CONSOLE 15FP                |                                                                | 0215.37
+ 214.34 NEXUS NODE 0                  | NETWORK APPLIANCES | CISCO SYSTEMS     | NEXUS N7K-C7710                       |                                                                | 214.34
+ 214.35 NEXUS 1                       | NETWORK APPLIANCES | CISCO SYSTEMS     | NEXUS N7K-C7710                       |                                                                | 214.35
+ CHDC-232-21537-LTM-1                 | NETWORK APPLIANCES | F5 NETWORKS       | VIPRION 2400                          | CHS405057S                                                     | 0215.38
+ CHDC-232-21537-LTM-2                 | NETWORK APPLIANCES | F5 NETWORKS       | VIPRION 2400                          | BLD480213S                                                     | 0215.37
+ 214.34 JUNIPER NODE 0                | NETWORK APPLIANCES | JUNIPER NETWORKS  | GATEWAY SRX 5600                      |                                                                | 214.34
+ 214.35 JUNIPER NODE 1                | NETWORK APPLIANCES | JUNIPER NETWORKS  | GATEWAY SRX 5600                      |                                                                | 214.35
+ CHDC-232-021523-FW-1-KGSM            | NETWORK FIREWALL   | JUNIPER NETWORKS  | ACCELERATOR DX 3680 FIPS              | JN116EFE6ADB                                                   | 0215.23
+ WIE-201A-FW-KGSM-01^^6792            | NETWORK FIREWALL   | JUNIPER NETWORKS  | ACCELERATOR DX 3680 FIPS              |                                                                | 
+ CHDC-215-23-ESW-2                    | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.23
+ CHDC-215-23-ESW-2-01^^6794           | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-215.23-ESW-1                    | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.23
+ CHDC-215.23-ESW-1-01^^6793           | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-0215.38-ESW-1               | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451204                                                    | 0215.38
+ CHDC-232-0215.38-ESW-2               | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12431682                                                    | 0215.38
+ CHDC-232-021524-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12482234                                                    | 0215.24
+ CHDC-232-021524-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12480400                                                    | 0215.24
+ CHDC-232-021525-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12480396                                                    | 0215.25
+ CHDC-232-021525-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12482247                                                    | 0215.25
+ CHDC-232-021526-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-52                          | JPE12530462                                                    | 0215.26
+ CHDC-232-021526-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-52                          | JPE12530431                                                    | 0215.26
+ CHDC-232-021527-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-52                          | JPE13030313                                                    | 0215.27
+ CHDC-232-021527-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-52                          | JPE12530439                                                    | 0215.27
+ CHDC-232-021528-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451288                                                    | 0215.28
+ CHDC-232-021528-ESW-1^^3824          | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021528-ESW-1^^3825          | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021528-ESW-1^^3826          | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021528-ESW-1^^3827          | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021528-ESW-1^^3828          | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021528-ESW-1^^3829          | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021528-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451162                                                    | 0215.28
+ CHDC-232-021533-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12421103                                                    | 0215.33
+ CHDC-232-021533-ESW-1-01^^5262       | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021533-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451174                                                    | 0215.33
+ CHDC-232-021533-ESW-2-01^^5261       | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 
+ CHDC-232-021536-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.36
+ CHDC-232-021536-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.36
+ CHDC-232-021537-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.37
+ CHDC-232-021540-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451273                                                    | 0215.40
+ CHDC-232-021540-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451211                                                    | 0215.40
+ CHDC-232-02157-ESW-2                 | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0215.37
+ CHDC-232-021637-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0216.37
+ CHDC-232-021637-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          |                                                                | 0216.37
+ CHDC-232-215.29-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451214                                                    | 0215.29
+ CHDC-232-215.29-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451296                                                    | 0215.29
+ CHDC-232-215.30-ESW-1                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451170                                                    | 0215.30
+ CHDC-232-215.30-ESW-2                | NETWORK SWITCH     | ARISTA NETWORKS   | DCS-7050T-36                          | JPE12451302                                                    | 0215.30
+ ABBT-234-021522-ESW-2-UP             | NETWORK SWITCH     | CISCO SYSTEMS     | CATALYST WS-C3850-24P                 | FOC1747X0UP                                                    | 0215.22
+ KIS CHDC UCS ESW-1                   | NETWORK SWITCH     | CISCO SYSTEMS     | UCS 6248UP                            | SSI201901VD                                                    | 0215.23
+ KIS CHDC UCS ESW-1^^6790             | NETWORK SWITCH     | CISCO SYSTEMS     | UCS 6248UP                            |                                                                | 
+ KIS CHDC UCS ESW-2                   | NETWORK SWITCH     | CISCO SYSTEMS     | UCS 6248UP                            | SSI201705R8                                                    | 0215.23
+ KIS CHDC UCS ESW-2^^6791             | NETWORK SWITCH     | CISCO SYSTEMS     | UCS 6248UP                            |                                                                | 
+ ABBT-234-021518-FW-1-FM-01           | NETWORK SWITCH     | JUNIPER NETWORKS  | GATEWAY SSG 140                       | 0162012010001599                                               | 0215.36
+ CHDC-232-021533-ESW-3                | NETWORK SWITCH     | JUNIPER NETWORKS  | EX4500                                | GX0212171630                                                   | 0215.33
+ CHDC-232-021533-ESW-3-01^^5260       | NETWORK SWITCH     | JUNIPER NETWORKS  | EX4500                                |                                                                | 
+ CHDC-232-021533-ESW-3^^5232-01^^5259 | NETWORK SWITCH     | JUNIPER NETWORKS  | EX4500                                |                                                                | 
+ CHDC-232-021533-ESW-4                | NETWORK SWITCH     | JUNIPER NETWORKS  | EX4500                                | GX0214377870                                                   | 0215.33
+ CHISILON_MELLANOX_215.33             | NETWORK SWITCH     | MELLANOX          | SX6506                                | MT1913W00001                                                   | 0215.33
+ CHISILON_MELLANOX_215.34             | NETWORK SWITCH     | MELLANOX          | SX6506                                | MT1913W00002                                                   | 0215.34
+ OPENGEAR                             | NETWORK SWITCH     | OPENGEAR          | CM 4148                               | 71160128151679                                                 | 0215.37
+ KIS DISASTER RECOVERY                | SAN                | NETAPP            | FAS2650HA                             | SHJGD1812000362_AUDIT_                                         | 0215.23
+ KIS DISASTER RECOVERY^^6784          | SAN                | NETAPP            | FAS2650HA                             |                                                                | 
+ CHDC-UDS-ESXI-1                      | SERVER             | CISCO SYSTEMS     | USC C240 M4SX                         | FCH2040V0R6                                                    | 0215.40
+ CHDC-UDS-ESXI-2                      | SERVER             | CISCO SYSTEMS     | USC C240 M4SX                         | FCH2040V0KN                                                    | 0215.40
+ CHDC-UDS-ESXI-3                      | SERVER             | CISCO SYSTEMS     | USC C240 M4SX                         | FCH2040V0TC                                                    | 0215.40
+ CHDC-UDS-ESXI-4                      | SERVER             | CISCO SYSTEMS     | UCS C240 M4S2                         | FCH2132V1EF                                                    | 0215.40
+ APPREP #1                            | SERVER             | DELL              | POWERVAULT DL4000                     | F5KW842                                                        | 0215.36
+ APPREP #2                            | SERVER             | DELL              | POWERVAULT MD1200                     | DXTZ842                                                        | 0215.36
+ C3P0-CS.RESEARCH                     | SERVER             | DELL              | PRECISION 7820 TOWER                  | H23CB03                                                        | 0215.37
+ C3P1-CS.RESEARCH                     | SERVER             | DELL              | PRECISION 7820 TOWER                  | H23DB03                                                        | 0215.37
+ CHADSDC4                             | SERVER             | DELL              | POWEREDGE R630                        | DG13182                                                        | 0215.24
+ CHCSPDPM01                           | SERVER             | DELL              | POWEREDGE R710                        | DPTBJQ1                                                        | 0215.25
+ CHCSPDPM02                           | SERVER             | DELL              | POWEREDGE R710                        | DPV8JQ1                                                        | 0215.28
+ CHCSPDPM04                           | SERVER             | DELL              | POWEREDGE R710                        | JHPYNN1                                                        | 0215.28
+ CHCSPMBX01                           | SERVER             | DELL              | POWEREDGE R720                        | DRW38Y1                                                        | 0215.30
+ CHCSPMBX02                           | SERVER             | DELL              | POWEREDGE R720                        | 3YPTGX1                                                        | 0215.30
+ CHCSPMBX03                           | SERVER             | DELL              | POWEREDGE R720                        | 3YNWGX1                                                        | 0215.29
+ CHCSPMBX04                           | SERVER             | DELL              | POWEREDGE R720                        | 3YPSGX1                                                        | 0215.29
+ CHCSPMBX05                           | SERVER             | DELL              | POWEREDGE R720                        | 4CPMV12                                                        | 0215.29
+ CHCSPMBX06                           | SERVER             | DELL              | POWEREDGE R720                        | 4CPLV12                                                        | 0215.30
+ CHCSPSFAST1                          | SERVER             | DELL              | POWEREDGE R720XD                      | 6FWC5X1                                                        | 0215.26
+ CHCSPSFAST2                          | SERVER             | DELL              | POWEREDGE R720XD                      | 5FWC5X1                                                        | 0215.27
+ CHCSPSSQL1                           | SERVER             | DELL              | POWEREDGE R710                        | F19GJS1                                                        | 0215.28
+ CHCSPSSQL2                           | SERVER             | DELL              | POWEREDGE R710                        | F1CCJS1                                                        | 0215.25
+ CHESX20                              | SERVER             | DELL              | POWEREDGE R630                        | 7ZS6D42                                                        | 0215.26
+ CHESX21                              | SERVER             | DELL              | POWEREDGE R630                        | 7ZS3D42                                                        | 0215.26
+ CHESX22                              | SERVER             | DELL              | POWEREDGE R630                        | 7ZRCD42                                                        | 0215.26
+ CHESX23                              | SERVER             | DELL              | POWEREDGE R630                        | 7ZS4D42                                                        | 0215.26
+ CHESX24                              | SERVER             | DELL              | POWEREDGE R630                        | 7YZWC42                                                        | 0215.25
+ CHESX25                              | SERVER             | DELL              | POWEREDGE R630                        | 8P99D42                                                        | 0215.25
+ CHESX26                              | SERVER             | DELL              | POWEREDGE R630                        | 9FWXC42                                                        | 0215.25
+ CHESX27                              | SERVER             | DELL              | POWEREDGE R630                        | 7Z00D42                                                        | 0215.25
+ CHESXCLOUD01                         | SERVER             | DELL              | POWEREDGE R630                        | JP0HHK2                                                        | 0215.27
+ CHESXCLOUD02                         | SERVER             | DELL              | POWEREDGE R630                        | JP0HHL2                                                        | 0215.27
+ CHESXCLOUD03                         | SERVER             | DELL              | POWEREDGE R630                        | JP0HXK2                                                        | 0215.27
+ CHITCSPDC                            | SERVER             | DELL              | POWEREDGE R640                        | 12R8HQ2                                                        | 0215.26
+ CHNBMS01                             | SERVER             | DELL              | POWEREDGE R620                        | F2JWHX1                                                        | 0215.39
+ CHRACS10                             | SERVER             | DELL              | POWEREDGE R640                        | 6ZPRN23                                                        | 0215.27
+ CHRACS11                             | SERVER             | DELL              | POWEREDGE R640                        | 6ZQRN23                                                        | 0215.27
+ CHRACS12                             | SERVER             | DELL              | POWEREDGE R640                        | 6ZPSN23                                                        | 0215.27
+ CHRACS13                             | SERVER             | DELL              | POWEREDGE R640                        | 6ZPQN23                                                        | 0215.27
+ CHRACS14                             | SERVER             | DELL              | POWEREDGE R640                        | 6ZNRN23                                                        | 0215.27
+ CHRACS5                              | SERVER             | DELL              | POWEREDGE R620                        | D347P22                                                        | 0215.27
+ CHRACS6                              | SERVER             | DELL              | POWEREDGE R620                        | D356P22                                                        | 0215.27
+ CHRACS7                              | SERVER             | DELL              | POWEREDGE R620                        | D364P22                                                        | 0215.27
+ CHRACS8                              | SERVER             | DELL              | POWEREDGE R620                        | D346P22                                                        | 0215.27
+ CHRACS9                              | SERVER             | DELL              | POWEREDGE R620                        | D344P22                                                        | 0215.27
+ CHSPLIDX02                           | SERVER             | DELL              | POWEREDGE R630                        | BYQHS52                                                        | 0215.24
+ CHSPLIDX03                           | SERVER             | DELL              | POWEREDGE R630                        | BVQGS52                                                        | 0215.24
+ CHSPLIDX04                           | SERVER             | DELL              | POWEREDGE R620                        | 7DXOQD2                                                        | 0215.25
+ CHSPLIDX05                           | SERVER             | DELL              | POWEREDGE R630                        | 7DWXPD2                                                        | 0215.25
+ CHSPLSRC01                           | SERVER             | DELL              | POWEREDGE R630                        | BYPKS52                                                        | 0215.24
+ CHVMBKUP01                           | SERVER             | DELL              | POWEREDGE R610                        | 6MWJKS1                                                        | 0215.29
+ CHVMBKUP01A                          | SERVER             | DELL              | POWEREDGE R630                        | 8WYYHK2                                                        | 0215.26
+ CHVSRX01                             | SERVER             | DELL              | POWEREDGE R630                        | HHPGHB2                                                        | 0215.27
+ CHVSRX02                             | SERVER             | DELL              | POWEREDGE R630                        | HHPFHB2                                                        | 0215.27
+ DKCRTL1                              | SERVER             | DELL              | POWEREDGE R710                        |                                                                | 0215.23
+ FM MILLENNIUM GTWY                   | SERVER             | DELL              | POWEREDGE R210                        | 9893JM1                                                        | 0215.36
+ KIS_DR-R730                          | SERVER             | DELL              | POWEREDGE R730                        | GL3CND2                                                        | 0215.23
+ KIS_DR-R730^^6782                    | SERVER             | DELL              | POWEREDGE R730                        |                                                                | 
+ LSTFUSION                            | SERVER             | DELL              | POWEREDGE R320                        | JD61TW1                                                        | 0215.36
+ CCM CHICAGO NSM 1                    | SERVER             | PELCO             | NSM5200                               | ACVYZM0                                                        | 0215.22
+ CH GARAGE 1                          | SERVER             | PELCO             | NSM5200                               | ACHNG78                                                        | 0215.22
+ CH GARAGE 2                          | SERVER             | PELCO             | NSM5200                               | ACHNG81                                                        | 0215.22
+ CH GARAGE 3                          | SERVER             | PELCO             | NSM5200                               | ABRUU18                                                        | 0215.22
+ CH GARAGE 4                          | SERVER             | PELCO             | NSM5200                               | ACHNG79                                                        | 0215.22
+ CHICAGO CAMPUS NSM 1                 | SERVER             | PELCO             | NSM5200                               | ACHNGD8                                                        | 0215.22
+ GARAGE ELE                           | SERVER             | PELCO             | NSM5200                               | AEHVQZ3                                                        | 0215.22
+ NSM 0                                | SERVER             | PELCO             | SM5200                                | 3HQBHQ2                                                        | 0215.22
+ NSM 1                                | SERVER             | PELCO             | SM5200                                | 3HPFHQ2                                                        | 0215.22
+ NSM 2                                | SERVER             | PELCO             | SM5200                                | 3HQDHQ2                                                        | 0215.22
+ NSM 3                                | SERVER             | PELCO             | SM5200                                | 5ZDZXM2                                                        | 0215.22
+ QUALYS_CHICAGO                       | SERVER APPLIANCES  | QUALYS            | QUALYSGUARD                           | 1449208365                                                     | 0216.38
+ CHCSPDPM-DAS01A                      | STORAGE            | DELL              | POWERVAULT MD1200                     | 7XL92R1                                                        | 0215.25
+ CHCSPDPM-DAS01B                      | STORAGE            | DELL              | POWERVAULT MD1200                     | 9XL92R1                                                        | 0215.25
+ CHCSPDPM-DAS01C                      | STORAGE            | DELL              | POWERVAULT MD1220                     | GY5ZLS1                                                        | 0215.25
+ CHCSPDPM-DAS02A                      | STORAGE            | DELL              | POWERVAULT MD1200                     | 8XL92R1                                                        | 0215.28
+ CHCSPDPM-DAS02B                      | STORAGE            | DELL              | POWERVAULT MD1200                     | 6XL92R1                                                        | 0215.28
+ CHCSPDPM-DAS02C                      | STORAGE            | DELL              | POWERVAULT MD1220                     | GY5YLS1                                                        | 0215.28
+ CHCSPDPM04-DAS04A                    | STORAGE            | DELL              | POWERVAULT MD1220                     | GY6WLS1                                                        | 0215.28
+ CHCSPDPM04-DAS04B                    | STORAGE            | DELL              | POWERVAULT MD1220                     | GY5WLS1                                                        | 0215.28
+ CHCSPDPM04-DAS04C                    | STORAGE            | DELL              | POWERVAULT MD1220                     | H4QKKS1                                                        | 0215.28
+ CHCSPDPM04-DAS04D                    | STORAGE            | DELL              | POWERVAULT MD1220                     | GY6SLS1                                                        | 0215.28
+ CHCSPMBX                             | STORAGE            | DELL              | POWEREDGE R710                        | JHPWNN1                                                        | 0215.25
+ CHCSPMBX01-DAS01A                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CJWGX1                                                        | 0215.30
+ CHCSPMBX01-DAS01B                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CJVGX1                                                        | 0215.30
+ CHCSPMBX01-DAS01C                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CJTGX1                                                        | 0215.30
+ CHCSPMBX02-DAS02B                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CCWGX1                                                        | 0215.30
+ CHCSPMBX02-DAS02C                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CFTGX1                                                        | 0215.30
+ CHCSPMBX03-DAS03A                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CDTGX1                                                        | 0215.30
+ CHCSPMBX03-DAS03AA                   | STORAGE            | DELL              | POWEREDGE R710                        | 3CDIGX1                                                        | 0215.29
+ CHCSPMBX03-DAS03B                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CDWGX1                                                        | 0215.29
+ CHCSPMBX03-DAS03C                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CHWGX1                                                        | 0215.29
+ CHCSPMBX04-DAS04A                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CGTGX1                                                        | 0215.29
+ CHCSPMBX04-DAS04B                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CDVGX1                                                        | 0215.29
+ CHCSPMBX04-DAS04C                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 3CFVGX1                                                        | 0215.29
+ CHCSPMBX05-DAS05A                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 4BFLV12                                                        | 0215.29
+ CHCSPMBX05-DAS05B                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 4BFKV12                                                        | 0215.29
+ CHCSPMBX05-DAS05C                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 4BGKV12                                                        | 0215.29
+ CHCSPMBX06-DAS06A                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 4BFMV12                                                        | 0215.30
+ CHCSPMBX06-DAS06B                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 4BGLV12                                                        | 0215.30
+ CHCSPMBX06-DAS06C                    | STORAGE            | DELL              | POWERVAULT MD1200                     | 4BGMV12                                                        | 0215.30
+ CHSOCFILE02                          | STORAGE            | DELL              | POWEREDGE R720XD                      | 7RWZDZ1                                                        | 0215.35
+ CHSPLIDX01                           | STORAGE            | DELL              | POWEREDGE R630                        | BYPLS52                                                        | 0215.24
+ CHSPLIDX01-DAS01                     | STORAGE            | DELL              | POWERVAULT MD1220                     | J3D5T52                                                        | 0215.24
+ CHSPLIDX01-DAS01^^6966               | STORAGE            | DELL              | POWERVAULT MD1220                     |                                                                | 
+ CHSPLIDX01-DAS02                     | STORAGE            | DELL              | POWERVAULT MD1220                     | J3DCT52                                                        | 0215.24
+ CHSPLIDX02-DAS01                     | STORAGE            | DELL              | POWERVAULT MD1220                     | J3D7T52                                                        | 0215.24
+ CHSPLIDX02-DAS02                     | STORAGE            | DELL              | POWERVAULT MD1220                     | J3DFT52                                                        | 0215.24
+ CHSPLIDX03-DAS01                     | STORAGE            | DELL              | POWERVAULT MD1220                     | J3DBT52                                                        | 0215.24
+ CHSPLIDX03-DAS02                     | STORAGE            | DELL              | POWERVAULT MD1220                     | J3DGT52                                                        | 0215.24
+ CHSPLIDX06                           | STORAGE            | DELL              | POWEREDGE R640                        | HM09XQ2                                                        | 0215.26
+ CHSPLIDX06-DAS01                     | STORAGE            | DELL              | MD1400                                | HNQ3XQ2                                                        | 0215.26
+ CHSPLIDX06-DAS01^^6433               | STORAGE            | DELL              | MD1400                                |                                                                | 
+ CHSPLIDX06-DAS02                     | STORAGE            | DELL              | MD1400                                | H7R5XQ2                                                        | 0215.26
+ CHSPLIDX07                           | STORAGE            | DELL              | POWEREDGE R640                        | HM0BXQ2                                                        | 0215.26
+ CHSPLIDX07-DAS01                     | STORAGE            | DELL              | MD1400                                | HNQ4XQ2                                                        | 0215.26
+ CHSPLIDX07-DAS02                     | STORAGE            | DELL              | MD1400                                | H7R6XQ2                                                        | 0215.26
+ CHSPLUNKDISK04                       | STORAGE            | DELL              | POWERVAULT MD1420                     | 6CTOQD2                                                        | 0215.25
+ CHSPLUNKDISK04-DS2                   | STORAGE            | DELL              | POWERVAULT MD1420                     | 6CSXPD2                                                        | 0215.25
+ CHSPLUNKDISK05                       | STORAGE            | DELL              | POWERVAULT MD1420                     | 6CSZPD2                                                        | 0215.25
+ CHSPLUNKDISK05-DS2                   | STORAGE            | DELL              | POWERVAULT MD1420                     | 6CSTPD2                                                        | 0215.25
+ CHVMBKUP01-DAS                       | STORAGE            | DELL              | POWERVAULT MD1200                     | 82HNKS1                                                        | 0215.29
+ CHVMBKUP01A-DAS                      | STORAGE            | DELL              | MD1400                                | 98H0JK2                                                        | 0215.26
+ KIS STORGE 3                         | STORAGE            | DELL              | POWERVAULT MD1000-SB                  |                                                                | 0215.23
+ KIS_DR_MD1400                        | STORAGE            | DELL              | MD1400                                | CZMBND2                                                        | 0215.23
+ KIS_DR_MD1400^^6787                  | STORAGE            | DELL              | MD1400                                |                                                                | 
+ CHISILON01-N1                        | STORAGE            | EMC               | ISILON X400                           | SN400-201326-0056                                              | 0215.38
+ CHISILON01-N2                        | STORAGE            | EMC               | ISILON X400                           | SN400-201326-0053                                              | 0215.38
+ CHISILON01-N3                        | STORAGE            | EMC               | ISILON X400                           | SN400-201326-0051                                              | 0215.38
+ CHISILON01-N4                        | STORAGE            | EMC               | ISILON X400                           | SN400-301410-0307                                              | 0215.38
+ CHISILON01-N5                        | STORAGE            | EMC               | ISILON X400                           | SN400-301410-0296                                              | 0215.38
+ CHISILON01-N6                        | STORAGE            | EMC               | ISILON X400                           | SN400-301610-0044                                              | 0215.38
+ CHISILON03 22  21  20  19            | STORAGE            | EMC               | ISILON H400                           | JWXNM181800834  JWXNM182401088  JWXNM181900254  JWXNM182401110 | 0215.32
+ CHISILON03-23   27  24   26          | STORAGE            | EMC               | ISILON H400                           | JWXNM184900871  JWXNM184901339  JWXNM184900888  JWXNM184901265 | 0215.32
+ CHISILON03-25  28                    | STORAGE            | EMC               | ISILON H400                           | JWXNM184900891   JWXNM184901361                                | 0215.32
+ CHISILON03-N1                        | STORAGE            | EMC               | ISILON X400                           | SN400-201415-0088                                              | 0215.33
+ CHISILON03-N10                       | STORAGE            | EMC               | ISILON X400                           | JWXYE164500117                                                 | 0215.34
+ CHISILON03-N11                       | STORAGE            | EMC               | ISILON X400                           | JWXYE164600100                                                 | 0215.34
+ CHISILON03-N12                       | STORAGE            | EMC               | ISILON X410                           | JWXYE171700110                                                 | 0215.34
+ CHISILON03-N13                       | STORAGE            | EMC               | ISILON X410                           | JWXYE171700133                                                 | 0215.34
+ CHISILON03-N14                       | STORAGE            | EMC               | ISILON X410                           | JWXYE171700118                                                 | 0215.34
+ CHISILON03-N15                       | STORAGE            | EMC               | ISILON X410                           | JWXYE172200115                                                 | 0215.32
+ CHISILON03-N16                       | STORAGE            | EMC               | ISILON X410                           | JWXYE171700113                                                 | 0215.32
+ CHISILON03-N17                       | STORAGE            | EMC               | ISILON X410                           | FCNYE181900002                                                 | 0215.35
+ CHISILON03-N18                       | STORAGE            | EMC               | ISILON X410                           | FCNYE181900033                                                 | 0215.32
+ CHISILON03-N2                        | STORAGE            | EMC               | ISILON X400                           | SN400-201433-0114                                              | 0215.33
+ CHISILON03-N3                        | STORAGE            | EMC               | ISILON X400                           | SN400-201433-0116                                              | 0215.33
+ CHISILON03-N4                        | STORAGE            | EMC               | ISILON X400                           | SN400-301524-0131                                              | 0215.33
+ CHISILON03-N5                        | STORAGE            | EMC               | ISILON X400                           | SN400-301549-0035                                              | 0215.33
+ CHISILON03-N6                        | STORAGE            | EMC               | ISILON X400                           | SN400-301601-0007                                              | 0215.35
+ CHISILON03-N7                        | STORAGE            | EMC               | ISILON X400                           | SN400-301545-0012                                              | 0215.35
+ CHISILON03-N8                        | STORAGE            | EMC               | ISILON X400                           | APMYE164800004                                                 | 0215.34
+ CHISILON03-N9                        | STORAGE            | EMC               | ISILON X400                           | APMYE164800005                                                 | 0215.34
+ CH-TAPE-LIBRARY-3576-E9U-CHASSIS     | STORAGE            | IBM               | TOTALSTORAGE TS3310 LIBRARY ENCLOSURE | 1384607                                                        | 0215.39
+ CH-TAPE-LIBRARY-3576-L5B             | STORAGE            | IBM               | SYSTEM STORAGE TS3310                 | 1323470                                                        | 0215.39
+ CH3700-COLLAB                        | STORAGE            | IBM               | STORWISE V3700                        | 7865679                                                        | 0215.24
+ CH3700-COLLAB-CONTROL^^5439          | STORAGE            | IBM               | STORWISE V3700                        |                                                                | 
+ CH5030-1-ENCL 2                      | STORAGE            | IBM               | STORWISE V5030                        | 781E970                                                        | 0215.39
+ CH5030-1-ENCL 5                      | STORAGE            | IBM               | STORWISE V5030                        | 781F009                                                        | 0215.39
+ CH5030-1-ENCL 6                      | STORAGE            | IBM               | STORWISE V5030                        | 781F023                                                        | 0215.39
+ CH5030-1/ENCL 3                      | STORAGE            | IBM               | STORWISE V5030                        | 781F025                                                        | 0215.39
+ CH5030-1/ENCL 4                      | STORAGE            | IBM               | STORWISE V5030                        | 781F085                                                        | 0215.39
+ CH5030-1/ENCL 7                      | STORAGE            | IBM               | STORWISE V5030                        | 781F076                                                        | 0215.39
+ CH5030-1MGMT                         | STORAGE            | IBM               | STORWISE V5030                        | 781E846                                                        | 0215.39
+ STOREWIZE 1                          | STORAGE            | IBM               | STORWISE V3700                        | 787245                                                         | 0215.24
+ STOREWIZE 2                          | STORAGE            | IBM               | STORWISE V3700                        | 7872454                                                        | 0215.24
+ STOREWIZE 3                          | STORAGE            | IBM               | STORWISE V3700                        | 7872230                                                        | 0215.24
+ STOREWIZE 4                          | STORAGE            | IBM               | STORWISE V3700                        | 7873409                                                        | 0215.24
+ ERADS14                              | STORAGE            | LENOVO            | SYSTEM X3650 M5                       | J11ML7M                                                        | 0215.26
+ CHISILON01-IB-1                      | STORAGE            | MELLANOX          | IS 5022 DEVICE                        | MT1314L00300                                                   | 0215.38
+ CHISILON01-IB-2                      | STORAGE            | MELLANOX          | IS 5022 DEVICE                        | MT1314L00129                                                   | 0215.38
+ CHISILON03-IB-1                      | STORAGE            | MELLANOX          | IS 5022 DEVICE                        | MT1411L00217                                                   | 0215.33
+ CHISILON03-IB-2                      | STORAGE            | MELLANOX          | IS 5022 DEVICE                        | MT1411L00337                                                   | 0215.33
+ KIS STORAGE 1                        | STORAGE            | NETAPP            | DS2240                                | SHJGD1812000362_AUDIT                                          | 0215.23
+ KIS STORAGE 1^^6788                  | STORAGE            | NETAPP            | DS2240                                |                                                                | 
+ KIS STORAGE 2                        | STORAGE            | NETAPP            | DS2120                                | SHJGD1812000362                                                | 0215.23
+ KIS STORAGE 2^^6783                  | STORAGE            | NETAPP            | DS2120                                |                                                                | 
+ NETAPP 10                            | STORAGE            | NETAPP            | DS2120                                | 031829000314                                                   | 0215.36
+ NETAPP 11                            | STORAGE            | NETAPP            | DS2120                                | 031829001394                                                   | 0215.36
+ NETAPP 12                            | STORAGE            | NETAPP            | DS2120                                | 031829000535                                                   | 0215.36
+ NETAPP 20                            | STORAGE            | NETAPP            | DS2120                                | 031829000535                                                   | 0215.36
+ NETAPP 21                            | STORAGE            | NETAPP            | DS2120                                | 031829001063                                                   | 0215.36
+ NETAPP 22                            | STORAGE            | NETAPP            | DS2120                                | 031829001053                                                   | 0215.36
+ NETAPP 9                             | STORAGE            | NETWORK APPLIANCE | AFF8020                               | 721901000158                                                   | 0215.36
+ NIMBLE1                              | STORAGE            | NIMBLE STORAGE    | CS-220G                               | AF-122944                                                      | 0215.23
+ NIMBLE1^^6786                        | STORAGE            | NIMBLE STORAGE    | CS-220G                               |                                                                | 
+ NIMBLE2                              | STORAGE            | NIMBLE STORAGE    | CS-220G                               | AF-115970                                                      | 0215.23
+ NIMBLE2^^6785                        | STORAGE            | NIMBLE STORAGE    | CS-220G                               |                                                                | 
+ TS3310 LTO6 DRIVE 1                  | TAPE               | IBM               | TS3310 LTO6 DRIVE                     | 10WTO40916                                                     | 0215.39
+ TS3310 LTO6 DRIVE 2                  | TAPE               | IBM               | TS3310 LTO6 DRIVE                     | 10WTO40931                                                     | 0215.39
+ TS3310 LTO6 DRIVE 3                  | TAPE               | IBM               | TS3310 LTO6 DRIVE                     | 10WTO41050                                                     | 0215.39
+ TS3310 LTO6 DRIVE 4                  | TAPE               | IBM               | TS3310 LTO6 DRIVE                     | 10WTO41059                                                     | 0215.39
+ KIS CHDC UCS                         | UNKNOWN            | CISCO SYSTEMS     | UCS 5108                              | FOX2029GG5W                                                    | 0215.23
+ KIS CHDC UCS^^6789                   | UNKNOWN            | CISCO SYSTEMS     | UCS 5108                              |                                                                | 
+(284 rows)
+

@@ -1,0 +1,11 @@
+1729100 - HPC Infrastructure
+1729200 - HPC Storage
+1730000 - Computing Services
+1730100 - Servers
+1730300 - Cyber Processing & Info Mgmt
+1729400 - Rsrch Cmptng, Stor, Ntwk Facilities 
+1729300 - Vault Operating Expenses 
+1730200 - UCC:Laser Printing Operation
+1730400 - Cyber Service Operations 
+1730500 - Cyber Monitoring & Mgmt
+

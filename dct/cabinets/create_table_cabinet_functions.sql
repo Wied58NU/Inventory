@@ -1,3 +1,4 @@
 create table cabinet_functions
-(cabinet varchar (5),
+(datacenter varchar(4),
+cabinet varchar (7),
 function varchar (10));

@@ -1,0 +1,1 @@
+"Tag": String(), "Description": String(), "Purchase_Date','Acquisition_Date_FY": String(), "Manufacturer": String(), "Model": String(), "Serial": String(), "Campus": String(), "Department": String(), "Department_Description": String(), "Building": String(), "Building_Name','Room": String(), "Name": String(), "Purchase": String(), "PO": String(), "Chartstring": String(),})

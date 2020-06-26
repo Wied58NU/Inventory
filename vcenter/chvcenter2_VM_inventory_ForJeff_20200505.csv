@@ -1,0 +1,787 @@
+"Object_Type","Name","FQDN","Guest","CPU_Socket_Count","Cores_Per_Socket","Total_Cores_Assigned","Memory_GB","Provisioned_Space_GB","Used_Space_GB","NIC_Count","Network_Name","Datastore_Path","DataCenter","Cluster_Name","Ownership","Contact","Standard_Level","Standard_Category","Primary_App","Function","Technical_Contact","Technical_Contact_NetID","Ticket_Number","Creation_Date","Notes"
+"VM","SES92PSEARCH1_clone",,"Microsoft Windows Server 2012 (64-bit)","2","2","4","32","174","18","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","","Terry Collins","tmc042","","2017/06/29","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","SES855PPS2_clone",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","16","158","22","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","","Terry Collins","tmc042","","2017/06/29","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","SES855PGWY1_clone",,"Microsoft Windows Server 2012 (64-bit)","1","4","4","16","158","31","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Gateway","Terry Collins","tmc042","","2017/06/29","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","autosdb2_replica",,"Red Hat Enterprise Linux 6 (64-bit)","1","2","2","8","174","33","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","AutoSys","dB server","Kurt Peight","kjp672","519168","2017/04/19","Fully patched as of 01/19/2017
+Qualys Added - 01/19/2017"
+"VM","HR92QANTIBWEB_ronclone",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","16","158","46","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2018/07/20","BS 1-28-16 FP346227
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","SES855PMSG1_clone",,"Microsoft Windows Server 2012 (64-bit)","1","4","4","16","158","25","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","","Terry Collins","tmc042","","2017/06/29","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","HR92QANTIB_ronclone",,,"1","2","2","16","138","49","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2018/07/20","Installed latest OS updates on 1-29-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","chcs857prdsrca",,,"2","2","4","32","107","7","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Search","Wilfred U Tumbaga","wtb451","825788","2019/03/27","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","evcs857dvasrca_replica",,,"2","2","4","32","107","7","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Search","Wilfred U Tumbaga","wtb451","818584","2019/03/27","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","evfn857dvasrca_replica",,,"2","2","4","32","107","8","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Search","Wilfred U Tumbaga","wtb451","818584","2019/03/27","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chnbvtlgw1",,"Other (64-bit)","4","2","8","24","1154","1130","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","PIPS-INFRASTRUCTURE","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","AWS-Storage-Gateway-","Veeam AWS VTL GW","Thomas Halloran","thallora","Experiment","2018/05/18","AWS-Storage-Gateway-"
+"VM","TomsTest",,,"1","1","1","2","52","5","1","ITCS.Infra.61.128.ChCluster01.VLAN223.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/02/08","Security Patched - 1/18/2017
+Qualys Agent added - 1/18/2017"
+"VM","chvmvtlgw01",,,"8","1","8","16","2128","2128","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","PIPS-INFRASTRUCTURE","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","AWS-Storage-Gateway-","Veeam AWS VTL GW","Thomas Halloran","thallora","Experiment","2018/06/04","AWS-Storage-Gateway-"
+"VM","chsyslog","165.124.61.33","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","4","54","54","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","CHSQLHASBXDB","169.254.1.107","Microsoft Windows Server 2012 (64-bit)","1","2","2","12","336","160","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Installed latest OS updates on 10-8-19 by JM."
+"VM","Win2k12-R2_STD_old-4-10-17",,"Microsoft Windows Server 2012 (64-bit)","1","1","1","8","70","62","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2015/12/11","Installed latest OS updates on 11-7-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","ora12cdb1-vm",,"Red Hat Enterprise Linux 6 (64-bit)","1","2","2","8","101","92","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2015/02/17","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to aoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully patched as of 2/9/2015"
+"VM","W2K12_Ent_64bit",,"Microsoft Windows Server 2012 (64-bit)","1","1","1","2","54","52","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2015/11/16",
+"VM","W2K8_ENT_R2_SP1",,"Microsoft Windows Server 2008 R2 (64-bit)","1","1","1","4","48","44","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2017/01/18","Updated the template with OS updates on 7-15-16. This template has SP1 installed."
+"VM","HR92MSTRAPP",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","16","139","122","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2015/11/12","Installed latest OS updates on 10-8-14 and increased RDP security level to ""High"". Change from server hr92qaapp1 to template hr92mstrapp FP#316393 10-28-15"
+"VM","HR92MSTRWEB",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","16","139","122","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2015/11/16","Installed latest OS updates on 10-8-14 and increased RDP security level to ""High""
+Added by BS on 4/13/2015. FP 242749. Changed server hr92qaweb1 to new template hr92mstrweb (FP#316388) 10-27-15"
+"VM","Win2k12-R2_STD-DC",,"Microsoft Windows Server 2012 (64-bit)","1","1","1","8","100","19","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2015/12/11","Installed latest OS updates on 7-14-15 and poodle security fix added and rdp to negotiate. 4-28-2015. Domian Controller Template"
+"VM","RHEL6U4_64bit_Oracle11.2.0.4",,"Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","156","152","1","Dept.DMZ.66.0.VLAN230.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2015/02/17","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to aoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 02/09/2015"
+"VM","HR92HCMPRODAPP",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","16","138","122","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","421847","2016/08/12","BS 8-1-2016 FP416294
+BS 1-28-16 FP346157
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","evsso65deva_replica",,,"2","1","2","8","129","5","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","evsso65qaa_replica",,,"1","1","1","2","123","5","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect Rules added PIPS #DBA, and #DAPS - 10/8/2019
+Ansible Ready - Yes"
+"VM","evhr857tmpapp_replica",,,"2","2","4","16","146","38","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","evfn857tmpapp_replica",,,"2","2","4","16","146","33","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","evcs857tmpweba_replica",,,"2","2","4","16","146","49","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","evhr857tmpweb_replica",,"Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","25","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","evnuinfodevnfs_replica",,"CentOS 4/5 or later (64-bit)","1","2","2","6","236","120","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","University Relations","NUIT-PIPS","ENTERPRISE","HOSTED","University Web Site","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2017/07/13",
+"VM","evnuinfodevweb1_replica",,,"1","2","2","6","56","8","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","University Relations","NUIT-PIPS","ENTERPRISE","HOSTED","University Web Site","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2017/07/13",
+"VM","auto3papp_replica",,,"2","1","2","4","113","14","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 10/8/2019
+Qualys Agent added - 1/18/2017
+Global Protect update applied DBA and PIPS -10/08/2019
+
+Ansible Ready - Yes"
+"VM","evcs857tmpappa_replica",,,"2","2","4","16","146","70","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","gchentest3","165.124.249.11","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","8","40","40","1","Ent.App.165.124.249.0/24.VLAN2844.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Testing","","George Chen","lgc813","","2016/10/25","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","ljkjlkk",,,"1","1","1","2","36","9","1","ITCS.Mgmt.61.0","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Testing","","","","","2013/08/08",
+"VM","nucore04","165.124.65.80","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","16","92","47","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Feinberg School","Jeff Weiss","BUSINESS","HOSTED","NUcore","Application server","Todd Shamaly","tds704","724205","2018/07/25","Fully Patched - 2/22/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","Scrutinizer NetFlow and sFlow Analyzer",,,"1","4","4","16","116","100","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-TNS-DataNetwork","NUIT-NT","INFRASTRUCTURE","INFRASTRUCTURE","Scrutinizer NetFlow and sFlow Analyzer","","","","","2014/05/14","Scrutinizer NetFlow & sFlow Analyzer
+
+Version 11.5.1 - 1/29/14
+
+Plixer International, Inc."
+"VM","VMware HealthAnalyzer",,"Other 3.x Linux (64-bit)","1","1","1","2","42","40","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere","Application server","George Chen","lgc813","NA","2019/03/12","VMware HealthAnalyzer is a virtual appliance that automates the collection of VMware inventory, configuration and utilization data. You can use the VMware HealthAnalyzer user interface to review and analyze the data, assign grades to assessment areas, recommend action items, and generate a Health Check Report for a VMware Health Check."
+"VM","FMS854SUPWEB",,,"1","2","2","8","120","112","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","HOSTED","NUFinancials","Web server","","","","2015/04/20",
+"VM","chhr857prdsrca","165.124.64.93","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","32","107","47","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS","Elastic Search","Ron Blitz","	rjb918","861406","2019/06/10","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","TomsRH71",,,"1","1","1","2","52","50","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2016/09/21",
+"VM","CHADEAPRDW4_restored10242018",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","8","90","82","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ADEA-TechApps","Matt Hess","ENTERPRISE","HOSTED","CATracks- AIMS - Advance 9","Application server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","","2015/12/30","BS 12-30-15 FP336540
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","FMS854SUPAPP",,,"1","2","2","8","120","112","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","HOSTED","NUFinancials","Application server","","","","2015/04/20","Create by BS on 2-18-2015 FP 221312"
+"VM","chdc-vsrx-fw-2267-1-research","192.168.1.1","Other (32-bit)","2","1","2","4","20","20","10","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2017/12/18","VSRX OVF Template of vSRX Cluster Template"
+"VM","chdc-vsrx-fw-2267-2-research","192.168.1.1","Other (32-bit)","2","1","2","4","20","20","10","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2017/12/18","VSRX OVF Template of vSRX Cluster Template"
+"VM","chdc-vsrx-fw-2267-1-Feinberg","192.168.1.1","Other (32-bit)","2","1","2","4","20","20","7","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/01/31","VSRX OVF Template of vSRX Cluster Template"
+"VM","chdc-vsrx-fw-2267-2-Feinberg","192.168.1.1","Other (32-bit)","2","1","2","4","20","20","7","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/01/31","VSRX OVF Template of vSRX Cluster Template"
+"VM","chdc-vsrx-fw-2267-2-NUL","192.168.1.1","Other (32-bit)","2","1","2","4","20","20","5","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","Thomas Halloran","INFRASTRUCTURE","INFRASTRUCTURE","NUcloud Firewall","vSRX Firewall","Thomas Halloran","thallora","724031","2018/07/23","VSRX OVF Template of vSRX Cluster Template"
+"VM","chdc-vsrx-fw-2267-1-NUL","192.168.1.1","Other (32-bit)","2","1","2","4","20","20","5","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","Thomas Halloran","INFRASTRUCTURE","INFRASTRUCTURE","Firewall","NUcloud vSRX","Thomas Halloran","thallora","724031","2018/07/23","VSRX OVF Template of vSRX Cluster Template"
+"VM","chdc-vcsr-rtr-3-rr",,"Other 3.x Linux (64-bit)","1","1","1","12","20","20","3","TNS.10.100.0/23.VLAN100","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-TNS-DataNetwork","NUIT-NT","INFRASTRUCTURE","INFRASTRUCTURE","CISCO Virtual Router","virtual BGP Route Reflector","Laura Kristoff","DL_NUIT_CI_TNS_ENG@e.northwestern.edu","603714","2017/10/18",
+"VM","chhr857prdwebc","165.124.65.107","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","50","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","870399","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfed312uata","165.124.30.135","Red Hat Enterprise Linux 7 (64-bit)","4","1","4","16","98","98","1","IDM.Fed.NonProd.30.128/27.VLAN1382.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","","Shibboleth/Federation","Darryl Philip Baker","dpb657","858086","2019/06/04","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdappe","165.124.64.105","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","81","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","827559","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857patmapa","165.124.64.15","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","146","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ron Blitz","rjb918","898371","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857patweba","165.124.65.25","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","72","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server - patch environment","Terry Collins","tmc042","898615","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857patgwya","165.124.65.81","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","146","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","898345","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdappb","165.124.64.92","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","100","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","843099","2019/05/13","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdpsua","165.124.64.29","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","266","94","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Process Scheduler","Terry Collins","tmc042","863811","2019/06/24","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857qaamapa","165.124.64.84","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","55","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Integration Broker","Wilfred U Tumbaga","wtb451","805973","2019/01/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes
+
+Will be replicated in the Chicago DC"
+"VM","chcs857prdappf","165.124.64.62","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","99","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","851808","2019/05/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdwebc","165.124.65.69","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","66","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server","Terry Collins","tmc042","811846","2019/05/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857rptweba","165.124.65.108","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","47","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","874060 ","2019/07/09","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdewba","165.124.65.102","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","51","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","869183","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857patgwya","165.124.65.200","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","43","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Gateway","Wilfred U Tumbaga","wtb451","896600","2019/09/02","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes
+
+To be replicated in the Chicago DC"
+"VM","chcs857patappa","165.124.64.76","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","88","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server - patch environment","Terry Collins","tmc042","898602","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdweba","165.124.65.60","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","44","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Web server","Wilfred U Tumbaga","wtb451","827758","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdappc","165.124.64.103","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","103","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","827745","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857patappa","165.124.64.68","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","146","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ronald J Blitz","rjb918","898701","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857patweba","165.124.65.187","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","49","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","908314","2019/09/24","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chsplsrc02","165.124.137.79","Red Hat Enterprise Linux 7 (64-bit)","6","1","6","12","162","162","1","Collab.Splunk.165.124.137.64/26.VLAN2843.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdappa","165.124.64.87","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","88","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","827737","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdwebb","165.124.65.64","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","70","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server","Terry Collins","tmc042","851840","2019/05/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdappc","165.124.64.101","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","101","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","843100","2019/05/13","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857patgwya","165.124.65.31","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","67","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server - patch environment","Terry Collins","tmc042","898620","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdappe","165.124.64.26","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","100","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","851801","2019/05/21","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdappf","165.124.64.106","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","82","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","827562","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdappd","165.124.64.104","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","105","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","827748","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdwebc","165.124.65.62","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","44","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Web server","Wilfred U Tumbaga","wtb451","827765","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chsplsrc03","165.124.137.76","Red Hat Enterprise Linux 7 (64-bit)","6","1","6","12","162","162","1","Collab.Splunk.165.124.137.64/26.VLAN2843.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857dvbappa","165.124.64.73","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","55","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdappa","165.124.64.34","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","93","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ronald J Blitz","rjb918","867202 ","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcybpsmpdev","165.124.64.97","Red Hat Enterprise Linux 7 (64-bit)","1","1","1","2","192","192","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857patawba","165.124.65.29","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","68","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server - patch environment","Terry Collins","tmc042","898611","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdapph","165.124.64.67","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","97","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","851814","2019/05/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdwebb","165.124.65.106","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","50","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","870391","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdewbb","165.124.65.103","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","52","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","869183 ","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdappb","165.124.64.39","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","101","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ronald J Blitz","rjb918","867218","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857patmapa","165.124.64.32","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","94","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server - patch environment","Terry Collins","tmc042","898607","2019/09/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdappc","165.124.64.40","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","85","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ronald J Blitz","rjb918","867221","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857patmapa","165.124.64.98","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","59","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdpsua","165.124.64.86","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","266","86","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Process Scheduler","Wilfred U Tumbaga","wtb451","826871","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857qaaappa","165.124.64.82","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","65","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","805438","2019/01/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes
+
+To be replicated in the Chicago DC"
+"VM","chcybpsmp","165.124.64.89","Red Hat Enterprise Linux 7 (64-bit)","1","1","1","2","192","192","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdwebd","165.124.65.70","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","71","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server","Terry Collins","tmc042","851849","2019/05/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857patsrca","165.124.64.99","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","32","107","107","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdsrca","165.124.64.72","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","32","107","51","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Search","Terry Collins","tmc042","793852","2019/03/27","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857qaagwya","165.124.65.46","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","44","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Gateway","Wilfred U Tumbaga","wtb451","805977","2019/01/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes
+
+To be replicated in the Chicago DC"
+"VM","chcogdbdr","165.124.62.11","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","8","618","268","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-EnterpriseReportingAnalytics","NUIT-EnterpriseReportingAnalytics","ENTERPRISE","HOSTED","COGNOS","dB server","DBA Group","itms-dba@northwestern.edu","693562","2018/05/16","Security Patched - 06/06/2017
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857patewba","165.124.65.188","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","46","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","908338","2019/09/24","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857qaaweba","165.124.65.23","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","47","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Web server","Wilfred U Tumbaga","wtb451","805441","2019/01/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes
+
+Will be replicated in the Chicago DC"
+"VM","chhr857prdmapa","165.124.64.51","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","53","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ron Blitz","rjb918","873744","2019/07/09","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdappg","165.124.64.63","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","92","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","851811","2019/05/17","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdmapa","165.124.64.50","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","93","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Integration Broker","Terry Collins","tmc042","845924","2019/05/09","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdappa","165.124.64.91","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","97","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","843096","2019/05/13","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdawba","165.124.65.39","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","72","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server","Terry Collins","tmc042","849909","2019/05/13","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdsrca","165.124.64.108","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","32","107","42","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Search","Wilfred U Tumbaga","wtb451","825788","2019/03/27","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdweba","165.124.65.104","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","50","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","870372","2019/07/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdweba","165.124.65.48","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","59","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server","Terry Collins","tmc042","849909","2019/05/13","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdpsua","165.124.64.61","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","266","225","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Process Scheduler","Ronald J Blitz","rjb918","884039","2019/07/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857patappa","165.124.64.74","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","68","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","896588","2019/08/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes
+
+To be replicated in the Chicago DC"
+"VM","chspliss02","165.124.137.73","Red Hat Enterprise Linux 7 (64-bit)","4","1","4","8","570","570","1","Collab.Splunk.165.124.137.64/26.VLAN2843.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdmapa","165.124.64.107","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","54","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Integration Broker","Wilfred U Tumbaga","wtb451","827416","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdgwya","165.124.65.63","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","41","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Gateway","Wilfred U Tumbaga","wtb451","827513","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chcs857prdappd","165.124.64.126","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","104","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","847195","2019/05/13","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857rptappa","165.124.65.115","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","70","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ron Blitz","rjb918","875390","2019/07/10","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857prdwebb","165.124.65.61","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","44","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Web server","Wilfred U Tumbaga","wtb451","827761","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857dvbweba","165.124.65.37","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","49","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr857prdgwya","165.124.65.105","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","49","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Web server","Ron Blitz","rjb918","873663","2019/07/08","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfn857patweba","165.124.65.201","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","44","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Web server","Wilfred U Tumbaga","wtb451","896597","2019/08/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes
+
+Will be replicated in the Chicago DC"
+"VM","chfn857prdappb","165.124.64.90","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","78","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Application server","Wilfred U Tumbaga","wtb451","827741","2019/03/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chvcsa","165.124.61.26","VMware Photon OS (64-bit)","8","1","8","24","2082","1088","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere","Application server","George Chen","lgc813","NA","2019/05/22","VMware vCenter Server Appliance"
+"VM","chcs857prdgwya","165.124.65.68","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","146","56","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Gateway","Terry Collins","tmc042","845920","2019/05/06","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chsplapp01","165.124.73.124","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","12","174","174","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","704459","2018/06/11","Security Patched - 1/18/2017
+Qualys Agent added - 1/18/2017"
+"VM","idmspdrprod1","165.124.63.41","CentOS 4/5 or later (64-bit)","2","2","4","16","116","116","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Sailpoint","Application server","Sudhir Kalapala, Phil Tracy","","487094","2017/01/30",
+"VM","chibmsklm",,"Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","116","116","1","ITCS.Infra.61.128.ChCluster01.VLAN223.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","License server for tape backup. IBM SKLM","","","","","2015/05/06","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chldapdir11qaa","165.124.26.199","Red Hat Enterprise Linux 6 (64-bit)","2","2","4","8","120","120","1","F5LB.IDM.165.124.26.192/27.VLAN2014.ChCluster01_rename","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","HOSTED","Directory Services","Application server","DAPS/ Darryl Baker, James Neal","DAPS/dpb657, jjn613","824956","2019/04/19","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","ldap8c","165.124.26.197","Red Hat Enterprise Linux 6 (64-bit)","2","2","4","16","121","121","1","F5LB.IDM.165.124.26.192/27.VLAN2014.ChCluster01_rename","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","HOSTED","Directory Services","Application server","DAPS/ Darryl Baker, James Neal","DAPS/ dpb657, jjn613","","2015/10/06","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chdc-vsrx-fw-1146-1-ci","192.168.1.1","Other (32-bit)","2","1","2","4","20","20","5","CI.vSRX.165.124.8.0.VLAN2267.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2016/11/08","VSRX OVF Template"
+"VM","autosdb2","165.124.62.24","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","8","174","174","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-DAPS","John Llanes","ENTERPRISE","MANAGED","AutoSys","dB server","CI PIPS DBA","itms-dba@northwestern.edu","519168","2017/04/19","Fully patched as of 01/19/2017
+Qualys Added - 01/19/2017"
+"VM","chfrsprodapp1","165.124.64.37","CentOS 4/5 or later (64-bit)","1","2","2","8","194","164","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Faculty Recruitment System","Application server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","512916","2017/03/29","Security Patched - 2/17/2016"
+"VM","chfrsdevapp1","165.124.64.18","CentOS 4/5 or later (64-bit)","1","2","2","4","84","84","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Faculty Recruitment System","Application server","Darryl Baker","dpb657","665761","2018/03/13","Security Patched - 1/18/2017
+Qualys Agent added - 1/18/2017"
+"VM","chfrsdevdb","165.124.62.26","CentOS 4/5 or later (64-bit)","1","2","2","8","104","15","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Faculty Recruitment System","dB server","Darryl Baker","dpb657","","2018/03/16","Security Patched - 2/17/2016"
+"VM","chsplepf02",,"Red Hat Enterprise Linux 7 (64-bit)","2","2","4","6","82","82","1","Collab.Splunk.165.124.137.64/26.VLAN2843.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Splunk Heavy Forwarder","Frank Wayne","frw657","855965","2019/05/29","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chftpdrapp","165.124.64.17","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","8","166","97","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","	FTP Server - GoAnywhere","Application server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","578924","2017/08/23","Security Patched - 2/17/2016"
+"VM","idmspdrprod4","165.124.63.44","CentOS 4/5 or later (64-bit)","2","2","4","16","116","116","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Sailpoint","Application server","Sudhir Kalapala, Phil Tracy","","487104","2017/01/30",
+"VM","chfed312qaa","165.124.177.137","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","10","64","64","1","F5LB.IDM.177.128/25.VLAN1763.ChCluster01_rename","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Federation","Application server","Xiaoxia Dong","xdong","809879","2019/04/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","ldap9c","165.124.26.198","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","8","93","93","1","F5LB.IDM.165.124.26.192/27.VLAN2014.ChCluster01_rename","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","HOSTED","Directory Services","Application server","DAPS/ Darryl Baker, James Neal","DAPS/ dpb657, jjn613","","2015/10/06","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chfed312prb","165.124.171.197","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","10","64","64","1","IDM.Fed.Prod.171.192/27.VLAN1438.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","idmspdrprod2","165.124.63.42","CentOS 4/5 or later (64-bit)","2","2","4","16","116","116","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Sailpoint","Application server","Sudhir Kalapala, Phil Tracy","","487096","2017/01/30",
+"VM","chfed312qab","165.124.177.138","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","10","64","64","1","F5LB.IDM.177.128/25.VLAN1763.ChCluster01_rename","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Federation","Application server","Xiaoxia Dong","xdong","809882","2019/04/19","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chsplfwd02","165.124.73.117","Red Hat Enterprise Linux 7 (64-bit)","4","1","4","6","86","86","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2015/09/14",
+"VM","chftpdrgw","165.124.65.17","CentOS 4/5 or later (64-bit)","1","2","2","4","62","62","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","	FTP Server - GoAnywhere","FTP","DAPS","DL_NUIT_DAPS@e.northwestern.edu","578985","2017/08/23","Security Patched - 2/17/2016"
+"VM","chsplfwd03","165.124.73.118","Red Hat Enterprise Linux 7 (64-bit)","4","1","4","6","84","84","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2016/01/04",
+"VM","chfrsqadb","165.124.62.14","CentOS 4/5 or later (64-bit)","1","2","2","8","104","18","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Faculty Recruitment System","dB server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","479627","2017/01/12","Security Patched - 2/17/2016"
+"VM","chsplfwd01","165.124.73.116","Red Hat Enterprise Linux 7 (64-bit)","4","1","4","6","86","86","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2015/09/14",
+"VM","chsplmst","165.124.137.80","Red Hat Enterprise Linux 7 (64-bit)","4","1","4","8","85","85","1","Collab.Splunk.165.124.137.64/26.VLAN2843.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfrsproddb","165.124.62.15","CentOS 4/5 or later (64-bit)","1","2","2","8","104","18","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Faculty Recruitment System","dB server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","512949","2017/03/29","Security Patched - 2/17/2016"
+"VM","autoddb2","165.124.62.33","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","192","192","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","AutoSys","dB server","Kurt Peight","kjp672","","2014/09/24","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to aoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully patched as of 5/19/2014"
+"VM","chidmhrspprod1","165.124.64.47","CentOS 4/5 or later (64-bit)","1","1","1","2","52","52","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Identity Management","java standalone environment","Darryl Baker","dpb657","","2017/03/09","Security Patched - 1/18/2017
+Qualys Agent added - 1/18/2017"
+"VM","chspliss01","165.124.73.103","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","8","596","596","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","Frank Wayne","frw657","811340","2019/02/12","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfrsqaapp1","165.124.64.30","CentOS 4/5 or later (64-bit)","1","2","2","4","90","45","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Faculty Recruitment System","Application server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","479620","2017/01/12","Security Patched - 2/17/2016"
+"VM","idmspdrprod5","165.124.63.45","CentOS 4/5 or later (64-bit)","2","2","4","16","116","116","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Sailpoint","Application server","Sudhir Kalapala, Phil Tracy","","487106","2017/01/30",
+"VM","chssoprod2","165.124.178.55","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","12","139","139","1","IDM.WebSSO.165.124.178.48/28","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","HOSTED","Online Passport - WEB SSO","Application server","Rudy Rebolledo","rmr872","","2015/04/29","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chsplepf03",,"Red Hat Enterprise Linux 7 (64-bit)","2","2","4","6","83","83","1","Collab.Splunk.165.124.137.64/26.VLAN2843.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","855966","2019/05/31","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chfed312pra","165.124.171.196","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","10","64","64","1","IDM.Fed.Prod.171.192/27.VLAN1438.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Federation","Application server","Xiaoxia Dong","xdong","809960","2019/07/22","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","idmspdrprod3","165.124.63.43","CentOS 4/5 or later (64-bit)","2","2","4","16","116","116","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Sailpoint","Application server","Sudhir Kalapala, Phil Tracy","","487102","2017/01/30",
+"VM","chsplepf01",,"Red Hat Enterprise Linux 7 (64-bit)","2","2","4","6","82","82","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","809243","2019/02/05","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chldapreg11uata","165.124.245.106","Red Hat Enterprise Linux 6 (64-bit)","2","2","4","16","88","88","1","IDM.LDAP.NonProd.245.96/27.VLAN1421.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","HOSTED","Directory Services","Application server","DAPS/ Darryl Baker, James Neal","DAPS/ Dpb657, jjn613","824977","2019/04/30","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chsso65qab","165.124.171.236","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","22","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","SSO","Darryl Philip Baker","dpb657","917121","2019/10/14","Fully Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect Rules added PIPS #DBA, and #DAPS - 10/8/2019
+Ansible Ready - Yes"
+"VM","chssoprod1","165.124.178.54","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","12","139","139","1","IDM.WebSSO.165.124.178.48/28","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","HOSTED","Online Passport - WEB SSO","Application server","Rudy Rebolledo","rmr872","","2015/04/23","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chsso65devb","165.124.171.234","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","20","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","SSO","Darryl Philip Baker","dpb657","907202","2019/09/18","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chsplsrc93","165.124.73.123","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","8","118","118","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2016/08/12",
+"VM","chsso65prda","165.124.171.170","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","60","1","IDM.WebSSO.Prod.171.160/27.VLAN1430.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","WebSSO Production","Darryl Philip Baker","dpb657","919871","2019/10/16","Fully Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect Rules added PIPS #DBA, and #DAPS - 10/8/2019
+Ansible Ready - Yes"
+"VM","chsso65qaa","165.124.171.235","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","24","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","SSO","Darryl Philip Baker","dpb657","917115","2019/10/14","Fully Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect Rules added PIPS #DBA, and #DAPS - 10/8/2019
+Ansible Ready - Yes"
+"VM","chsplsrc92","165.124.73.122","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","8","118","118","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2016/08/12",
+"VM","chsso1102uata","165.124.171.230","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","8","115","115","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","MANAGED","Online Passport - WEB SSO","Application server","Phil Tracy","tracy","824970","2019/05/01","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chsso65uatb","165.124.171.238","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","29","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","SSO","Darryl Philip Baker","dpb657","919849","2019/10/16","Fully Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect Rules added PIPS #DBA, and #DAPS - 10/8/2019
+Ansible Ready - Yes"
+"VM","socdrupalprodch","165.124.66.14","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","16","166","166","1","Dept.DMZ.66.0.VLAN230.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","School of Communication","John Arends","BUSINESS","HOSTED","drupal","Application server","John Arends","jpa571","496249","2017/02/22","Security Patched - 1/18/2017
+Qualys Agent added - 1/18/2017"
+"VM","chsso65deva","165.124.171.233","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","21","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","SSO","Darryl Philip Baker","dpb657","907195","2019/09/18","Fully Patched - 12/10/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chhr92fs2","165.124.64.100","CentOS 4/5 or later (64-bit)","1","2","2","4","1140","574","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","","DAPS","DL_NUIT_DAPS@e.northwestern.edu","425075","2016/08/31","Security Patched - 2/17/2016"
+"VM","chsso1102qaa","165.124.178.58","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","8","113","113","1","IDM.WebSSO.165.124.178.48/28","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-IS","Myndi Brown","ENTERPRISE","MANAGED","Online Passport - WEB SSO","Application server","Phil Tracy","tracy","824939","2019/04/19","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chkbox2","165.124.65.199","Other (32-bit)","1","1","1","1","611","611","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-TSS-SupportServices","Joseph Kurtin","BUSINESS","HOSTED","Client Management-Dell Kace","","Jay Bagley","jba867","","2014/03/17","K2000 Systems Deployment Extender by Dell KACE."
+"VM","chkrondrdb","165.124.30.116","Red Hat Enterprise Linux 6 (64-bit)","2","2","4","16","787","787","1","Kronos.Isolation.165.124.30.112/28.VLAN13.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-ADO","Noel Gaceta","ENTERPRISE","MANAGED","TES(Time Entry System)-Kronos","dB server","CI PIPS DBA","itms-dba@northwestern.edu","506965","2017/03/14","Fully Security Patched - 01/23/2017
+Qualys Added - 01/23/2017"
+"VM","chsso65prdb","165.124.171.171","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","57","1","IDM.WebSSO.Prod.171.160/27.VLAN1430.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","WebSSO Production","Darryl Philip Baker","dpb657","919872","2019/10/16","Fully Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect Rules added PIPS #DBA, and #DAPS - 10/8/2019
+Ansible Ready - Yes"
+"VM","cp-abbt-test.ads.northwestern.edu","fe80::250:56ff:feaa:7985","CentOS 4/5 or later (64-bit)","2","1","2","4","524","524","2","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-TNS-DataNetwork","NUIT-NT","INFRASTRUCTURE","INFRASTRUCTURE","Clearpass virtual appliance","","","","443101","2016/10/12",
+"VM","chftpdrdb","165.124.62.23","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","8","200","145","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","GoAnywhere","dB server","DBA Group","itms-dba@northwestern.edu","519789","2017/04/14","Security Patched - 1/19/2017
+Qualys Added - 1/19/2017"
+"VM","checat3papp","165.124.64.25","CentOS 4/5 or later (64-bit)","1","2","2","8","94","94","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell; Patricia Rajamanickam","ENTERPRISE","MANAGED","ECATS Student Loans","Application server","","","416652","2016/09/06","416652 BS  9-6-2016"
+"VM","chsplsrc91","165.124.73.121","Red Hat Enterprise Linux 7 (64-bit)","2","2","4","8","118","118","1","CH.Prod.Collab.Splunk.VLAN1996.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Splunk","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2016/08/12",
+"VM","chsso65uata","165.124.171.237","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","8","124","27","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","MANAGED","Online Passport - WEB SSO","SSO","Darryl Philip Baker","dpb657","919844","2019/10/16","Fully Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect Rules added PIPS #DBA, and #DAPS - 10/8/2019
+Ansible Ready - Yes"
+"VM","webhost3","165.124.66.36","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","193","193","1","Dept.DMZ.66.0.VLAN230.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","WCAS Information Technology","Tyler Maclean","BUSINESS","HOSTED","Web Applications","Web server","","","","2015/03/17","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chkbox1","165.124.65.197","Other (32-bit)","1","1","1","1","601","601","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-TSS-SupportServices","Joseph Kurtin","BUSINESS","HOSTED","Client Management-Dell Kace","","Jay Bagley","jba867","","2014/03/17","K2000 Systems Deployment Extender by Dell KACE."
+"VM","chcasperdev","165.124.65.11","Red Hat Enterprise Linux 6 (64-bit)","2","2","4","8","557","255","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-TSS-SupportServices","Joseph Kurtin","BUSINESS","HOSTED","JAMF Casper","","Jay Bagley","jba867","479731","2017/01/12","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","CHVCENTERJUMP","165.124.61.20","Microsoft Windows Server 2012 (64-bit)","1","1","1","8","165","165","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere","Application server","George Chen","lgc813","NA","2019/05/20","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","tgsweb2","165.124.66.32","Red Hat Enterprise Linux 6 (64-bit)","2","1","2","2","34","34","1","Dept.DMZ.66.0.VLAN230.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Graduate School","Matthew Carroll","BUSINESS","HOSTED","Web Applications","Web server","Matthew Carroll","mmc295","","2012/05/07",
+"VM","socwpprodch","165.124.66.34","CentOS 4/5 or later (64-bit)","1","2","2","8","78","78","1","Dept.DMZ.66.0.VLAN230.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","School of Communication","John Arends","ACADEMIC","HOSTED","Web Applications","Application server","","","","2016/06/16",
+"VM","tgswebdev2","165.124.66.33","Red Hat Enterprise Linux 6 (64-bit)","2","1","2","2","34","34","1","Dept.DMZ.66.0.VLAN230.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Graduate School","Matthew Carroll","BUSINESS","HOSTED","Web Applications","Web server","Matthew Carroll","mmc295","","2012/07/27",
+"VM","tgsdb2","165.124.62.32","Red Hat Enterprise Linux 6 (64-bit)","2","1","2","4","36","36","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Graduate School","Matthew Carroll","BUSINESS","HOSTED","Web Applications","dB server","Matthew Carroll","mmc295","","2012/05/07",
+"VM","panorama-esx",,"Other Linux (64-bit)","4","1","4","8","262","262","1","TNS.1.192.VLAN231.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-TNS-DataNetwork","NUIT-NT","INFRASTRUCTURE","INFRASTRUCTURE","Palo Alto Next-Gen-Panorama Mgmt - Firewall ","Palo Alto mgmt. System","Kevin Grattan","kpg561","","2013/01/22","4.1.0"
+"VM","chcasper",,"Red Hat Enterprise Linux 6 (64-bit)","2","2","4","16","575","575","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-TSS-SupportServices","Joseph Kurtin","INFRASTRUCTURE","HOSTED","JAMF Casper","Application server","Jay Bagley","jba867","","2015/11/20","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","dbbackup","165.124.62.136","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","181","181","1","Dept.DB.62.128.VLAN225.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","WCAS Information Technology","Weinberg IT","BUSINESS","HOSTED","Database Disaster Recovery","Application server","root@wcas.northwestern.edu","root@wcas.northwestern.edu","","2015/12/01","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chnuinfoprodweb2","165.124.65.26","CentOS 4/5 or later (64-bit)","1","2","2","6","56","56","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations - Web Communications","University Relations","ENTERPRISE","HOSTED","University Web Site","Web server","Darryl Baker","dpb657","","2016/07/18",
+"VM","auto3dapp","165.124.64.80","Red Hat Enterprise Linux 7 (64-bit)","2","1","2","4","98","98","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Fully Patched - 10/8/2019
+Qualys Agent added - 1/18/2017
+Global Protect update applied DBA and PIPS -10/08/2019
+
+Ansible Ready - Yes"
+"VM","chnuinfoprodweb1","165.124.65.99","CentOS 4/5 or later (64-bit)","1","2","2","6","56","56","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations - Web Communications","University Relations","ENTERPRISE","HOSTED","University Web Site","Web server","Darryl Baker","dpb657","","2016/02/16",
+"VM","auto2drapp","165.124.64.83","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","86","86","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-DAPS","John Llanes","ENTERPRISE","MANAGED","Autosys","Application server","James Neal","itms-dba@northwestern.edu","735366","2018/08/21","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","auto2dapp","165.124.64.35","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","48","48","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-DAPS","John Llanes","ENTERPRISE","MANAGED","AutoSys","Application server","James Neal","itms-dba@northwestern.edu","","2016/04/07","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to avoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 2/6/2015"
+"VM","chnuinfodevweb2","165.124.65.101","CentOS 4/5 or later (64-bit)","1","2","2","6","56","37","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations","University Relations","ENTERPRISE","HOSTED","University Web Site","Web server","Darryl Baker","dpb657","561742","2017/07/13",
+"VM","adeastbb","165.124.64.46","Red Hat Enterprise Linux 6 (64-bit)","2","1","2","2","57","57","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-ADO","Chris Fowler","ENTERPRISE","HOSTED","CATracks- AIMS - Advance 9","ADEA batch processing","DAPS/ Darryl Baker, Ron Blitz","dpb657, rjb918","498200","2017/02/27","Fully Patched - 1/18/2017
+Qualys Added - 1/18/2017"
+"VM","auto3drapp","165.124.64.85","CentOS 4/5 or later (64-bit)","1","2","2","4","80","38","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Autosys","Application server","James Neal","jjn613","733246","2018/08/13","Fully Patched - 2/22/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chnuinfodevweb1","165.124.65.100","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","6","56","37","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations","University Relations","ENTERPRISE","HOSTED","University Web Site","Web server","Darryl Baker","dpb657","561739","2017/07/13",
+"VM","chnuinfodevnfs","165.124.64.16","CentOS 4/5 or later (64-bit)","1","2","2","6","238","158","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations","University Relations","ENTERPRISE","HOSTED","NFS","File server","Darryl Baker","dpb657","561747","2017/07/13",
+"VM","chnuinfoprodnfs","165.124.64.38","CentOS 4/5 or later (64-bit)","1","2","2","8","238","238","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations - Web Communications","University Relations","ENTERPRISE","HOSTED","University Web Site","File server","Darryl Baker","dpb657","","2016/02/04",
+"VM","checats7sdb","165.124.62.34","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","4","444","337","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02"," 	  Maureen Knight-Burrell; Patricia Rajamanickam","Maureen Knight-Burrell; Patricia Rajamanickam","ENTERPRISE","MANAGED","ECATS Student Loans","Database","Kurt Peight","kjp672","943305","","Security Patched - 10/08/2019
+Qualys Agent added - 1/18/2017
+Global Protect update applied DBA and PIPS -10/08/2019
+Ansible Ready - Yes"
+"VM","auto2drapp-RHEL7",,"CentOS 4/5 or later (64-bit)","1","2","2","4","80","32","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Autosys","Application server","James Neal","jjn613","685066","2018/04/26","Fully Patched - 2/22/2018
+Qualys Agent added - 1/18/2017
+
+Ansible Ready - Yes"
+"VM","chses92pshare","165.124.64.121","Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","394","361","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-AS-ADO","Tamara Foster","ENTERPRISE","MANAGED","SES-Caesar","File server","Terry Collins","tmc042","556194","2017/06/30","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to aoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0
+
+Fully Security Patched - 10/10/2014"
+"VM","chnuinfoprodweb3","165.124.65.27","CentOS 4/5 or later (64-bit)","1","2","2","6","56","56","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations - Web Communications","University Relations","ENTERPRISE","HOSTED","University Web Site","Web server","Darryl Baker","dpb657","","2016/07/16",
+"VM","CHADSGRPMGT3","165.124.63.29","Microsoft Windows Server 2016 or later (64-bit)","1","4","4","16","124","84","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory","Load balancer","Elvis Melendez","emy1174","749682","2018/09/14","updates installed on 8-21-18 by JM, added check_WSUS settings script. modified 6-6-17 by BS/JM added qualys and patched"
+"VM","ERACHAPP01","165.124.249.22","Microsoft Windows Server 2012 (64-bit)","2","2","4","10","157","76","1","Ent.App.165.124.249.0/24.VLAN2844.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-EnterpriseReportingAnalytics","NUIT-EnterpriseReportingAnalytics","ENTERPRISE","HOSTED","COGNOS","Application server","Matt Cantrell","mwc704","868909","2019/06/27","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","AUTO3DRWEB","165.124.65.47","Microsoft Windows Server 2016 or later (64-bit)","1","4","4","8","176","47","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Autosys","Web server","James Neal","jjn613","733261","2018/08/13","updates installed on 4-9-18 by JM. "
+"VM","CHOBPRODFS1","2002:a57c:4040::a57c:4040","Microsoft Windows Server 2012 (64-bit)","1","4","4","12","906","906","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","File server","","","448600","2016/10/28","Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHFN857PRDPSNA","165.124.64.109","Microsoft Windows Server 2016 or later (64-bit)","2","2","4","16","184","84","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-FFRA","Moses Phenany","ENTERPRISE","MANAGED","NUFinancials","Process Scheduler","Wilfred U Tumbaga","wtb451","825681","2019/03/21","Windows OS updates installed on 1-7-19 by JM. added spectre/meltdown and edge registry entries for vulnerabilities 10-15-18"
+"VM","CADBCH2","10.10.0.231","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","156","106","1","NUP.CentAlrm.10.10.0.224/28.VLAN1769.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Police","Kathryn Connolly","BUSINESS","HOSTED","Central Alarm System DB server","Application server","Kathryn Connolly","kco151","669592","2018/03/28","updates installed on 6-15-17 by JM, added check_WSUS settings script. modified 6-6-17 by BS/JM added qualys and patched"
+"VM","CHSES855PAPP1","165.124.64.44","Microsoft Windows Server 2012 (64-bit)","1","4","4","16","158","158","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","527625","2017/05/01","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHITCSVDC","165.124.61.46","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","136","83","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHIDSQAPWAP2","165.124.171.232","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","116","46","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Installed latest OS updates on 5-8-19 by JM."
+"VM","CHOBPRODDB","2002:a57c:3e15::a57c:3e15","Microsoft Windows Server 2012 (64-bit)","1","4","4","12","754","754","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","","","","","2016/10/21","Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHSES855PMSG1","165.124.64.28","Microsoft Windows Server 2012 (64-bit)","1","4","4","16","158","158","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","","DAPS","DL_NUIT_DAPS@e.northwestern.edu","556181","2017/07/03","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHOBPROD18WEB1","165.124.65.42","Microsoft Windows Server 2016 or later (64-bit)","2","2","4","12","130","77","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","Application server","Christopher Fowler","caf316","762077","2018/10/15","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHOBPROD18APP1","165.124.64.52","Microsoft Windows Server 2016 or later (64-bit)","2","2","4","12","150","97","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","Application server","Christopher Fowler","caf316","762079","2018/10/15","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHHR857DVBPSNA","165.124.249.23","Microsoft Windows Server 2016 or later (64-bit)","2","2","4","16","184","81","1","Ent.App.165.124.249.0/24.VLAN2844.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Windows OS updates installed on 1-7-19 by JM. added spectre/meltdown and edge registry entries for vulnerabilities 10-15-18"
+"VM","CHOBPRODAPPIDX","2002:a57c:4013::a57c:4013","Microsoft Windows Server 2012 (64-bit)","1","4","4","12","194","98","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","Application server","Christopher Fowler","caf316","617751","2017/11/09","Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","AUTO2DRWEB","165.124.65.41","Microsoft Windows Server 2012 (64-bit)","1","4","4","8","170","170","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","Autosys","Application server","James Neal","jjn613","735384","2018/08/21","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","CHCSPEDGE01","129.105.68.223","Microsoft Windows Server 2016 or later (64-bit)","4","1","4","8","416","345","1","Prod.Collab.VLAN1360.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Exchange - Edge server","Application server","David Christensen","dlc324","868773","2019/07/03","Windows OS updates installed on 5-6-19 by BS. added spectre/meltdown and edge registry entries for vulnerabilities 10-15-18"
+"VM","CHSES855PPS2","165.124.64.116","Microsoft Windows Server 2012 (64-bit)","1","2","2","16","158","59","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","","DAPS","DL_NUIT_DAPS@e.northwestern.edu","556232","2017/07/03","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHIDSQAFED1","165.124.137.151","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","116","48","1","IDM.General.NonProd.137.128/25.VLAN1242.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","ADFS","Application server","Elvis Melendez","emy1174","847628","2019/05/10","Installed latest OS updates on 5-8-19 by JM."
+"VM","CHCS857PRDPSNA","165.124.249.20","Microsoft Windows Server 2016 or later (64-bit)","1","4","4","16","254","81","1","Ent.App.165.124.249.0/24.VLAN2844.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Process Scheduler","Terry Collins","tmc042","861930","2019/06/25","Windows OS updates installed on 1-7-19 by JM. added spectre/meltdown and edge registry entries for vulnerabilities 10-15-18"
+"VM","CHSES92PSEARCH1","165.124.64.31","Microsoft Windows Server 2012 (64-bit)","2","2","4","32","174","174","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","","DAPS","DL_NUIT_DAPS@e.northwestern.edu","556186","2017/07/03","Installed latest OS updates on 12-13-16 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHITCSDEVDC1","165.124.61.39","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","136","83","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Active Directory","Domain Controller","Jose Munoz","jmunoz","778228","2018/11/12","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CAAPPCH2","10.10.0.232","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","6","114","43","1","NUP.CentAlrm.10.10.0.224/28.VLAN1769.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Police","Kathryn Connolly","BUSINESS","HOSTED","Central Alarm Server","Application server","Kathryn Connolly","kco151","669582","2018/04/09","updates installed on 4-9-18 by JM. "
+"VM","CHHR857PRDPSNA","165.124.64.60","Microsoft Windows Server 2016 or later (64-bit)","2","2","4","16","184","78","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","myHR","Process Scheduler","Ronald Blitz","rjb918","873749","2019/07/10","Windows OS updates installed on 1-7-19 by JM. added spectre/meltdown and edge registry entries for vulnerabilities 10-15-18"
+"VM","CHOBPRODSVC1","165.124.64.45","Microsoft Windows Server 2016 or later (64-bit)","4","1","4","12","150","95","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","Application server","Christopher Fowler","caf316","608635","2017/10/26","updates installed on 6-15-17 by JM, added check_WSUS settings script. modified 6-6-17 by BS/JM added qualys and patched"
+"VM","CHIDSQADC2","165.124.137.145","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","90","56","1","IDM.General.NonProd.137.128/25.VLAN1242.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory","Domain controller","Elvis Melendez","emy1174","819859","2019/03/12","Installed latest OS updates on 7-14-15 and poodle security fix added and rdp to negotiate. 4-28-2015. Domian Controller Template"
+"VM","CHIDSDEVDC2","165.124.63.30","Microsoft Windows Server 2012 (64-bit)","1","1","1","8","90","32","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory","Domain controller","Elvis Melendez","emy1174","819849","2019/03/12","Installed latest OS updates on 7-14-15 and poodle security fix added and rdp to negotiate. 4-28-2015. Domian Controller Template"
+"VM","CHIDSQAFED2","165.124.137.152","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","116","48","1","IDM.General.NonProd.137.128/25.VLAN1242.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","ADFS","Application server","Elvis Melendez","emy1174","847632","2019/05/10","Installed latest OS updates on 5-8-19 by JM."
+"VM","CHIDSQAPWAP1","165.124.171.231","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","116","46","1","IDM.WebSSO.NonProd.171.224/27.VLAN1443.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Installed latest OS updates on 5-8-19 by JM."
+"VM","GALTERPRINT1",,"Microsoft Windows Server 2008 R2 (64-bit)","1","1","1","2","204","202","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Feinberg School","Michelle Louise Frisque","BUSINESS","HOSTED","Print Server","Application server","","","","2012/04/17","Windows Server 2008 R2 Production Template used for new VM's - Updates installed 3-2-12"
+"VM","AUTO3DWEB","165.124.65.49","Microsoft Windows Server 2016 or later (64-bit)","4","1","4","8","176","116","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","Windows OS updates installed on 1-13-20 by JM. added spectre/meltdown and edge registry entries for vulnerabilities 10-15-18"
+"VM","CHWCMDRDB","165.124.62.65","Microsoft Windows Server 2016 or later (64-bit)","2","2","4","16","1404","1359","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations - Web Communications","Global Marketing","BUSINESS","HOSTED","Cascade","dB server","DBA Group","itms-dba@northwestern.edu","548463","2017/06/19","updates installed on 6-15-17 by JM, added check_WSUS settings script. modified 6-6-17 by BS/JM added qualys and patched"
+"VM","WCMSCHPROD","165.124.66.16","Microsoft Windows Server 2012 (64-bit)","4","2","8","32","114","114","1","Dept.DMZ.66.0.VLAN230.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations - Web Communications","Global Marketing","BUSINESS","HOSTED","Cascade","Application server","Tom Gladan","tgb3183","540978","2017/05/31","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","CHOBPRODSSO","2002:a57c:412d::a57c:412d","Microsoft Windows Server 2012 (64-bit)","1","1","1","8","100","100","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","Application server","","","448619","2016/10/28","BS FP448619 10-28-2016
+Installed latest OS updates on 7-14-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHINFOED158PRD2","2002:a57c:4133::a57c:4133","Microsoft Windows Server 2012 (64-bit)","2","2","4","8","120","120","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","fp448732 10-19-2016 BS
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHOBPRODFS4","165.124.64.69","Microsoft Windows Server 2012 (64-bit)","2","2","4","12","1118","1118","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","File server","","","","2017/04/10","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","FMPRINT02","2002:a57c:4087::a57c:4087","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","210","210","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Facilities Management","FMITHelpDesk@northwestern.edu","BUSINESS","HOSTED","Print Server","File server","FMITHelpDesk@northwestern.edu","","","2016/09/23","Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","LABTECH",,"Microsoft Windows Server 2008 R2 (64-bit)","1","1","1","4","98","98","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Feinberg School-Obstetrics & Gynecology","Jasmin Shah","BUSINESS","HOSTED","Deployment and Management Software","Application server","DL_FSM_SysAdmins@e.northwestern.edu","DL_FSM_SysAdmins@e.northwestern.edu","","2012/05/21",
+"VM","CHINFOED158PRD1","2002:a57c:4134::a57c:4134","Microsoft Windows Server 2012 (64-bit)","2","2","4","8","120","120","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","","","","","","","","","","","FP448725 10-19-2016 BS
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","FMCHDC01","165.124.64.163","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","310","310","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Facilities Management","FMITHelpDesk@northwestern.edu","BUSINESS","HOSTED","Active Directory","","FMITHelpDesk@northwestern.edu","","","2016/05/03","Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHOBPRODSOA1","165.124.64.77","Microsoft Windows Server 2012 (64-bit)","1","4","4","12","144","144","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","Web server","Christopher Fowler","caf316","579725","2017/08/23","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","SOCCHDC1","165.124.64.167","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","110","110","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","School of Communication","John Arends","ACADEMIC","HOSTED","Active Directory","","John Arends","jpa571","","2015/08/06",
+"VM","CHOBPRODEFS3","165.124.64.48","Microsoft Windows Server 2012 (64-bit)","1","4","4","8","610","610","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","File server","","","","2017/04/10","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","RISADSVR10CH","165.124.64.169","Microsoft Windows Server 2012 (64-bit)","1","2","2","4","146","146","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Office of Research-Information Systems","Larry Sklar","BUSINESS","HOSTED","Active Directory","Domain controller","Larry Sklar","ljs681","555660","2017/07/06","Installed latest OS updates on 4-05-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","FMQUORUM2","2002:a57c:40a8::a57c:40a8","Microsoft Windows Server 2012 (64-bit)","1","1","1","8","210","210","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Facilities Management","FMITHelpDesk@northwestern.edu","BUSINESS","HOSTED","Quorum Service","Application server","FMITHelpDesk@northwestern.edu","","","2015/11/23",
+"VM","CHOBPRODFS2","2002:a57c:4041::a57c:4041","Microsoft Windows Server 2012 (64-bit)","1","4","4","12","606","606","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-DAPS","ENTERPRISE","HOSTED","OnBase","File server","","","","2016/10/31","Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","wcmsdb2","165.124.62.135","Microsoft Windows Server 2012 (64-bit)","2","2","4","16","2090","2090","1","Dept.DB.62.128.VLAN225.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","University Relations - Web Communications","Global Marketing","BUSINESS","HOSTED","Web Content Management System (cascade)","dB server","Jacob Arnold","jar472","","2014/08/08",
+"VM","CHNUBIWIN7_old_3-12-20",,"Microsoft Windows Server 2008 R2 (64-bit)","2","1","2","2","96","94","1","VM Network","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-EnterpriseReportingAnalytics","NUIT-EnterpriseReportingAnalytics","ENTERPRISE","HOSTED","COGNOS","Application server","James Neal","jjn613","","2012/06/12","Windows Server 2008 R2 Production Template used for new VM's - Updates installed 3-2-12"
+"VM","CHTSSBFER02","2002:a57c:4312::a57c:4312","Microsoft Windows Server 2012 (64-bit)","1","2","2","4","486","486","1","ITCS.SVC.67.0.VLAN231.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-TSS-SupportServices","Scott Pitts, Kevin Ossler","ENTERPRISE","HOSTED","IBM BigFix","","Steve Ewald","sae679","433944","2016/09/13","bs fp433944  9-13-2016
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHTSSBFMS","2002:a57c:402a::a57c:402a","Microsoft Windows Server 2012 (64-bit)","4","4","16","28","510","510","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","David Marsh","ENTERPRISE","HOSTED","IBM BigFix","","Steve Ewald","sae679","","2016/08/22","FP 424602 BS
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHTSSBFIR01","2002:a57c:402b::a57c:402b","Microsoft Windows Server 2012 (64-bit)","1","2","2","4","386","386","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts, Kevin Ossler","ENTERPRISE","HOSTED","IBM BigFix","","Steve Ewald","sae679","","2016/08/22","424604
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHMBAMW01","165.124.65.18","Microsoft Windows Server 2012 (64-bit)","1","2","2","4","96","96","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-TSS-SupportServices","Joseph Kurtin","BUSINESS","HOSTED","MBAM/Bitlocker ","Application server","Steve Ewald","sae679","","2015/11/09","Added by BS 11-9-15 FP 321204"
+"VM","AUTODWEB2","2002:a57c:4116::a57c:4116","Microsoft Windows Server 2012 (64-bit)","2","2","4","8","150","150","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-DAPS","NUIT-PMOET-DAPS","ENTERPRISE","MANAGED","AutoSys","Web server","James Neal","jjn613","","2016/05/09","BS 5-9-16 FP385932
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHADSDC3","165.124.63.27","Microsoft Windows Server 2012 (64-bit)","1","2","2","12","104","104","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory; ADS Domain Controller","Domain controller","Elvis Melendez","emy1174","","2015/12/15","BS 12-11-15 FP 330881
+Installed latest OS updates on 7-14-15 and poodle security fix added and rdp to negotiate. 4-28-2015. Domian Controller Template"
+"VM","CHADEAPRDW6","2002:a57c:4124::a57c:4124","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","90","90","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ADEA-TechApps","Matt Hess","ENTERPRISE","HOSTED","CATracks- AIMS - Advance 9","Application server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","","2015/12/30","BS 12-30-15 FP336546
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHPXEMGR",,"Microsoft Windows Server 2008 R2 (64-bit)","1","1","1","2","56","54","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","John Walsh","INFRASTRUCTURE","INFRASTRUCTURE","Testing","","","","","2011/10/03","Windows Server 2008 R2 Template used for new VM's - Updates installed 4-21-11"
+"VM","CHCSPDC4","129.105.68.209","Microsoft Windows Server 2012 (64-bit)","1","2","2","12","104","104","1","Prod.Collab.VLAN1360.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory; ADS Domain Controller","Domain controller","Elvis Melendez","emy1174","","2015/12/15","BS 12-11-15 FP 331790
+Installed latest OS updates on 7-14-15 and poodle security fix added and rdp to negotiate. 4-28-2015. Domian Controller Template"
+"VM","CHADSFED4","165.124.63.79","Microsoft Windows Server 2012 (64-bit)","1","1","1","8","150","150","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory","Domain controller","Elvis Melendez","emy1174","","2014/07/25",
+"VM","CHCYBVAULT1","165.124.64.12","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","150","150","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","INFRASTRUCTURE","HOSTED","Cyber-Ark","Application server","Elvis Melendez","emy1174","","2016/04/07","BS 4-5-16 FP371479 
+BS admin.pips is currently set to administrator and the password is Tiyn!pwd4nFU@
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHOARDDC3","165.124.64.160","Microsoft Windows Server 2012 (64-bit)","1","1","1","2","94","94","1","Dept.App.64.128.VLAN228.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","Office of Alumni Relations & Development","Brad Wilson - Alumni Relations","BUSINESS","HOSTED","Active Directory","","Miranda Eston","mee5439","","2013/08/20",
+"VM","CHADEAPRDW4","2002:a57c:4122::a57c:4122","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","90","90","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ADEA-TechApps","Matt Hess","ENTERPRISE","HOSTED","CATracks- AIMS - Advance 9","Application server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","","2015/12/30","BS 12-30-15 FP336540
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHCSPDC3","129.105.68.208","Microsoft Windows Server 2012 (64-bit)","1","2","2","12","104","104","1","Prod.Collab.VLAN1360.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory; ADS Domain Controller","Domain controller","Elvis Melendez","emy1174","","2015/12/15","BS 12-11-15 FP 331789
+Installed latest OS updates on 7-14-15 and poodle security fix added and rdp to negotiate. 4-28-2015. Domian Controller Template"
+"VM","CHADSCYBWA1",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","8","150","142","1","dvportgroup-789","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory; ADS Domain Controller","Domain controller","Elvis Melendez","emy1174","","2016/04/07","BS 4-5-16 FP371473
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHHR92SES1_dontdelete",,"Microsoft Windows Server 2012 (64-bit)","1","4","4","16","298","282","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","FASIS-HRIS Peoplesoft 9","Application server","Ron Blitz","rjb918","","2015/12/22","Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHADSCYPSM","2002:a57c:400d::a57c:400d","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","150","150","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory; ADS Domain Controller","Domain controller","Elvis Melendez","emy1174","","2016/04/07","BS 4-5-16 FP371486
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHMBAMDB01","169.254.2.218","Microsoft Windows Server 2012 (64-bit)","1","2","2","12","374","374","1","Ent.DB.62.0.VLAN224ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-TSS-SupportServices","Scott Pitts","BUSINESS","HOSTED","MBAM/Bitlocker ","dB server","Steve Ewald","sae679","","2015/11/09","Added by BS 11-9-15 FP 321206"
+"VM","CHADSFED3","165.124.63.78","Microsoft Windows Server 2012 (64-bit)","1","1","1","8","150","150","1","IDM.63.0.ChCluster01.VLAN226.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","ENTERPRISE","HOSTED","Active Directory","Domain controller","Elvis Melendez","emy1174","","2014/07/25",
+"VM","CHSBXCYPSM","2002:a57c:407c::a57c:407c","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","150","150","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-PMOET-IdentityServices","NUIT-PMOET-IdentityServices","INFRASTRUCTURE","HOSTED","Cyber-Ark","Application server","Dan Landerman","dle665","","2016/03/30","BS 3-30-16 FP371234
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHADEAPRDW5","2002:a57c:4123::a57c:4123","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","90","90","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ADEA-TechApps","Matt Hess","ENTERPRISE","HOSTED","CATracks- AIMS - Advance 9","Application server","DAPS","DL_NUIT_DAPS@e.northwestern.edu","","2015/12/30","BS 12-30-15 FP336543
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHTSSBFER01","2002:a57c:4311::a57c:4311","Microsoft Windows Server 2012 (64-bit)","1","2","2","4","486","486","1","ITCS.SVC.67.0.VLAN231.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","David Marsh","ENTERPRISE","HOSTED","IBM BigFix","","David Marsh","sae679","","2016/08/22","424608
+Installed latest OS updates on 10-13-15 and poodle security fix added and rdp to negotiate. 4-28-2015"
+"VM","CHCSPTMG1","129.105.238.73","Microsoft Windows Server 2008 R2 (64-bit)","8","1","8","12","262","262","1","Prod.Collab.DMZ.VLAN1362.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Exchange TMG Server","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2011/02/25",
+"VM","CHCSPTMG2","129.105.238.74","Microsoft Windows Server 2008 R2 (64-bit)","8","1","8","12","262","262","1","Prod.Collab.DMZ.VLAN1362.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Exchange TMG Server","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2011/02/25",
+"VM","CHF5GTM1A","165.124.1.207","CentOS 4/5 or later (64-bit)","2","1","2","4","104","104","4","TNS.1.192.VLAN231.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-TNS-DataNetwork","NUIT-NT","INFRASTRUCTURE","INFRASTRUCTURE","BIG-IP Local Traffic Manager","Load balancer GTM","Kevin Grattan","kpg561","","2013/06/07","BIG-IP Local Traffic Manager Virtual Edition
+Copyright 2009-2012 F5 Networks (http://www.f5.com)
+
+For support please visit http://support.f5.com
+      "
+"VM","CHKRONPRAPP1","165.124.30.114","Microsoft Windows Server 2008 R2 (64-bit)","4","1","4","16","140","140","1","Kronos.Isolation.165.124.30.112/28.VLAN13.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","TES(Time Entry System)-Kronos","Application server","Dan Landerman","dle665","","2013/03/18",
+"VM","CHKRONPRAPP2","165.124.30.115","Microsoft Windows Server 2008 R2 (64-bit)","4","1","4","16","140","140","1","Kronos.Isolation.165.124.30.112/28.VLAN13.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-ASys-FASIS","NUIT-ASys-FASIS","ENTERPRISE","MANAGED","TES(Time Entry System)-Kronos","Application server","Dan Landerman","dle665","","2013/03/19",
+"VM","CHCSPTMG3","129.105.238.111","Microsoft Windows Server 2008 R2 (64-bit)","8","1","8","12","266","266","1","Prod.Collab.DMZ.VLAN1362.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Exchange TMG Server","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2011/12/07","Windows Server 2008 R2 Production Template used for new VM's - Updates installed 12-5-11"
+"VM","CHNUBIWIN7","165.124.65.65","Microsoft Windows Server 2012 (64-bit)","1","2","2","8","155","53","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-EnterpriseReportingAnalytics","NUIT-EnterpriseReportingAnalytics","ENTERPRISE","HOSTED","Cognos","Application server","James Neal","jjn613","9801066","2020/03/12","Installed latest OS updates on 6-15-17 and poodle security fix added and rdp to negotiate. 4-28-2015 Added Qualys 1-24-17"
+"VM","CHCSPSWFE1","165.124.43.211","Microsoft Windows Server 2008 R2 (64-bit)","8","1","8","16","268","268","1","Prod.Collab.43.VLAN1593.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Sharepoint Web Front End","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2013/01/28","Windows Server 2008 R2 Production Template used for new VM's - Updates installed 1-24-13"
+"VM","CHCSPSWFE2","165.124.43.212","Microsoft Windows Server 2008 R2 (64-bit)","8","1","8","16","268","268","1","Prod.Collab.43.VLAN1593.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Sharepoint Web Front End","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2013/01/28","Windows Server 2008 R2 Production Template used for new VM's - Updates installed 1-24-13"
+"VM","CHCSPCAS03","172.17.255.141","Microsoft Windows Server 2012 (64-bit)","8","1","8","20","202","202","2","Prod.Collab.43.VLAN1593.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","CAS Proxy for Exchange 2013","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2014/05/09",
+"VM","CHCSPCAS02","172.17.255.140","Microsoft Windows Server 2012 (64-bit)","8","1","8","20","202","202","2","Prod.Collab.43.VLAN1593.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","CAS Proxy for Exchange 2013","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2014/05/09",
+"VM","CHCSPSAPP1","129.105.68.239","Microsoft Windows Server 2008 R2 (64-bit)","8","1","8","16","268","268","1","Prod.Collab.VLAN1360.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","SharePoint Application","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2012/11/16","Windows Server 2008 R2 Production Template used for new VM's - Updates installed 3-2-12"
+"VM","CHCSPCAS01","172.17.255.139","Microsoft Windows Server 2012 (64-bit)","8","1","8","20","202","202","2","Prod.Collab.43.VLAN1593.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","CAS Proxy for Exchange 2013","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2014/04/24",
+"VM","RHEL6U4_64bit_Oracle11.3",,,"1","2","2","4","156","125","1","ITCS.Infra.61.128.ChCluster01.VLAN223.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2013/11/19","Enter search domain as 'ci.northwestern.edu itcs.northwestern.edu it.northwestern.edu northwestern.edu' .
+
+The ' ' will enter it as one line to aoid needing to change domain in /etc/sysconfig/network-scripts/ifcfg-eth0"
+"VM","chdc-vpan-fw-2267-1-tns-node1","10.100.117.14","CentOS 4/5 or later (64-bit)","1","2","2","4","65","65","4","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/11/06","PA-VM-8.0.5"
+"VM","chdc-vpan-fw-2267-1-tns-node0","10.100.117.13","CentOS 4/5 or later (64-bit)","1","2","2","4","65","65","4","vSRX_Out_Of_Band_Mgmt",,"CH","CHCluster_vSRX","NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/11/06","PA-VM-8.0.5"
+"VM","CHADSCYBWADEV","165.124.65.56","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","246","195","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHCYBVAULTDEV","165.124.64.70","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","246","192","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHCYBVAULT","165.124.64.94","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","346","293","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHADSCYBCPM","165.124.64.75","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","346","294","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHADSCYBPSM2","165.124.64.110","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","96","44","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHADSCYBPSM1","165.124.64.96","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","346","294","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHADSCYBCPMDEV","165.124.64.71","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","246","195","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHADSCYBPSMDEV","165.124.64.88","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","246","190","1","Ent.App.64.0.VLAN227.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","CHADSCYBWA","165.124.65.13","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","346","307","1","Ent.DMZ.65.0.VLAN229.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","CI-PIPS","NUIT-CI-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","Cyberark","Application Server","Bob Stabile","rrs701","","2020/03/03","Windows OS updates installed on 10-11-18 by JM. "
+"VM","chcspprf11","165.124.29.101","Other 2.6.x Linux (64-bit)","2","2","4","8","88","88","1","Prod.Collab.29.VLAN1627.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","SharePoint Application","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2016/02/08","Proofpoint focuses on the art and science of cloud-based email security, archiving, eDiscovery and compliance solutions."
+"VM","CHCSPWAP2","165.124.29.93","Microsoft Windows Server 2012 (64-bit)","1","2","2","3","65","65","1","Prod.Collab.29.VLAN1627.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Web Application Proxy","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2015/04/02",
+"VM","chcspprf12","165.124.29.102","Other 2.6.x Linux (64-bit)","2","2","4","8","88","88","1","Prod.Collab.29.VLAN1627.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","SharePoint Application","","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2016/06/28","BS FP404323 6-28-16
+Proofpoint focuses on the art and science of cloud-based email security, archiving, eDiscovery and compliance solutions."
+"VM","CHCSPWAP1","165.124.29.92","Microsoft Windows Server 2012 (64-bit)","1","2","2","3","65","65","1","Prod.Collab.29.VLAN1627.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Web Application Proxy","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2015/04/02",
+"VM","chcspprf10","165.124.29.100","Other 2.6.x Linux (64-bit)","2","2","4","8","88","88","1","Prod.Collab.29.VLAN1627.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","SharePoint Application","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2016/02/08","Proofpoint focuses on the art and science of cloud-based email security, archiving, eDiscovery and compliance solutions."
+"VM","chcspcip11","165.124.29.111 ","FreeBSD Pre-11 versions (64-bit)","3","2","6","12","512","512","3","Prod.Collab.29.VLAN1627.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Cisco-IronPort","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2014/06/25",
+"VM","CHCSPCAS04","172.17.255.142","Microsoft Windows Server 2012 (64-bit)","8","1","8","20","202","202","2","Prod.Collab.43.VLAN1593.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","CAS Proxy for Exchange 2013","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2014/06/09",
+"VM","CHCSPL3OWA1","165.124.43.223","Microsoft Windows Server 2008 R2 (64-bit)","8","1","8","16","238","238","1","Prod.Collab.43.VLAN1593.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Lync Project","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2013/04/25","Windows Server 2008 R2 Production Template used for new VM's - Updates installed 3-2-12"
+"VM","chcspcip10","165.124.29.110 ","FreeBSD Pre-11 versions (64-bit)","3","2","6","12","512","512","3","Prod.Collab.29.VLAN1627.ChCluster01","CH5030-1_DataCuster01","CH","CHCluster02","NUIT-CI-CollaborationServices","Scott Pitts","ENTERPRISE","HOSTED","Cisco-IronPort","Application server","NUIT CI Collaboration Services","DL_NUIT_CI_CS","","2014/06/25",
+"Template","rhel7postgresql95","rhel7postgresql95","Red Hat Enterprise Linux 7 (64-bit)","1","1","1","2","0","0","1","Dept.DMZ.66.0.VLAN230.ChCluster01","[CH5030-1_V02] rhel74postgresql95/rhel74postgresql95.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/11/19",
+"Template","rhel7template","rhel7template","Red Hat Enterprise Linux 7 (64-bit)","1","1","1","2","0","0","1","Dept.DMZ.66.0.VLAN230.ChCluster01","[CH5030-1_V02] rhel75template/rhel71template.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/11/19",
+"Template","W2k8_ent_R2_Exch_64bit","win2k8-R2.ci.northwestern.edu","Microsoft Windows Server 2008 R2 (64-bit)","1","1","1","2","0","0","1","ITCS.Mgmt.61.0","[CH5030-1_V02] W2k8_ent_R2_Exch_64bit/W2k8_ent_R2_Exch_64bit.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2013/11/07",
+"Template","W2K8_ent_R2_64bit",,"Microsoft Windows Server 2008 R2 (64-bit)","1","1","1","2","0","0","1","ITCS.Mgmt.106.0","[CH5030-1_V00] W2K8_ent_R2_64bit/W2K8_ent_R2_64bit.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2011/02/23",
+"Template","WIN2K16-GUI","WIN-7AH3OM0HH52","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","0","0","1","VM Network","[CH5030-1_V04] WIN2K16-GUI_replica/WIN2K16-GUI.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2018/10/11",
+"Template","rhel7ora12cR2","rhel7ora12cr2","Red Hat Enterprise Linux 7 (64-bit)","1","2","2","4","0","0","1","Dept.DMZ.66.0.VLAN230.ChCluster01","[CH5030-1_V02] rhel75ora12cR2/rhel73ora13c.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/11/19",
+"Template","RHEL6U4_64bit_vSphere",,"Red Hat Enterprise Linux 6 (64-bit)","1","2","2","4","0","0","1","VM Network","[CH5030-1_V00] RHEL6U4_64bit_vSphere/RHEL6U4_64bit_vSphere.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2015/09/22",
+"Template","WIN2K16-GUI-OLD-TBD","WIN-7AH3OM0HH52","Microsoft Windows Server 2016 or later (64-bit)","2","1","2","8","0","0","1","ITCS.Mgmt.61.0.VLAN222.ChCluster01","[CH5030-1_V05] WIN2K16-GUI/WIN2K16-GUI.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2017/06/19",
+"Template","HR92MSTRNTIB",,"Microsoft Windows Server 2012 (64-bit)","1","2","2","16","0","0","1","VM Network","[CH5030-1_V00] HR92MSTRNTIB/HR92MSTRNTIB.vmtx","CH",,"NUIT-ASys-FASIS","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","DAPS","DL_NUIT_DAPS@e.northwestern.edu","NA","2015/09/24",
+"Template","rhel7oraclient","rhel7oraclient","Red Hat Enterprise Linux 7 (64-bit)","1","1","1","2","0","0","1","Dept.DMZ.66.0.VLAN230.ChCluster01","[CH5030-1_V02] rhel75oraclient/rhel75oraclient.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2018/11/19",
+"Template","W2K8_ent_64bit",,"Microsoft Windows Server 2008 (64-bit)","1","1","1","2","0","0","1","Dept.App.64.128","[CH5030-1_V00] W2K8_ent_64bit/W2K8_ent_64bit.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2011/02/23",
+"Template","W2K3_ent_32bit",,"Microsoft Windows Server 2003 (32-bit)","1","1","1","0.25","0","0","1","Dept.App.64.128","[CH5030-1_V06] W2K3_ent_32bit/W2K3_ent_32bit.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2011/02/23",
+"Template","Win2k12-R2_STD","Win2k12-R2-STD","Microsoft Windows Server 2012 (64-bit)","1","1","1","8","0","0","1","VM Network","[CH5030-1_V05] Win2k12-R2_STD/Win2k12-R2_STD.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Jose Munoz","jmunoz","NA","2014/04/22",
+"Template","SES855PAPP1_temp","SES855PAPP1.ci.northwestern.edu","Microsoft Windows Server 2012 (64-bit)","1","4","4","16","0","0","1","VM Network","[CH5030-1_V02] SES855PAPP1_temp/SES855PAPP1.vmtx","CH",,"NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Application server","Terry Collins","tmc042","","2017/05/01",
+"Template","SES855PWEB1_temp","SES855PWEB1.ci.northwestern.edu","Microsoft Windows Server 2012 (64-bit)","1","4","4","16","0","0","1","VM Network","[CH5030-1_V02] SES855PWEB1_temp/SES855PWEB1.vmtx","CH",,"NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server","Terry Collins","tmc042","","2017/05/01",
+"Template","SES855PSSOWEB1_temp","SES855PSSOWEB1.ci.northwestern.edu","Microsoft Windows Server 2012 (64-bit)","1","4","4","16","0","0","1","VM Network","[CH5030-1_V02] SES855PSSOWEB1_temp/SES855PSSOWEB1.vmtx","CH",,"NUIT-ASys-SES","Maureen Knight-Burrell, Ann Dronen","ENTERPRISE","MANAGED","SES-Caesar","Web server","Terry Collins","tmc042","","2017/05/01",
+"Template","evdc-vsrx-fw-1146-1-template",,"Other (32-bit)","2","1","2","4","0","0","5","System.Object[]","[CH5030-1_V05] evdc-vsrx-fw-1146-1-template/evdc-vsrx-fw-1146-1-template.vmtx","CH",,"NUIT-CI-PIPS-Infrastructure","NUIT-PIPS","INFRASTRUCTURE","INFRASTRUCTURE","vSphere Template","Template","Thomas Halloran","thallora","NA","2017/12/18",

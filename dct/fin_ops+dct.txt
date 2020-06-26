@@ -1,0 +1,67 @@
+SELECT f.tag AS fin_ops_asset_tag,
+       f.po AS fin_ops_po,
+       f.serial AS fin_ops_serial,
+       d.serial_number AS dct_serial, 
+       d.vendor AS dct_make,
+       d.model AS dct_model,
+       d.type AS dct_type,
+       d.name AS dct_name
+FROM fin_ops_stage f
+RIGHT JOIN evdc_dct d on f.serial = d.serial_number
+WHERE d.type in ('SERVER','STORAGE')
+ORDER BY d.type,
+         d.vendor,
+         d.name;
+
+
+
+SELECT count(f.serial)
+FROM fin_ops_stage f
+RIGHT JOIN evdc_dct d on f.serial = d.serial_number
+WHERE d.type in ('SERVER','STORAGE')
+
+
+
+*********** PO Project **********
+
+SELECT f.po AS fin_ops_po,
+       f.tag AS fin_ops_asset_tag,
+       f.po AS fin_ops_serial,
+       d.serial_number AS dct_serial, 
+       d.vendor AS dct_make,
+       d.model AS dct_model,
+       d.type AS dct_type,
+       d.name AS dcd_name
+FROM evdc_dct_po d
+INNER JOIN fin_ops_stage f on d.po_number = f.po
+WHERE d.type in ('SERVER','STORAGE')
+ORDER BY d.type,
+         d.vendor,
+         d.name;
+
+select  d.po_number,
+       f.po
+from evdc_dct_po d
+INNER JOIN fin_ops_stage f on d.po_number = f.po
+
+
+
+
+select distinct d.po_number
+from evdc_dct_po d;
+
+
+select f.po
+from fin_ops_stage f
+WHERE po in (select distinct po_number from evdc_dct_po);
+
+
+select  f.po,
+       d.po_number
+from evdc_dct_po d
+INNER JOIN fin_ops_stage f on d.po_number = f.po
+WHERE po in (select distinct po_number from evdc_dct_po);
+
+
+
+
