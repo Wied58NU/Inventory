@@ -9,29 +9,30 @@ from sqlalchemy.types import String
 # read dctrack csv into pandas frame
 dct = pd.read_csv('in_dctrack.csv', na_filter=False )
 #dct = dct.replace(np.nan, '', regex=True)
+
 ## Column Stuff
 
 # Replace spaces in Column Names with underscores 
 dct.columns = dct.columns.str.replace(" ", "_")
-
-#Get rid of any commas in the fields
-dct = dct.replace(',',' ', regex=True)
 
 #Set all column names to lower case 'cause that the way postgres wants it!
 #Really it's true. If you create a table in Pg, and the names are mixed or uppercase, you'll
 # have to double quote the coluumn names in ya query. And that's a drag. 
 dct.columns = map(str.lower, dct.columns)
 
+## Data Stuff
+
+#Get rid of any commas in the fields
+dct = dct.replace(',',' ', regex=True)
+
 # Keep only the columns we want and set their order
 dct = dct[['name', 'make', 'type' ,'serial_number', 'model', 'function', 'contact', 'contact_team', 'customer', 'last_updated_on', 'technical_contact', 'installation_date','installation_ticket', 'decommission_ticket', 'location', 'cabinet']]
-
 
 #Convert all data fields to upper case
 dct = dct.apply(lambda x: x.astype(str).str.upper())
 
 # Old habits are hard to break so I'm saving the dataframe to a csv as a backup
 dct.to_csv('out_dctrack.csv', index=False)
-
 
 # connect to PostgreSQL DB - Yes, that is a password in plain text. 
 #engine = create_engine('postgresql://wied:wied@localhost:5432/jeffreywiedemann')

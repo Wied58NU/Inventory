@@ -1,4 +1,4 @@
-insert into cabinet_functions values('EVDC','O43','ADMIN');
+
 insert into cabinet_functions values('EVDC','P43','ADMIN');
 insert into cabinet_functions values('EVDC','Q43','ADMIN');
 insert into cabinet_functions values('EVDC','R43','ADMIN');
@@ -57,6 +57,7 @@ insert into cabinet_functions values('CHDC','0215.33','ADMIN');
 insert into cabinet_functions values('CHDC','0215.34','ADMIN');
 insert into cabinet_functions values('CHDC','0215.35','ADMIN');
 insert into cabinet_functions values('CHDC','0215.38','ADMIN');
+insert into cabinet_functions values('CHDC','0215.39','ADMIN');
 
 
 

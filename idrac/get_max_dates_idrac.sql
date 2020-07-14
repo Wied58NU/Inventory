@@ -1,3 +1,4 @@
+drop table idrac;
 create table idrac as 
 SELECT t1.* FROM idrac_stage t1
 JOIN 

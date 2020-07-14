@@ -1,0 +1,872 @@
+1  fin_ops_asset_tag | fin_ops_po |  fin_ops_serial   |                           dct_serial                           |   dct_make    |      dct_model      | dct_type |           dct_name            | location 
+
+2 -------------------+------------+-------------------+----------------------------------------------------------------+---------------+---------------------+----------+-------------------------------+----------
+
+3  00077227          | PUR0335217 | DPTBJQ1           | DPTBJQ1                                                        | DELL          | POWEREDGE R710      | SERVER   | CHCSPDPM01                    | CHDC
+
+4  00077223          | PUR0335217 | DPV8JQ1           | DPV8JQ1                                                        | DELL          | POWEREDGE R710      | SERVER   | CHCSPDPM02                    | CHDC
+
+5  00076669          | PUR0263482 | JHPYNN1           | JHPYNN1                                                        | DELL          | POWEREDGE R710      | SERVER   | CHCSPDPM04                    | CHDC
+
+6  00084451          | PUR0596941 | 3YNWGX1           | 3YNWGX1                                                        | DELL          | POWEREDGE R720      | SERVER   | CHCSPMBX03                    | CHDC
+
+7  00084450          | PUR0596941 | 3YPSGX1           | 3YPSGX1                                                        | DELL          | POWEREDGE R720      | SERVER   | CHCSPMBX04                    | CHDC
+
+8                    |            |                   | 4CPMV12                                                        | DELL          | POWEREDGE R720      | SERVER   | CHCSPMBX05                    | CHDC
+
+9                    |            |                   | 6FWC5X1                                                        | DELL          | POWEREDGE R720XD    | SERVER   | CHCSPSFAST1                   | CHDC
+
+10  00078512          | PUR0537238 | 5FWC5X1           | 5FWC5X1                                                        | DELL          | POWEREDGE R720XD    | SERVER   | CHCSPSFAST2                   | CHDC
+
+11  00078328          | PUR0412979 | F19GJS1           | F19GJS1                                                        | DELL          | POWEREDGE R710      | SERVER   | CHCSPSSQL1                    | CHDC
+
+12  00078327          | PUR0412979 | F1CCJS1           | F1CCJS1                                                        | DELL          | POWEREDGE R710      | SERVER   | CHCSPSSQL2                    | CHDC
+
+13  N0031654          | PUR0849358 | 7ZS6D42           | 7ZS6D42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX20                       | CHDC
+
+14  N0031653          | PUR0849358 | 7ZS3D42           | 7ZS3D42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX21                       | CHDC
+
+15  N0031656          | PUR0849358 | 7ZRCD42           | 7ZRCD42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX22                       | CHDC
+
+16                    |            |                   | 7ZS4D42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX23                       | CHDC
+
+17  00080241          | PUR0846848 | 7YZWC42           | 7YZWC42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX24                       | CHDC
+
+18  N0031652          | PUR0849358 | 8P99D42           | 8P99D42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX25                       | CHDC
+
+19  N0031700          | PUR0846848 | 9FWXC42           | 9FWXC42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX26                       | CHDC
+
+20  00080247          | PUR0846848 | 7Z00D42           | 7Z00D42                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX27                       | CHDC
+
+21  00081504          | PUR0883513 | CQ5WT52           | CQ5WT52                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX28-215_28                | CHDC
+
+22  00081496          | PUR0883513 | CQ5XT52           | CQ5XT52                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX29-215_28                | CHDC
+
+23  00081503          | PUR0883513 | CQ6VT52           | CQ6VT52                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX30-215_28                | CHDC
+
+24  00080267          | PUR0883513 | CQ5ZT52           | CQ5ZT52                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESX31-215_28                | CHDC
+
+25  00084456          | PUR1201612 | JP0HHK2           | JP0HHK2                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESXCLOUD01                  | CHDC
+
+26  00084455          | PUR1201612 | JP0HHL2           | JP0HHL2                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESXCLOUD02                  | CHDC
+
+27  00079389          | PUR1201612 | JP0HXK2           | JP0HXK2                                                        | DELL          | POWEREDGE R630      | SERVER   | CHESXCLOUD03                  | CHDC
+
+28                    |            |                   | 12R8HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | CHITCSPDC                     | CHDC
+
+29                    |            |                   | 6ZPRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | CHRACS10                      | CHDC
+
+30                    |            |                   | 6ZQRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | CHRACS11                      | CHDC
+
+31                    |            |                   | 6ZPSN23                                                        | DELL          | POWEREDGE R640      | SERVER   | CHRACS12                      | CHDC
+
+32                    |            |                   | 6ZPQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | CHRACS13                      | CHDC
+
+33                    |            |                   | 6ZNRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | CHRACS14                      | CHDC
+
+34                    |            |                   | D347P22                                                        | DELL          | POWEREDGE R620      | SERVER   | CHRACS5                       | CHDC
+
+35                    |            |                   | D356P22                                                        | DELL          | POWEREDGE R620      | SERVER   | CHRACS6                       | CHDC
+
+36  00080246          | PUR0783342 | D364P22           | D364P22                                                        | DELL          | POWEREDGE R620      | SERVER   | CHRACS7                       | CHDC
+
+37  00080245          | PUR0783342 | D346P22           | D346P22                                                        | DELL          | POWEREDGE R620      | SERVER   | CHRACS8                       | CHDC
+
+38  00080244          | PUR0783342 | D344P22           | D344P22                                                        | DELL          | POWEREDGE R620      | SERVER   | CHRACS9                       | CHDC
+
+39                    |            |                   | 7DXOQD2                                                        | DELL          | POWEREDGE R620      | SERVER   | CHSPLIDX04                    | CHDC
+
+40                    |            |                   | 7DWXPD2                                                        | DELL          | POWEREDGE R630      | SERVER   | CHSPLIDX05                    | CHDC
+
+41  00078324          | PUR0427791 | 6MWJKS1           | 6MWJKS1                                                        | DELL          | POWEREDGE R610      | SERVER   | CHVMBKUP01                    | CHDC
+
+42                    |            |                   | 8WYYHK2                                                        | DELL          | POWEREDGE R630      | SERVER   | CHVMBKUP01A                   | CHDC
+
+43  00080239          | PUR1001739 | HHPGHB2           | HHPGHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | CHVSRX01                      | CHDC
+
+44  00080238          | PUR1001739 | HHPFHB2           | HHPFHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | CHVSRX02                      | CHDC
+
+45  00077226          | PUR0335217 | 7XL92R1           | 7XL92R1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPDPM-DAS01A               | CHDC
+
+46  00077225          | PUR0335217 | 9XL92R1           | 9XL92R1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPDPM-DAS01B               | CHDC
+
+47  00077869          | PUR0423266 | GY5ZLS1           | GY5ZLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | CHCSPDPM-DAS01C               | CHDC
+
+48  00077221          | PUR0335217 | 8XL92R1           | 8XL92R1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPDPM-DAS02A               | CHDC
+
+49  00077222          | PUR0335217 | 6XL92R1           | 6XL92R1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPDPM-DAS02B               | CHDC
+
+50  00077870          | PUR0423266 | GY5YLS1           | GY5YLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | CHCSPDPM-DAS02C               | CHDC
+
+51  00077863          | PUR0423266 | GY6WLS1           | GY6WLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | CHCSPDPM04-DAS04A             | CHDC
+
+52  00077864          | PUR0423266 | GY5WLS1           | GY5WLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | CHCSPDPM04-DAS04B             | CHDC
+
+53  00077862          | PUR0423266 | H4QKKS1           | H4QKKS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | CHCSPDPM04-DAS04C             | CHDC
+
+54  00077867          | PUR0423266 | GY6SLS1           | GY6SLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | CHCSPDPM04-DAS04D             | CHDC
+
+55  00076667          | PUR0263482 | JHPWNN1           | JHPWNN1                                                        | DELL          | POWEREDGE R710      | STORAGE  | CHCSPMBX                      | CHDC
+
+56                    |            |                   | 3CDIGX1                                                        | DELL          | POWEREDGE R710      | STORAGE  | CHCSPMBX03-DAS03AA            | CHDC
+
+57  00084465          | PUR0596941 | 3CDWGX1           | 3CDWGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX03-DAS03B             | CHDC
+
+58  N0031635          | PUR0596928 | 3CHWGX1           | 3CHWGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX03-DAS03C             | CHDC
+
+59  00084467          | PUR0596941 | 3CGTGX1           | 3CGTGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX04-DAS04A             | CHDC
+
+60  00084463          | PUR0596941 | 3CDVGX1           | 3CDVGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX04-DAS04B             | CHDC
+
+61  00084461          | PUR0596941 | 3CFVGX1           | 3CFVGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX04-DAS04C             | CHDC
+
+62  N0031605          | PUR0737196 | 4BFLV12           | 4BFLV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX05-DAS05A             | CHDC
+
+63  N0031604          | PUR0737196 | 4BFKV12           | 4BFKV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX05-DAS05B             | CHDC
+
+64  N0031606          | PUR0737196 | 4BGKV12           | 4BGKV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHCSPMBX05-DAS05C             | CHDC
+
+65  N0031921          | PUR0682421 | 7RWZDZ1           | 7RWZDZ1                                                        | DELL          | POWEREDGE R720XD    | STORAGE  | CHSOCFILE02                   | CHDC
+
+66  00084388          | PUR1323640 | HM09XQ2           | HM09XQ2                                                        | DELL          | POWEREDGE R640      | STORAGE  | CHSPLIDX06                    | CHDC
+
+67  00084392          | PUR1323640 | HNQ3XQ2           | HNQ3XQ2                                                        | DELL          | MD1400              | STORAGE  | CHSPLIDX06-DAS01              | CHDC
+
+68  00084652          | PUR1323640 | H7R5XQ2           | H7R5XQ2                                                        | DELL          | MD1400              | STORAGE  | CHSPLIDX06-DAS02              | CHDC
+
+69  00084393          | PUR1323640 | HM0BXQ2           | HM0BXQ2                                                        | DELL          | POWEREDGE R640      | STORAGE  | CHSPLIDX07                    | CHDC
+
+70  00084389          | PUR1323640 | HNQ4XQ2           | HNQ4XQ2                                                        | DELL          | MD1400              | STORAGE  | CHSPLIDX07-DAS01              | CHDC
+
+71  00084390          | PUR1323640 | H7R6XQ2           | H7R6XQ2                                                        | DELL          | MD1400              | STORAGE  | CHSPLIDX07-DAS02              | CHDC
+
+72                    |            |                   | 6CTOQD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | CHSPLUNKDISK04                | CHDC
+
+73                    |            |                   | 6CSXPD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | CHSPLUNKDISK04-DS2            | CHDC
+
+74                    |            |                   | 6CSZPD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | CHSPLUNKDISK05                | CHDC
+
+75                    |            |                   | 6CSTPD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | CHSPLUNKDISK05-DS2            | CHDC
+
+76                    |            |                   | 82HNKS1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | CHVMBKUP01-DAS                | CHDC
+
+77                    |            |                   | 98H0JK2                                                        | DELL          | MD1400              | STORAGE  | CHVMBKUP01A-DAS               | CHDC
+
+78                    |            |                   | SN400-201326-0056                                              | EMC           | ISILON X400         | STORAGE  | CHISILON01-N1                 | CHDC
+
+79                    |            |                   | SN400-201326-0053                                              | EMC           | ISILON X400         | STORAGE  | CHISILON01-N2                 | CHDC
+
+80                    |            |                   | SN400-201326-0051                                              | EMC           | ISILON X400         | STORAGE  | CHISILON01-N3                 | CHDC
+
+81                    |            |                   | SN400-301410-0307                                              | EMC           | ISILON X400         | STORAGE  | CHISILON01-N4                 | CHDC
+
+82                    |            |                   | SN400-301410-0296                                              | EMC           | ISILON X400         | STORAGE  | CHISILON01-N5                 | CHDC
+
+83                    |            |                   | SN400-301610-0044                                              | EMC           | ISILON X400         | STORAGE  | CHISILON01-N6                 | CHDC
+
+84                    |            |                   | JWXNM181800834  JWXNM182401088  JWXNM181900254  JWXNM182401110 | EMC           | ISILON H400         | STORAGE  | CHISILON03 22  21  20  19     | CHDC
+
+85                    |            |                   | JWXNM184900871  JWXNM184901339  JWXNM184900888  JWXNM184901265 | EMC           | ISILON H400         | STORAGE  | CHISILON03-23   27  24   26   | CHDC
+
+86                    |            |                   | JWXNM184900891   JWXNM184901361                                | EMC           | ISILON H400         | STORAGE  | CHISILON03-25  28             | CHDC
+
+87                    |            |                   | SN400-201415-0088                                              | EMC           | ISILON X400         | STORAGE  | CHISILON03-N1                 | CHDC
+
+88                    |            |                   | JWXYE164500117                                                 | EMC           | ISILON X400         | STORAGE  | CHISILON03-N10                | CHDC
+
+89  00081535          | PUR1078966 | JWXYE164600100    | JWXYE164600100                                                 | EMC           | ISILON X400         | STORAGE  | CHISILON03-N11                | CHDC
+
+90                    |            |                   | JWXYE171700110                                                 | EMC           | ISILON X410         | STORAGE  | CHISILON03-N12                | CHDC
+
+91                    |            |                   | JWXYE171700133                                                 | EMC           | ISILON X410         | STORAGE  | CHISILON03-N13                | CHDC
+
+92                    |            |                   | JWXYE171700118                                                 | EMC           | ISILON X410         | STORAGE  | CHISILON03-N14                | CHDC
+
+93                    |            |                   | JWXYE172200115                                                 | EMC           | ISILON X410         | STORAGE  | CHISILON03-N15                | CHDC
+
+94                    |            |                   | JWXYE171700113                                                 | EMC           | ISILON X410         | STORAGE  | CHISILON03-N16                | CHDC
+
+95                    |            |                   | FCNYE181900002                                                 | EMC           | ISILON X410         | STORAGE  | CHISILON03-N17                | CHDC
+
+96                    |            |                   | FCNYE181900033                                                 | EMC           | ISILON X410         | STORAGE  | CHISILON03-N18                | CHDC
+
+97                    |            |                   | SN400-201433-0114                                              | EMC           | ISILON X400         | STORAGE  | CHISILON03-N2                 | CHDC
+
+98                    |            |                   | SN400-201433-0116                                              | EMC           | ISILON X400         | STORAGE  | CHISILON03-N3                 | CHDC
+
+99                    |            |                   | SN400-301524-0131                                              | EMC           | ISILON X400         | STORAGE  | CHISILON03-N4                 | CHDC
+
+100                    |            |                   | SN400-301549-0035                                              | EMC           | ISILON X400         | STORAGE  | CHISILON03-N5                 | CHDC
+
+101                    |            |                   | SN400-301601-0007                                              | EMC           | ISILON X400         | STORAGE  | CHISILON03-N6                 | CHDC
+
+102                    |            |                   | SN400-301545-0012                                              | EMC           | ISILON X400         | STORAGE  | CHISILON03-N7                 | CHDC
+
+103  00081532          | PUR1078966 | APMYE164800004    | APMYE164800004                                                 | EMC           | ISILON X400         | STORAGE  | CHISILON03-N8                 | CHDC
+
+104  00081533          | PUR1078966 | APMYE164800005    | APMYE164800005                                                 | EMC           | ISILON X400         | STORAGE  | CHISILON03-N9                 | CHDC
+
+105  00080179          | PUR1162300 | J11ML7M           | J11ML7M                                                        | LENOVO        | SYSTEM X3650 M5     | STORAGE  | ERADS14                       | CHDC
+
+106                    |            |                   | MT1314L00300                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | CHISILON01-IB-1               | CHDC
+
+107                    |            |                   | MT1314L00129                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | CHISILON01-IB-2               | CHDC
+
+108                    |            |                   | MT1411L00217                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | CHISILON03-IB-1               | CHDC
+
+109                    |            |                   | MT1411L00337                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | CHISILON03-IB-2               | CHDC
+
+110                    |            |                   | FCH2040V0T9                                                    | CISCO SYSTEMS | USC C240 M4SX       | SERVER   | EV-UCESX01                    | EVDC
+
+111                    |            |                   | FCH2040V0CZ                                                    | CISCO SYSTEMS | USC C240 M4SX       | SERVER   | EV-UCESX02                    | EVDC
+
+112                    |            |                   | FCH2039V4FM                                                    | CISCO SYSTEMS | USC C240 M4SX       | SERVER   | EV-UCESX03                    | EVDC
+
+113                    |            |                   | FCH2117V0H9                                                    | CISCO SYSTEMS | UCS C240 M3         | SERVER   | EV-UCESX04                    | EVDC
+
+114                    |            |                   | FCH1922V0EU                                                    | CISCO SYSTEMS | UCS C240 M3         | SERVER   | EV-UCESX05                    | EVDC
+
+115                    |            |                   | 9L5L382                                                        | CODE42        | M1                  | SERVER   | BACKUP1                       | EVDC
+
+116  00085141          | PUR0881262 | C1HLT52           | C1HLT52                                                        | DELL          | R730                | SERVER   | ALPS.LIBRARY.NORTHWESTERN.EDU | EVDC
+
+117                    |            |                   | 4N2GTK1                                                        | DELL          | POWEREDGE R610      | SERVER   | ANSEL                         | EVDC
+
+118  00080285          | PUR0670812 | 1CT7CZ1           | 1CT7CZ1                                                        | DELL          | POWEREDGE R620      | SERVER   | AVALON                        | EVDC
+
+119                    |            |                   | F2HXHX1                                                        | DELL          | POWEREDGE R620      | SERVER   | BIGBEND                       | EVDC
+
+120                    |            |                   | 236P182                                                        | DELL          | POWEREDGE R730XD    | SERVER   | COIPROD                       | EVDC
+
+121                    |            |                   | 235T182                                                        | DELL          | POWEREDGE R730XD    | SERVER   | COIPRODDATA                   | EVDC
+
+122                    |            |                   | 235S183                                                        | DELL          | POWEREDGE R730XD    | SERVER   | COITEST                       | EVDC
+
+123                    |            |                   | 235V182                                                        | DELL          | POWEREDGE R730XD    | SERVER   | COITESTDATA                   | EVDC
+
+124                    |            |                   | 826MKB2                                                        | DELL          | POWEREDGE 1750      | SERVER   | ERATABLEAU                    | EVDC
+
+125                    |            |                   | DG12182                                                        | DELL          | POWEREDGE R630      | SERVER   | EVADSDC4                      | EVDC
+
+126  00079104          | PUR0447613 | 2JPN3V1           | 2JPN3V1                                                        | DELL          | POWEREDGE R720XD    | SERVER   | EVAIRWAVE                     | EVDC
+
+127  00079103          | PUR0447586 | BZNN3V1           | BZNN3V1                                                        | DELL          | POWEREDGE R720XD    | SERVER   | EVAIRWAVE2                    | EVDC
+
+128  00080220          | PUR0886039 | 5XQ3V52           | 5XQ3V52                                                        | DELL          | POWEREDGE R730XD    | SERVER   | EVAIRWAVE3                    | EVDC
+
+129  00077005          | PUR0335239 | 53NGXQ1           | 53NGXQ1                                                        | DELL          | POWEREDGE R710      | SERVER   | EVCSPDPM01                    | EVDC
+
+130  00077004          | PUR0335239 | 53NJXQ1           | 53NJXQ1                                                        | DELL          | POWEREDGE R710      | SERVER   | EVCSPDPM02                    | EVDC
+
+131  00078671          | PUR0527753 | 5G79ZV1           | 5G79ZV1                                                        | DELL          | POWEREDGE R720      | SERVER   | EVCSPDPM03                    | EVDC
+
+132  00079114          | PUR0596893 | 3YQTGX1           | 3YQTGX1                                                        | DELL          | POWEREDGE R720      | SERVER   | EVCSPMBX01                    | EVDC
+
+133  00079112          | PUR0596893 | 3YQSGX1           | 3YQSGX1                                                        | DELL          | POWEREDGE R720      | SERVER   | EVCSPMBX02                    | EVDC
+
+134  00079109          | PUR0596893 | 3YPVGX1           | 3YPVGX1                                                        | DELL          | POWEREDGE R720      | SERVER   | EVCSPMBX03                    | EVDC
+
+135                    |            |                   | DRW48Y1                                                        | DELL          | POWEREDGE R720      | SERVER   | EVCSPMBX04                    | EVDC
+
+136  N0031584          | PUR0737189 | 4CPJV12           | 4CPJV12                                                        | DELL          | POWEREDGE R720      | SERVER   | EVCSPMBX05                    | EVDC
+
+137  N0031585          | PUR0737189 | 4CPKV12           | 4CPKV12                                                        | DELL          | POWEREDGE R720      | SERVER   | EVCSPMBX06                    | EVDC
+
+138                    |            |                   | 4FWC5X1                                                        | DELL          | POWEREDGE R720XD    | SERVER   | EVCSPSFAST1                   | EVDC
+
+139                    |            |                   | 3FWC5X1                                                        | DELL          | POWEREDGE R720XD    | SERVER   | EVCSPSFAST2                   | EVDC
+
+140  00077977          | PUR0412979 | F1BFJS1           | F1BFJS1                                                        | DELL          | POWEREDGE R710      | SERVER   | EVCSPSSQL1                    | EVDC
+
+141  00077978          | PUR0412979 | F1BCJS1           | F1BCJS1                                                        | DELL          | POWEREDGE R710      | SERVER   | EVCSPSSQL2                    | EVDC
+
+142  00076580          | PUR0263482 | JHPMMN1           | JHPMMN1                                                        | DELL          | POWEREDGE R710      | SERVER   | EVDSPDPM04                    | EVDC
+
+143                    |            |                   | 9SBJDX1                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESX15                       | EVDC
+
+144                    |            |                   | 9S9JDX1                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESX16                       | EVDC
+
+145                    |            |                   | 9S8JDX1                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESX17                       | EVDC
+
+146                    |            |                   | 9S8HDX1                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESX18                       | EVDC
+
+147  00080326          | PUR0737342 | 2KWMV12           | 2KWMV12                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESX43                       | EVDC
+
+148  00080327          | PUR0737342 | 2KXJV12           | 2KXJV12                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESX44                       | EVDC
+
+149  00081511          | PUR0846848 | 7YZVC42           | 7YZVC42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX70                       | EVDC
+
+150  00080268          | PUR0846848 | 95FZC42           | 95FZC42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX71                       | EVDC
+
+151  00080269          | PUR0846848 | 7Z02D42           | 7Z02D42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX72                       | EVDC
+
+152  00081510          | PUR0846848 | 7YZYC42           | 7YZYC42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX73                       | EVDC
+
+153  00081515          | PUR0883513 | CQ60V52           | CQ60V52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX74                       | EVDC
+
+154  00081514          | PUR0883513 | CQ61V52           | CQ61V52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX75                       | EVDC
+
+155  00081516          | PUR0883513 | CQ5VT52           | CQ5VT52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX76                       | EVDC
+
+156  00081502          | PUR0883513 | CQ5YT52           | CQ5YT52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX77                       | EVDC
+
+157                    |            |                   | HHXJHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX82                       | EVDC
+
+158                    |            |                   | HHXWHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX83                       | EVDC
+
+159                    |            |                   | HHXGHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX84                       | EVDC
+
+160                    |            |                   | HHXKHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX85                       | EVDC
+
+161                    |            |                   | HHXXHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX86                       | EVDC
+
+162                    |            |                   | HHXLHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESX87                       | EVDC
+
+163  00079352          | PUR1148114 | HLQCJH2           | HLQCJH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N01                   | EVDC
+
+164  00079351          | PUR1148114 | HLQXHH2           | HLQXHH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N02                   | EVDC
+
+165  00079350          | PUR1148114 | HLR0JH2           | HLR0JH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N03                   | EVDC
+
+166  00084539          | PUR1148114 | HLQBJH2           | HLQBJH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N04                   | EVDC
+
+167  00079349          | PUR1148114 | HLQYHH2           | HLQYHH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N05                   | EVDC
+
+168  00079348          | PUR1148114 | HLQWHH2           | HLQWHH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N06                   | EVDC
+
+169                    |            |                   | HLQZHH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N07                   | EVDC
+
+170  00079346          | PUR1148114 | HLQDJH2           | HLQDJH2                                                        | DELL          | POWEREDGE R620      | SERVER   | EVESXC01N08                   | EVDC
+
+171                    |            |                   | 5Y0XQP2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC02N01-U39               | EVDC
+
+172                    |            |                   | 5Y0WQP2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC02N02-U39               | EVDC
+
+173                    |            |                   | J243HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC02N03-O34               | EVDC
+
+174                    |            |                   | J245HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC02N04-O34               | EVDC
+
+175                    |            |                   | J247HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC02N05-S34               | EVDC
+
+176                    |            |                   | J244HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC02N06-S34               | EVDC
+
+177                    |            |                   | J246HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC02N07-S34               | EVDC
+
+178                    | PUR1523314 | 38W4H13           | 38W4H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC03N01-V34               | EVDC
+
+179                    | PUR1523314 | 38V9H13           | 38V9H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC03N02-V34               | EVDC
+
+180                    | PUR1523314 | 38W3H13           | 38W3H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC03N03-V34               | EVDC
+
+181                    | PUR1521352 | 3CQ4H13           | 3CQ4H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC03N04-P39               | EVDC
+
+182                    | PUR1521352 | 2CFYG13           | 2CFYG13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC03N05-P39               | EVDC
+
+183                    | PUR1521352 | 3CQ6H13           | 3CQ6H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC03N06-P39               | EVDC
+
+184                    | PUR1521352 | 3CP9H13           | 3CP9H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC03N07-P39               | EVDC
+
+185                    | PUR1521352 | 3CQ8H13           | 3CQ8H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC04N01-V34               | EVDC
+
+186                    | PUR1521352 | 3CQ9H13           | 3CQ9H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC04N02-V34               | EVDC
+
+187                    | PUR1521352 | 3CQ7H13           | 3CQ7H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC04N03-V34               | EVDC
+
+188                    | PUR1521352 | 3CQ3H13           | 3CQ3H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC04N04-V34               | EVDC
+
+189                    | PUR1521352 | 3CR3H13           | 3CR3H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC04N05-Q34               | EVDC
+
+190                    | PUR1521352 | 3CP8H13           | 3CP8H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC04N06-Q34               | EVDC
+
+191                    | PUR1521352 | 3CQ5H13           | 3CQ5H13                                                        | DELL          | POWEREDGE R640      | SERVER   | EVESXC04N07-Q34               | EVDC
+
+192  00081517          | PUR0864605 | H17HR52           | H17HR52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD31                  | EVDC
+
+193  00081513          | PUR0864605 | H17JR52           | H17JR52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD32                  | EVDC
+
+194  00081512          | PUR0864605 | H17KR52           | H17KR52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD33                  | EVDC
+
+195  00081493          | PUR1001752 | HHPHHB2           | HHPHHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD34                  | EVDC
+
+196  00081492          | PUR1001752 | HHPJHB2           | HHPJHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD35                  | EVDC
+
+197  00079271          | PUR1167138 | HRK6GK2           | HRK6GK2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD36                  | EVDC
+
+198  00079273          | PUR1167138 | HRK7GK2           | HRK7GK2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD37                  | EVDC
+
+199                    |            |                   | 84VVFK2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD38                  | EVDC
+
+200                    |            |                   | 84VTFK2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD39                  | EVDC
+
+201                    |            |                   | 84VSFK2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD40                  | EVDC
+
+202                    |            |                   | 84VWFK2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD41                  | EVDC
+
+203                    |            |                   | 84VXFK2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD42                  | EVDC
+
+204                    |            |                   | HHXHHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD43                  | EVDC
+
+205                    |            |                   | HHXVHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD44                  | EVDC
+
+206  00080274          | PUR0846848 | 7Z01D42           | 7Z01D42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD45                  | EVDC
+
+207  00081521          | PUR0846848 | 7YZXC42           | 7YZXC42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD46                  | EVDC
+
+208  00081520          | PUR0846848 | 7YZ1D42           | 7YZ1D42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD47                  | EVDC
+
+209  N0031655          | PUR0849358 | 7ZS5D42           | 7ZS5D42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD48                  | EVDC
+
+210  00080273          | PUR0846848 | 7YZZC42           | 7YZZC42                                                        | DELL          | POWEREDGE R630      | SERVER   | EVESXCLOUD49                  | EVDC
+
+211  00080219          | PUR0886039 | 5XQ4V52           | 5XQ4V52                                                        | DELL          | POWEREDGE R730XD    | SERVER   | EVESXTNSC01N02                | EVDC
+
+212  N0031698          | PUR0886039 | 5XQ5V52           | 5XQ5V52                                                        | DELL          | POWEREDGE R730XD    | SERVER   | EVESXTNSC01N03                | EVDC
+
+213                    |            |                   | 12S3HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVITCSPDC                     | EVDC
+
+214  00088059          | PUR1333389 | 4GS9HQ2           | 4GS9HQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVNBMS01                      | EVDC
+
+215  00088060          | PUR1333389 | 4GRHHQ2           | 4GRHHQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVNBMS02                      | EVDC
+
+216  00088058          | PUR1333389 | 4GSCHQ2           | 4GSCHQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVNBMSTR01                    | EVDC
+
+217  00080199          | PUR0974187 | 7N98FB2           | 7N98FB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVPUMHOST                     | EVDC
+
+218  00080323          | PUR0715639 | HP7YK02           | HP7YK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACP10                      | EVDC
+
+219                    |            |                   | 6ZSRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACP11                      | EVDC
+
+220                    |            |                   | 6ZSSN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACP12                      | EVDC
+
+221                    |            |                   | 6ZRSN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACP13                      | EVDC
+
+222                    |            |                   | 6ZVQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACP14                      | EVDC
+
+223                    |            |                   | HP6TK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACP6                       | EVDC
+
+224  00080320          | PUR0715639 | HP9TK02           | HP9TK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACP7                       | EVDC
+
+225  00080321          | PUR0715639 | HP8XK02           | HP8XK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACP8                       | EVDC
+
+226                    |            |                   | HP6WK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACP9                       | EVDC
+
+227  00080331          | PUR0783342 | D357P22           | D357P22                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACR07                      | EVDC
+
+228  00080332          | PUR0783342 | D345P22           | D345P22                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACR08                      | EVDC
+
+229                    |            |                   | D354P22                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACR10                      | EVDC
+
+230                    |            |                   | 6ZVSN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACR11                      | EVDC
+
+231                    |            |                   | 6ZWRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACR12                      | EVDC
+
+232                    |            |                   | 6ZWQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACR13                      | EVDC
+
+233                    |            |                   | 6ZTRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACR14                      | EVDC
+
+234                    |            |                   | 6ZSQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACR15                      | EVDC
+
+235                    |            |                   | 6ZRQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACR16                      | EVDC
+
+236  00080330          | PUR0783342 | D337P22           | D337P22                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACR6                       | EVDC
+
+237  00084691          | PUR0783342 | D355P22           | D355P22                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACR9                       | EVDC
+
+238  00083979          | PUR0783342 | D355P22           | D355P22                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACR9                       | EVDC
+
+239  00080317          | PUR0715561 | HP5SK02           | HP5SK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACT10                      | EVDC
+
+240  00080318          | PUR0715561 | HP5ZK02           | HP5ZK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACT11                      | EVDC
+
+241  00081501          | PUR0988321 | G42GGB2           | G42GGB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVRACT12                      | EVDC
+
+242  00081500          | PUR0988321 | G42HGB2           | G42HGB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVRACT13                      | EVDC
+
+243  00081499          | PUR0988321 | G42JGB2           | G42JGB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVRACT14                      | EVDC
+
+244                    |            |                   | 6ZTSN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT15                      | EVDC
+
+245                    |            |                   | 6ZVRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT16                      | EVDC
+
+246                    |            |                   | 6ZTQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT17                      | EVDC
+
+247                    |            |                   | 6ZRRN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT18                      | EVDC
+
+248                    |            |                   | 6ZQSN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT19                      | EVDC
+
+249                    |            |                   | 6ZNQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT20                      | EVDC
+
+250                    |            |                   | 6ZNSN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT21                      | EVDC
+
+251                    |            |                   | 6ZQQN23                                                        | DELL          | POWEREDGE R640      | SERVER   | EVRACT22                      | EVDC
+
+252  00080314          | PUR0715561 | HP5WK02           | HP5WK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACT7                       | EVDC
+
+253  00080315          | PUR0715561 | HP5XK02           | HP5XK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACT8                       | EVDC
+
+254  00080316          | PUR0715561 | HP6SK02           | HP6SK02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVRACT9                       | EVDC
+
+255                    |            |                   | BVQDS52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVSPLIDX01                    | EVDC
+
+256                    |            |                   | BVQCS52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVSPLIDX02                    | EVDC
+
+257                    |            |                   | BVQFS52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVSPLIDX03                    | EVDC
+
+258                    |            |                   | 7DWYPD2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVSPLIDX04                    | EVDC
+
+259                    |            |                   | 7DWZPD2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVSPLIDX05                    | EVDC
+
+260  00084649          | PUR1323640 | HM0CXQ2           | HM0CXQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVSPLIDX06                    | EVDC
+
+261                    |            |                   | H7R5XQ1                                                        | DELL          | POWERVAULT MD1420   | SERVER   | EVSPLIDX06-DAS01              | EVDC
+
+262  00088061          | PUR1323640 | 92NZCS2           | 92NZCS2                                                        | DELL          | POWERVAULT MD1420   | SERVER   | EVSPLIDX06-DAS02              | EVDC
+
+263  00084648          | PUR1323640 | HM0DXQ2           | HM0DXQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVSPLIDX07                    | EVDC
+
+264  00084650          | PUR1323640 | HNQ6XQ2           | HNQ6XQ2                                                        | DELL          | POWERVAULT MD1420   | SERVER   | EVSPLIDX07-DAS01              | EVDC
+
+265  00084651          | PUR1323640 | H7R8XQ2           | H7R8XQ2                                                        | DELL          | POWERVAULT MD1420   | SERVER   | EVSPLIDX07-DAS02              | EVDC
+
+266  00080313          | PUR0695223 | 3Z5BH02           | 3Z5BH02                                                        | DELL          | POWEREDGE R620      | SERVER   | EVSPLIDX91                    | EVDC
+
+267  00084644          | PUR1326725 | 3CV81Q2           | 3CV81Q2                                                        | DELL          | POWEREDGE R640      | SERVER   | EVSPLSES01                    | EVDC
+
+268                    |            |                   | BVQ8S52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVSPLSRC01                    | EVDC
+
+269                    |            |                   | BVPMS52                                                        | DELL          | POWEREDGE R630      | SERVER   | EVSPLSRC02                    | EVDC
+
+270  N0031694          | PUR1001739 | HHNZHB2           | HHNZHB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVVSRX01                      | EVDC
+
+271  00081486          | PUR1001739 | HHP0JB2           | HHP0JB2                                                        | DELL          | POWEREDGE R630      | SERVER   | EVVSRX02                      | EVDC
+
+272  00084645          | PUR1333388 | 4JN9HQ2           | 4JN9HQ2                                                        | DELL          | POWEREDGE R740XD    | SERVER   | EVVSRX03                      | EVDC
+
+273  00084413          | PUR1333388 | 4JMHHQ2           | 4JMHHQ2                                                        | DELL          | POWEREDGE R740XD    | SERVER   | EVVSRX04                      | EVDC
+
+274  00080195          | PUR0814460 | 1HFY842           | 1HFY842                                                        | DELL          | POWEREDGE R620      | SERVER   | FFRATM1PRD                    | EVDC
+
+275                    |            |                   | JCPPHQ2                                                        | DELL          | POWEREDGE R640      | SERVER   | FFRATM1PRD2                   | EVDC
+
+276  00080196          | PUR0868095 | 4TK3S52           | 4TK3S52                                                        | DELL          | POWEREDGE R630      | SERVER   | NUBIEVAPP07                   | EVDC
+
+277  00080197          | PUR0868095 | 4TK4S52           | 4TK4S52                                                        | DELL          | POWEREDGE R630      | SERVER   | NUBIEVAPP08                   | EVDC
+
+278  00080198          | PUR0868095 | 4TK5S52           | 4TK5S52                                                        | DELL          | POWEREDGE R630      | SERVER   | NUBIEVAPP09                   | EVDC
+
+279  N0031819          | PUR1103202 | 82N0CH2           | 82N0CH2                                                        | DELL          | POWEREDGE R630      | SERVER   | NUBIEVAPP12                   | EVDC
+
+280                    |            |                   | 9178VR1                                                        | DELL          | POWEREDGE R710      | SERVER   | NUFMZENMASTER                 | EVDC
+
+281                    |            |                   | 9179VR1                                                        | DELL          | POWEREDGE R710      | SERVER   | NUFMZENSLAVE                  | EVDC
+
+282                    |            |                   | CZ3920T4Z3                                                     | DELL          | POWEREDGE R720      | SERVER   | NUQVMHOST06                   | EVDC
+
+283                    |            |                   | CZ3920T4Z5                                                     | DELL          | POWEREDGE R720      | SERVER   | NUQVMHOST07                   | EVDC
+
+284  00079281          | PUR1125517 | G4S7HH2           | G4S7HH2                                                        | DELL          | POWEREDGE R730XD    | SERVER   | RISAOPSPRD                    | EVDC
+
+285  00079279          | PUR1125517 | G4S5HH2           | G4S5HH2                                                        | DELL          | POWEREDGE R730XD    | SERVER   | RISAOPSPRDDATE                | EVDC
+
+286  00079282          | PUR1125517 | G4S6HH2           | G4S6HH2                                                        | DELL          | POWEREDGE R730XD    | SERVER   | RISAOPSTST                    | EVDC
+
+287  00079280          | PUR1125517 | G4RBHH2           | G4RBHH2                                                        | DELL          | POWEREDGE R730XD    | SERVER   | RISAOPSTSTDAT                 | EVDC
+
+288  N0019742          | PUR0765232 | 175LN22           | 175LN22                                                        | DELL          | POWEREDGE R720XD    | SERVER   | RISEIRB7APP                   | EVDC
+
+289  N0031720          | PUR0750793 | CV4MW12           | CV4MW12                                                        | DELL          | POWEREDGE R720XD    | SERVER   | RISEIRB7APPTEST               | EVDC
+
+290  N0031723          | PUR0765232 | 175KN22           | 175KN22                                                        | DELL          | POWEREDGE R720XD    | SERVER   | RISEIRB7DAT                   | EVDC
+
+291  N0031721          | PUR0750793 | CV3PW12           | CV3PW12                                                        | DELL          | POWEREDGE R720XD    | SERVER   | RISEIRB7DATTEST               | EVDC
+
+292                    |            |                   | 10V0V52                                                        | DELL          | POWEREDGE R630      | SERVER   | VMBKUP01A                     | EVDC
+
+293  00081498          | PUR0883531 | 10TYT52           | 10TYT52                                                        | DELL          | POWEREDGE R630      | SERVER   | VMBKUP02A                     | EVDC
+
+294  00081497          | PUR0883531 | 10TXT52           | 10TXT52                                                        | DELL          | POWEREDGE R630      | SERVER   | VMBKUP03A                     | EVDC
+
+295  N0031696          | PUR0883531 | 10TZT52           | 10TZT52                                                        | DELL          | POWEREDGE R630      | SERVER   | VMBKUP04A                     | EVDC
+
+296                    |            |                   | 8TFH333                                                        | DELL          | POWEREDGE R640      | SERVER   | VMBKUP05A                     | EVDC
+
+297                    |            |                   | 8WYXHK2                                                        | DELL          | POWEREDGE R630      | SERVER   | VMBKUP05A-OLD                 | EVDC
+
+298  00081519          | PUR0864573 | GF2GR52           | GF2GR52                                                        | DELL          | POWEREDGE R630      | SERVER   | VMBKUP06                      | EVDC
+
+299                    |            |                   | 8WYWHK2                                                        | DELL          | POWEREDGE R630      | SERVER   | VMBKUP07                      | EVDC
+
+300                    |            |                   | 14HDDW2                                                        | DELL          | POWEREDGE R640      | SERVER   | VMBKUP08A                     | EVDC
+
+301                    |            |                   | 14J7DW2                                                        | DELL          | POWEREDGE R640      | SERVER   | VMBKUP09A                     | EVDC
+
+302                    |            |                   | FC6IS160900021                                                 | EMC           | ISILON A100         | SERVER   | EVISILON01-N6                 | EVDC
+
+303                    |            |                   | MXQ93704QX                                                     | HP            | PROLIANT DL360      | SERVER   | EVCOP1                        | EVDC
+
+304                    |            |                   | MKQ93704QK                                                     | HP            | PROLIANT DL360      | SERVER   | EVCOP2                        | EVDC
+
+305                    |            |                   | MXQ93704QZ                                                     | HP            | PROLIANT DL360      | SERVER   | EVCOP3                        | EVDC
+
+306                    |            |                   | ACLGRS8                                                        | PELCO         | ENDURA NVR5124-6000 | SERVER   | POLICE VIDEO                  | EVDC
+
+307                    |            |                   | 35689 16223                                                    | QUALYS        | QUALYSGUARD         | SERVER   | QUALYS-EVANSTON               | EVDC
+
+308                    |            |                   | 9855182                                                        | CODE42        | S2-48               | STORAGE  | BACKUP3                       | EVDC
+
+309                    |            |                   | 9867182                                                        | CODE42        | S2-48               | STORAGE  | BACKUP5                       | EVDC
+
+310                    |            |                   | C7KKYV1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPDPM03-DAS03A             | EVDC
+
+311                    |            |                   | C7JMYV1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPDPM03-DAS03B             | EVDC
+
+312                    |            |                   | C7KLYV1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPDPM03-DAS03C             | EVDC
+
+313                    |            |                   | FQH4FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX01-DAS01A             | EVDC
+
+314                    |            |                   | FQG5FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX01-DAS01B             | EVDC
+
+315                    |            |                   | FQH5FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX01-DAS01C             | EVDC
+
+316                    |            |                   | FQF5FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX02-DAS02A             | EVDC
+
+317  00079107          | PUR0596893 | 36CWGX1           | 36CWGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX02-DAS02B             | EVDC
+
+318  00079108          | PUR0596893 | 36DTGX1           | 36DTGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX02-DAS02C             | EVDC
+
+319  00079105          | PUR0596893 | 36CVGX1           | 36CVGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX03-DAS03A             | EVDC
+
+320  00079106          | PUR0596893 | 36CTGX1           | 36CTGX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX03-DAS03B             | EVDC
+
+321                    |            |                   | FQF4FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX03-DAS03C             | EVDC
+
+322                    |            |                   | FQF6FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX04-DAS04A             | EVDC
+
+323                    |            |                   | FQG4FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX04-DAS04B             | EVDC
+
+324                    |            |                   | FQG6FX1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX04-DAS04C             | EVDC
+
+325  N0031600          | PUR0737189 | 4BCMV12           | 4BCMV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX05_DAS05A             | EVDC
+
+326  N0031586          | PUR0737189 | 4BCLV12           | 4BCLV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX05_DAS05B             | EVDC
+
+327  N0031590          | PUR0737189 | 4BDKV12           | 4BDKV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX05_DAS05C             | EVDC
+
+328  N0031588          | PUR0737189 | 4BCKV12           | 4BCKV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX06_DAS06A             | EVDC
+
+329  N0031589          | PUR0737189 | 4BDLV12           | 4BDLV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX06_DAS06B             | EVDC
+
+330  N0031587          | PUR0737189 | 4BDMV12           | 4BDMV12                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVCSPMBX06_DAS06C             | EVDC
+
+331  00077000          | PUR0335239 | 5MZLXQ1           | 5MZLXQ1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVDPM-DAS01A                  | EVDC
+
+332  00077001          | PUR0335239 | 5MZQXQ1           | 5MZQXQ1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVDPM-DAS01B                  | EVDC
+
+333  00077983          | PUR0423266 | 2F0ZMS1           | 2F0ZMS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | EVDPM-DAS01C                  | EVDC
+
+334  00077003          | PUR0335239 | 5MZNXQ1           | 5MZNXQ1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVDPM-DAS02A                  | EVDC
+
+335  00077002          | PUR0335239 | 5MZPXQ1           | 5MZPXQ1                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | EVDPM-DAS02B                  | EVDC
+
+336  00077985          | PUR0423266 | 2F10NS1           | 2F10NS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | EVDPM-DAS02C                  | EVDC
+
+337  00077990          | PUR0423266 | DJYYLS1           | DJYYLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | EVDPM-DAS04A                  | EVDC
+
+338  00077988          | PUR0423266 | DJZWLS1           | DJZWLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | EVDPM-DAS04B                  | EVDC
+
+339  00078003          | PUR0423266 | 2F0VMS1           | 2F0VMS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | EVDPM-DAS04C                  | EVDC
+
+340  00077989          | PUR0423266 | DJYXLS1           | DJYXLS1                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | EVDPM-DAS04D                  | EVDC
+
+341                    |            |                   | J3D6T52                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX01-DAS01              | EVDC
+
+342                    |            |                   | J3DDT52                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX01-DAS02              | EVDC
+
+343                    |            |                   | J3D9T52                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX02-DAS01              | EVDC
+
+344                    |            |                   | J3DJT52                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX02-DAS02              | EVDC
+
+345                    |            |                   | J3D8T52                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX03-DAS01              | EVDC
+
+346                    |            |                   | J3DHT52                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX03-DAS02              | EVDC
+
+347                    |            |                   | 6CSVPD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX04-DAS01              | EVDC
+
+348                    |            |                   | 6CT1QD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX04-DAS02              | EVDC
+
+349                    |            |                   | 6CSWPD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX05-DAS01              | EVDC
+
+350                    |            |                   | 6CSYPD2                                                        | DELL          | POWERVAULT MD1420   | STORAGE  | EVSPLIDX05-DAS02              | EVDC
+
+351  00080312          | PUR0695223 | 2QQ9H02           | 2QQ9H02                                                        | DELL          | POWERVAULT MD1220   | STORAGE  | EVSPLUNKDISK                  | EVDC
+
+352  00080223          | PUR0883531 | 1051V52           | 1051V52                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | VMBKUP01A-DAS                 | EVDC
+
+353  00080222          | PUR0883531 | 1050V52           | 1050V52                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | VMBKUP02A-DAS                 | EVDC
+
+354  N0031697          | PUR0883531 | 104ZT52           | 104ZT52                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | VMBKUP03A-DAS                 | EVDC
+
+355  00080221          | PUR0883531 | 104YT52           | 104YT52                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | VMBKUP04A-DAS                 | EVDC
+
+356                    |            |                   | 98GZHK2                                                        | DELL          | POWERVAULT MD1400   | STORAGE  | VMBKUP05A-DAS-OLD             | EVDC
+
+357                    |            |                   | DQYB3333                                                       | DELL          | POWERVAULT MD1400   | STORAGE  | VMBKUP05A-DAS01               | EVDC
+
+358  00081518          | PUR0864573 | D3JCR52           | D3JCR52                                                        | DELL          | POWERVAULT MD1200   | STORAGE  | VMBKUP06-DAS                  | EVDC
+
+359                    |            |                   | 98H1JK2                                                        | DELL          | POWERVAULT MD1400   | STORAGE  | VMBKUP07-DAS                  | EVDC
+
+360                    |            |                   | 15V9DW2                                                        | DELL          | MD1400              | STORAGE  | VMBKUP08A-DAS01               | EVDC
+
+361                    |            |                   | 15VBDW2                                                        | DELL          | POWERVAULT MD1400   | STORAGE  | VMBKUP09A-DAS01               | EVDC
+
+362                    |            |                   | JWXNM181900260/182800243/181900260/182800243                   | EMC           | ISILON H400         | STORAGE  | EVISILON 19  20  21  22       | EVDC
+
+363                    |            |                   | JWXNM184200947/JWXNM184200733                                  | EMC           | ISILON H400         | STORAGE  | EVISILON 23 AND 24            | EVDC
+
+364                    |            |                   | JWXNM184200734/JWXNM184200711                                  | EMC           | ISILON H400         | STORAGE  | EVISILON 27 AND 28            | EVDC
+
+365                    |            |                   | JWXNM184900865/184900841/184900903/184900874                   | EMC           | ISILON H400         | STORAGE  | EVISILON 31  32  33  34       | EVDC
+
+366                    |            |                   | JWXNM184900865/JWXNM184900841                                  | EMC           | ISILON H400         | STORAGE  | EVISILON 35 AND 36            | EVDC
+
+367                    |            |                   |                                                                | EMC           | ISILON H400         | STORAGE  | EVISILON 37  38  39  40       | EVDC
+
+368                    |            |                   |                                                                | EMC           | ISILON H400         | STORAGE  | EVISILON 37  38  39  40       | EVDC
+
+369                    |            |                   | SN400-201325-0274                                              | EMC           | ISILON X400         | STORAGE  | EVISILON01-N1                 | EVDC
+
+370                    |            |                   | SN400-201325-0275                                              | EMC           | ISILON X400         | STORAGE  | EVISILON01-N2                 | EVDC
+
+371                    |            |                   | SN400-201325-0276                                              | EMC           | ISILON X400         | STORAGE  | EVISILON01-N3                 | EVDC
+
+372                    |            |                   | SN400-301410-0305                                              | EMC           | ISILON X400         | STORAGE  | EVISILON01-N4                 | EVDC
+
+373  00079269          | PUR0967072 | SN400-301610-0046 | SN400-301610-0046                                              | EMC           | ISILON X400         | STORAGE  | EVISILON01-N5                 | EVDC
+
+374                    |            |                   | SX400-301233-0357                                              | EMC           | ISILON X400         | STORAGE  | EVISILON02-N1                 | EVDC
+
+375                    |            |                   | SX400-301243-0120                                              | EMC           | ISILON X400         | STORAGE  | EVISILON02-N2                 | EVDC
+
+376                    |            |                   | SX400-301233-0355                                              | EMC           | ISILON X400         | STORAGE  | EVISILON02-N3                 | EVDC
+
+377                    |            |                   | SX400-301409-0146                                              | EMC           | ISILON X400         | STORAGE  | EVISILON02-N4                 | EVDC
+
+378                    |            |                   | SN400-201433-0115                                              | EMC           | ISILON X400         | STORAGE  | EVISILON03-N1                 | EVDC
+
+379  N0031832          | PUR1078966 | JWXYE164600005    | JWXYE164600005                                                 | EMC           | ISILON X400         | STORAGE  | EVISILON03-N10                | EVDC
+
+380  N0031834          | PUR1078966 | JWXYE164600094    | JWXYE164600094                                                 | EMC           | ISILON X400         | STORAGE  | EVISILON03-N11                | EVDC
+
+381  N0031857          | PUR1179611 | JWXYE172200019    | JWXYE172200019                                                 | EMC           | ISILON X410         | STORAGE  | EVISILON03-N12                | EVDC
+
+382  N0031858          | PUR1179611 | JWXYE172200022    | JWXYE172200022                                                 | EMC           | ISILON X410         | STORAGE  | EVISILON03-N13                | EVDC
+
+383                    |            |                   | JWXYE172100026                                                 | EMC           | ISILON X410         | STORAGE  | EVISILON03-N14                | EVDC
+
+384  N0031860          | PUR1179611 | JWXYE172200017    | JWXYE172200017                                                 | EMC           | ISILON X410         | STORAGE  | EVISILON03-N15                | EVDC
+
+385                    |            |                   | FCNYE181400028                                                 | EMC           | ISILON X410         | STORAGE  | EVISILON03-N18                | EVDC
+
+386                    |            |                   | SN400-201433-0118                                              | EMC           | ISILON X400         | STORAGE  | EVISILON03-N2                 | EVDC
+
+387                    |            |                   | SN400-201433-0117                                              | EMC           | ISILON X400         | STORAGE  | EVISILON03-N3                 | EVDC
+
+388                    |            |                   | SN400-301525-0053                                              | EMC           | ISILON X400         | STORAGE  | EVISILON03-N4                 | EVDC
+
+389                    |            |                   | SN400-301543-0084                                              | EMC           | ISILON X400         | STORAGE  | EVISILON03-N5                 | EVDC
+
+390                    |            |                   | SN400-301546-0166                                              | EMC           | ISILON X400         | STORAGE  | EVISILON03-N6                 | EVDC
+
+391                    |            |                   | SN400-301543-0068                                              | EMC           | ISILON X400         | STORAGE  | EVISILON03-N7                 | EVDC
+
+392                    |            |                   | JAMYE162200157                                                 | EMC           | ISILON X400         | STORAGE  | EVISILON03-N8                 | EVDC
+
+393  N0031831          | PUR1078966 | JWXYE164600058    | JWXYE164600058                                                 | EMC           | ISILON X400         | STORAGE  | EVISILON03-N9                 | EVDC
+
+394                    |            |                   | 7809049                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-3-ENCL 2               | EVDC
+
+395                    |            |                   | 7809048                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-3-ENCL 3               | EVDC
+
+396                    |            |                   | 7809041                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-3-ENCL 4               | EVDC
+
+397                    |            |                   | 7809035                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-3-ENCL 5               | EVDC
+
+398                    |            |                   | 7808463                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-3MGMT                  | EVDC
+
+399                    |            |                   | 7872448                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-COLLAB-ENCL 2          | EVDC
+
+400                    |            |                   | 7872229                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-COLLAB-ENCL 3          | EVDC
+
+401                    |            |                   | 7872445                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-COLLAB-ENCL 4          | EVDC
+
+402                    |            |                   | 7875428                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-COLLAB-ENCL 5          | EVDC
+
+403                    |            |                   | 7865837                                                        | IBM           | STORWISE V3700      | STORAGE  | EV3700-COLLABMGMT             | EVDC
+
+404                    |            |                   | 781E302                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-1 20                   | EVDC
+
+405                    |            |                   | 781E680                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-1 ENCL 2               | EVDC
+
+406                    |            |                   | 781E665                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-1 ENCL 3               | EVDC
+
+407                    |            |                   | 781E632                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-1 ENCL 4               | EVDC
+
+408                    |            |                   | 781E717                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-1 ENCL 6               | EVDC
+
+409                    |            |                   | 781E741                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-1 ENCL 7               | EVDC
+
+410                    |            |                   | 781E814                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-1MGMT                  | EVDC
+
+411                    |            |                   | 781E300                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-2 10                   | EVDC
+
+412                    |            |                   | 781E716                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-2 ENCL 2               | EVDC
+
+413                    |            |                   | 781E684                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-2 ENCL 3               | EVDC
+
+414                    |            |                   | 781E700                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-2 ENCL 4               | EVDC
+
+415                    |            |                   | 781E685                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-2 ENCL 5               | EVDC
+
+416                    |            |                   | 781E707                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-2 ENCL 6               | EVDC
+
+417                    |            |                   | 781E803                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-2MGMT                  | EVDC
+
+418  00088057          | PUR1331898 | 781BW72           | 781BW72                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-1MGMT          | EVDC
+
+419                    |            |                   | 781BP53                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-ENCL1          | EVDC
+
+420                    |            |                   | 781BR46                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-ENCL2          | EVDC
+
+421                    |            |                   | 781BP99                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-ENCL3          | EVDC
+
+422                    |            |                   | 781BR11                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-ENCL4          | EVDC
+
+423                    |            |                   | 781BR43                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-ENCL5          | EVDC
+
+424                    |            |                   | 781BP94                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-ENCL6          | EVDC
+
+425                    |            |                   | 781BP94                                                        | IBM           | STORWISE V5030      | STORAGE  | EV5030-NUCLOUD-ENCL7          | EVDC
+
+426                    |            |                   | MT1127X00447                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | EVISILON01-IB-1               | EVDC
+
+427                    |            |                   | MT1127X00428                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | EVISILON01-IB-2               | EVDC
+
+428                    |            |                   | MT1236X02134                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | EVISILON02-IB-1               | EVDC
+
+429                    |            |                   | M71234X02260                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | EVISILON02-IB-2               | EVDC
+
+430                    |            |                   | MT1751K21082                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | EVISILON03-IB-1 (36)          | EVDC
+
+431                    |            |                   | MT1751K21088                                                   | MELLANOX      | IS 5022 DEVICE      | STORAGE  | EVISILON03-IB-2 (36)          | EVDC
+
+432                    |            |                   |                                                                | PROE HARDWARE | PRO472              | STORAGE  | BACKUP2 MASTER                | EVDC
+
+433                    |            |                   |                                                                | PROE HARDWARE | PRO472              | STORAGE  | BACKUP2 MASTER                | EVDC
+
+434                    |            |                   | AAG2915005018                                                  | PROE HARDWARE | PRO490              | STORAGE  | BACKUP2 SLAVE                 | EVDC
+
+435 (432 rows)
+
+436 
+
