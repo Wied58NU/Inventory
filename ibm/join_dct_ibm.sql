@@ -8,7 +8,7 @@ SELECT d.vendor AS dct_make,
        i. contract_nbr
 FROM dct d
 LEFT JOIN ibm i on d.serial_number = i.serial_nbr
-WHERE d.type in ('SERVER','STORAGE')
+WHERE d.type in ('SERVER','STORAGE','TAPE')
 AND d.vendor = 'IBM'
 ORDER BY d.type,
          d.vendor,

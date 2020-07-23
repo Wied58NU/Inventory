@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # database stuff
-import psycopg2
+#import psycopg2
 from sqlalchemy import create_engine
 from sqlalchemy.types import String
 
@@ -50,10 +50,10 @@ engine = create_engine('postgresql://localhost/jeffreywiedemann')
 dct.to_sql('dct_stage', engine, if_exists='replace', index=False, dtype={"NAME": String(), "MAKE": String(), "TYPE": String(), "FUNCTION": String(), "CONTACT": String(), "CONTACT_TEAM": String(), "CUSTOMER": String(), "LAST_UPDATED_ON": String(), "TECHNICAL_CONTACT": String(), "INSTALLATION_DATE": String(), "DECOMMISSION_TICKET": String(), "LOCATION": String(), "CABINET": String(),})
 
 # Rename Columns to match NU Invenentory 
-engine.execute("ALTER TABLE dct_stage RENAME make TO vendor")
+engine.execute("ALTER TABLE dct_stage RENAME make TO manufacturer")
 
-engine.execute("ALTER TABLE dct_stage RENAME contact_team TO Service_Owner_Department")
+engine.execute("ALTER TABLE dct_stage RENAME contact_team TO Owner_Department")
 
-engine.execute("ALTER TABLE dct_stage RENAME customer TO Service_Owner_Contact")
+engine.execute("ALTER TABLE dct_stage RENAME customer TO Owner_Contact")
 
 engine.execute("ALTER TABLE dct_stage RENAME last_updated_on TO Date_of_Last_Record_Verification")

@@ -1,4 +1,5 @@
 
+insert into cabinet_functions values('EVDC','F29','ADMIN');
 insert into cabinet_functions values('EVDC','P43','ADMIN');
 insert into cabinet_functions values('EVDC','Q43','ADMIN');
 insert into cabinet_functions values('EVDC','R43','ADMIN');
