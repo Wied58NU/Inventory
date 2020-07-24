@@ -31,7 +31,7 @@ fin_ops.columns = map(str.lower, fin_ops.columns)
 
 
 # Keep only the columns we want and set their order
-fin_ops = fin_ops[['tag', 'description', 'purchase_date','acquisition_date_fy', 'manufacturer', 'model', 'serial', 'campus', 'department', 'department_description', 'building', 'building_name','room', 'name', 'purchase', 'po', 'chartstring', ]]
+fin_ops = fin_ops[['tag', 'description', 'purchase_date','acquisition_date_fy', 'manufacturer', 'model', 'serial', 'campus', 'department', 'department_description', 'building', 'building_name','room', 'name', 'po', 'chartstring', ]]
 
 
 #Convert all data fields to upper case
@@ -43,7 +43,8 @@ fin_ops.to_csv('out_fin_opsrack.csv', index=False)
 
 # connect to PostgreSQL DB - Yes, that is a password in plain text. 
 #engine = create_engine('postgresql://wied:wied@localhost:5432/jeffreywiedemann')
-engine = create_engine('postgresql://localhost/jeffreywiedemann')
+#engine = create_engine('postgresql://localhost/jeffreywiedemann')
+engine = create_engine('postgresql://invowner:inventory@localhost:5432/inventory')
 
 fin_ops.to_sql('fin_ops_stage', engine, if_exists='replace', index=False, dtype={"Tag": String(), "Description": String(), "Purchase_Date','Acquisition_Date_FY": String(), "Manufacturer": String(), "Model": String(), "Serial": String(), "Campus": String(), "Department": String(), "Department_Description": String(), "Building": String(), "Building_Name','Room": String(), "Name": String(), "Purchase": String(), "PO": String(), "Chartstring": String(),})
 

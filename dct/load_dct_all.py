@@ -26,7 +26,7 @@ dct.columns = map(str.lower, dct.columns)
 dct = dct.replace(',',' ', regex=True)
 
 # Keep only the columns we want and set their order
-dct = dct[['name', 'make', 'type' ,'serial_number', 'model', 'function', 'contact', 'contact_team', 'customer', 'last_updated_on', 'technical_contact', 'installation_date','installation_ticket', 'decommission_ticket', 'location', 'cabinet']]
+dct = dct[['name','type','make','model','serial_number','ip_address','business_service','function','standard_category','contact_team','customer','technical_contact','last_updated_on','installation_ticket','decommission_ticket','location','cabinet' ]]
 
 #Convert all data fields to upper case
 dct = dct.apply(lambda x: x.astype(str).str.upper())
@@ -35,8 +35,7 @@ dct = dct.apply(lambda x: x.astype(str).str.upper())
 dct.to_csv('out_dctrack.csv', index=False)
 
 # connect to PostgreSQL DB - Yes, that is a password in plain text. 
-#engine = create_engine('postgresql://wied:wied@localhost:5432/jeffreywiedemann')
-engine = create_engine('postgresql://localhost/jeffreywiedemann')
+engine = create_engine('postgresql://invowner:inventory@localhost:5432/inventory')
 
 # we don't need this anymore because is_exist now is set to replace as opposed to append 
 # but it's a good example, so I'll keep it. 
@@ -47,13 +46,24 @@ engine = create_engine('postgresql://localhost/jeffreywiedemann')
 # dict([(v, dct[v].apply(lambda r: len(str(r)) if r!=None else 0).max())for v in dct.columns.values])
 
 # Create a table and load the data frame into it. if_exist could also be append, but we don't want that here!
-dct.to_sql('dct_stage', engine, if_exists='replace', index=False, dtype={"NAME": String(), "MAKE": String(), "TYPE": String(), "FUNCTION": String(), "CONTACT": String(), "CONTACT_TEAM": String(), "CUSTOMER": String(), "LAST_UPDATED_ON": String(), "TECHNICAL_CONTACT": String(), "INSTALLATION_DATE": String(), "DECOMMISSION_TICKET": String(), "LOCATION": String(), "CABINET": String(),})
+dct.to_sql('dct_stage', engine, if_exists='replace', index=False, dtype={"NAME": String(), "TYPE": String(), "MAKE": String(), "MODEL": String(), "SERIAL_NUMBER": String(), "IP_ADDRESS": String(), "BUSINESS_SERVICE": String(), "FUNCTION": String(), "STANDARD_CATEGORY": String(), "CONTACT_TEAM": String(), "CUSTOMER": String(), "TECHNICAL_CONTACT": String(), "LAST_UPDATED_ON": String(), "INSTALLATION_TICKET": String(), "DECOMMISSION_TICKET": String(), "LOCATION": String(), "CABINET": String(),})
+
+# get rid of non CI Assets
+engine.execute("DELETE  FROM    dct_stage AS gc WHERE   cabinet NOT IN ( SELECT  cabinet FROM    cabinet_functions WHERE function = 'ADMIN')")
 
 # Rename Columns to match NU Invenentory 
+engine.execute("ALTER TABLE dct_stage RENAME name TO asset_name")
+
+engine.execute("ALTER TABLE dct_stage RENAME type TO asset_type")
+
 engine.execute("ALTER TABLE dct_stage RENAME make TO manufacturer")
 
-engine.execute("ALTER TABLE dct_stage RENAME contact_team TO Owner_Department")
+engine.execute("ALTER TABLE dct_stage RENAME function TO asset_fucntion")
 
-engine.execute("ALTER TABLE dct_stage RENAME customer TO Owner_Contact")
+engine.execute("ALTER TABLE dct_stage RENAME standard_category TO support_model")
 
-engine.execute("ALTER TABLE dct_stage RENAME last_updated_on TO Date_of_Last_Record_Verification")
+engine.execute("ALTER TABLE dct_stage RENAME contact_team TO owner_department")
+
+engine.execute("ALTER TABLE dct_stage RENAME customer TO owner_contact")
+
+engine.execute("ALTER TABLE dct_stage RENAME last_updated_on TO date_of_last_record_verification")

@@ -1,38 +1,20 @@
-create table dct
-(Location		varchar (50),
-Class		varchar (50),
-Status		varchar (50),
-Name		varchar (60),
-Make		varchar (50),
-Model		varchar (60),
-Cabinet		varchar (50),
-IPAddress		varchar (50),
-SerialNumber		varchar (75),
-Type		varchar (50),
-Function		varchar (50),
-Contact		varchar (50),
-ContactTeam		varchar (50),
-Customer		varchar (100),
-RUs		varchar (50),
-PurchaseDate		varchar (50),
-InstallationDate		varchar (50),
-ContractNumber		varchar (50),
-ContractEndDate		varchar (50),
-LastUpdatedOn		varchar (50),
-LastUpdatedBy		varchar (50),
-FYSupportEndDate		varchar (50),
-ServiceProvider		varchar (50),
-StandardApplication		varchar (50),
-TechnicalContact		varchar (80),
-StandardUnit		varchar (50),
-StandardLevel		varchar (50),
-StandardContact		varchar (50),
-Chartstring		varchar (50),
-InstallationTicket		varchar (50),
-DecommissionTicket		varchar (50),
-StandardContactNetId		varchar (50),
-BusinessService		varchar (80),
-NUEndofLife		varchar (50),
-VendorEndofLife		varchar (50),
-StandardCategory		varchar (50))
+drop table dct;
+CREATE TABLE dct AS
+SELECT d.name,
+       d.vendor,
+       d.type,
+       d.model,
+       d.serial_number,
+       d.location,
+       d.cabinet,
+       c.function
+FROM dct_stage d
+LEFT JOIN cabinet_functions c ON d.cabinet = c.cabinet
+WHERE c.function = 'ADMIN'
+ORDER BY d.type,
+         d.vendor,
+         d.name,
+         d.location,
+         d.cabinet;
+
 

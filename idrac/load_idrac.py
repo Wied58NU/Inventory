@@ -38,7 +38,8 @@ idrac.to_csv('out_cmd.csv', index=False)
 
 # connect to PostgreSQL DB - Yes, that is a password in plain text. 
 # engine = create_engine('postgresql://wied:wied@localhost:5432/jeffreywiedemann')
-engine = create_engine('postgresql://localhost/jeffreywiedemann')
+#engine = create_engine('postgresql://localhost/jeffreywiedemann')
+engine = create_engine('postgresql://invowner:inventory@localhost:5432/inventory')
 
 # we don't need this anymore because is_exist now is set to replace as opposed to append 
 # but it's a good example, so I'll keep it. 

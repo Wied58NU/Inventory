@@ -42,8 +42,9 @@ ibm.to_csv('out_ibm.csv', index=False)
 
 # connect to PostgreSQL DB - Yes, that is a password in plain text. 
 #engine = create_engine('postgresql://wied:wied@localhost:5432/jeffreywiedemann')
-engine = create_engine('postgresql://localhost/jeffreywiedemann')
+#engine = create_engine('postgresql://localhost/jeffreywiedemann')
 
+engine = create_engine('postgresql://invowner:inventory@localhost:5432/inventory')
 ibm.to_sql('ibm_stage', engine, if_exists='replace', index=False, dtype={"serial_nbr": String(), "service_end_date": String(), "contract_nbr": String() ,})
 
 # Rename Columns to match NU Invenentory 
